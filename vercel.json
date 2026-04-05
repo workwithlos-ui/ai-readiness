@@ -1,1 +1,10 @@
-{"data":"ewogICJidWlsZENvbW1hbmQiOiAicG5wbSBydW4gYnVpbGQiLAogICJvdXRwdXREaXJlY3RvcnkiOiAiZGlzdC9wdWJsaWMiLAogICJpbnN0YWxsQ29tbWFuZCI6ICJwbnBtIGluc3RhbGwiLAogICJmcmFtZXdvcmsiOiBudWxsLAogICJyZXdyaXRlcyI6IFsKICAgIHsgInNvdXJjZSI6ICIvYXBpLyguKikiLCAiZGVzdGluYXRpb24iOiAiL2FwaS8kMSIgfSwKICAgIHsgInNvdXJjZSI6ICIvKC4qKSIsICJkZXN0aW5hdGlvbiI6ICIvaW5kZXguaHRtbCIgfQogIF0KfQo="}
+{
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist/public",
+  "installCommand": "pnpm install",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/$1" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
