@@ -1,1 +1,188 @@
-{"data":"aW1wb3J0IHsganN4TG9jUGx1Z2luIH0gZnJvbSAiQGJ1aWxkZXIuaW8vdml0ZS1wbHVnaW4tanN4LWxvYyI7CmltcG9ydCB0YWlsd2luZGNzcyBmcm9tICJAdGFpbHdpbmRjc3Mvdml0ZSI7CmltcG9ydCByZWFjdCBmcm9tICJAdml0ZWpzL3BsdWdpbi1yZWFjdCI7CmltcG9ydCBmcyBmcm9tICJub2RlOmZzIjsKaW1wb3J0IHBhdGggZnJvbSAibm9kZTpwYXRoIjsKaW1wb3J0IHsgZGVmaW5lQ29uZmlnLCB0eXBlIFBsdWdpbiwgdHlwZSBWaXRlRGV2U2VydmVyIH0gZnJvbSAidml0ZSI7CmltcG9ydCB7IHZpdGVQbHVnaW5NYW51c1J1bnRpbWUgfSBmcm9tICJ2aXRlLXBsdWdpbi1tYW51cy1ydW50aW1lIjsKCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIE1hbnVzIERlYnVnIENvbGxlY3RvciAtIFZpdGUgUGx1Z2luCi8vIFdyaXRlcyBicm93c2VyIGxvZ3MgZGlyZWN0bHkgdG8gZmlsZXMsIHRyaW1tZWQgd2hlbiBleGNlZWRpbmcgc2l6ZSBsaW1pdAovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKY29uc3QgUFJPSkVDVF9ST09UID0gaW1wb3J0Lm1ldGEuZGlybmFtZTsKY29uc3QgTE9HX0RJUiA9IHBhdGguam9pbihQUk9KRUNUX1JPT1QsICIubWFudXMtbG9ncyIpOwpjb25zdCBNQVhfTE9HX1NJWkVfQllURVMgPSAxICogMTAyNCAqIDEwMjQ7IC8vIDFNQiBwZXIgbG9nIGZpbGUKY29uc3QgVFJJTV9UQVJHRVRfQllURVMgPSBNYXRoLmZsb29yKE1BWF9MT0dfU0laRV9CWVRFUyAqIDAuNik7IC8vIFRyaW0gdG8gNjAlIHRvIGF2b2lkIGNvbnN0YW50IHJlLXRyaW1taW5nCgp0eXBlIExvZ1NvdXJjZSA9ICJicm93c2VyQ29uc29sZSIgfCAibmV0d29ya1JlcXVlc3RzIiB8ICJzZXNzaW9uUmVwbGF5IjsKCmZ1bmN0aW9uIGVuc3VyZUxvZ0RpcigpIHsKICBpZiAoIWZzLmV4aXN0c1N5bmMoTE9HX0RJUikpIHsKICAgIGZzLm1rZGlyU3luYyhMT0dfRElSLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICB9Cn0KCmZ1bmN0aW9uIHRyaW1Mb2dGaWxlKGxvZ1BhdGg6IHN0cmluZywgbWF4U2l6ZTogbnVtYmVyKSB7CiAgdHJ5IHsKICAgIGlmICghZnMuZXhpc3RzU3luYyhsb2dQYXRoKSB8fCBmcy5zdGF0U3luYyhsb2dQYXRoKS5zaXplIDw9IG1heFNpemUpIHsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGNvbnN0IGxpbmVzID0gZnMucmVhZEZpbGVTeW5jKGxvZ1BhdGgsICJ1dGYtOCIpLnNwbGl0KCJcbiIpOwogICAgY29uc3Qga2VwdExpbmVzOiBzdHJpbmdbXSA9IFtdOwogICAgbGV0IGtlcHRCeXRlcyA9IDA7CgogICAgLy8gS2VlcCBuZXdlc3QgbGluZXMgKGZyb20gZW5kKSB0aGF0IGZpdCB3aXRoaW4gNjAlIG9mIG1heFNpemUKICAgIGNvbnN0IHRhcmdldFNpemUgPSBUUklNX1RBUkdFVF9CWVRFUzsKICAgIGZvciAobGV0IGkgPSBsaW5lcy5sZW5ndGggLSAxOyBpID49IDA7IGktLSkgewogICAgICBjb25zdCBsaW5lQnl0ZXMgPSBCdWZmZXIuYnl0ZUxlbmd0aChgJHtsaW5lc1tpXX1cbmAsICJ1dGYtOCIpOwogICAgICBpZiAoa2VwdEJ5dGVzICsgbGluZUJ5dGVzID4gdGFyZ2V0U2l6ZSkgYnJlYWs7CiAgICAgIGtlcHRMaW5lcy51bnNoaWZ0KGxpbmVzW2ldKTsKICAgICAga2VwdEJ5dGVzICs9IGxpbmVCeXRlczsKICAgIH0KCiAgICBmcy53cml0ZUZpbGVTeW5jKGxvZ1BhdGgsIGtlcHRMaW5lcy5qb2luKCJcbiIpLCAidXRmLTgiKTsKICB9IGNhdGNoIHsKICAgIC8qIGlnbm9yZSB0cmltIGVycm9ycyAqLwogIH0KfQoKZnVuY3Rpb24gd3JpdGVUb0xvZ0ZpbGUoc291cmNlOiBMb2dTb3VyY2UsIGVudHJpZXM6IHVua25vd25bXSkgewogIGlmIChlbnRyaWVzLmxlbmd0aCA9PT0gMCkgcmV0dXJuOwoKICBlbnN1cmVMb2dEaXIoKTsKICBjb25zdCBsb2dQYXRoID0gcGF0aC5qb2luKExPR19ESVIsIGAke3NvdXJjZX0ubG9nYCk7CgogIC8vIEZvcm1hdCBlbnRyaWVzIHdpdGggdGltZXN0YW1wcwogIGNvbnN0IGxpbmVzID0gZW50cmllcy5tYXAoKGVudHJ5KSA9PiB7CiAgICBjb25zdCB0cyA9IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKTsKICAgIHJldHVybiBgWyR7dHN9XSAke0pTT04uc3RyaW5naWZ5KGVudHJ5KX1gOwogIH0pOwoKICAvLyBBcHBlbmQgdG8gbG9nIGZpbGUKICBmcy5hcHBlbmRGaWxlU3luYyhsb2dQYXRoLCBgJHtsaW5lcy5qb2luKCJcbiIpfVxuYCwgInV0Zi04Iik7CgogIC8vIFRyaW0gaWYgZXhjZWVkcyBtYXggc2l6ZQogIHRyaW1Mb2dGaWxlKGxvZ1BhdGgsIE1BWF9MT0dfU0laRV9CWVRFUyk7Cn0KCi8qKgogKiBWaXRlIHBsdWdpbiB0byBjb2xsZWN0IGJyb3dzZXIgZGVidWcgbG9ncwogKiAtIFBPU1QgL19fbWFudXNfXy9sb2dzOiBCcm93c2VyIHNlbmRzIGxvZ3MsIHdyaXR0ZW4gZGlyZWN0bHkgdG8gZmlsZXMKICogLSBGaWxlczogYnJvd3NlckNvbnNvbGUubG9nLCBuZXR3b3JrUmVxdWVzdHMubG9nLCBzZXNzaW9uUmVwbGF5LmxvZwogKiAtIEF1dG8tdHJpbW1lZCB3aGVuIGV4Y2VlZGluZyAxTUIgKGtlZXBzIG5ld2VzdCBlbnRyaWVzKQogKi8KZnVuY3Rpb24gdml0ZVBsdWdpbk1hbnVzRGVidWdDb2xsZWN0b3IoKTogUGx1Z2luIHsKICByZXR1cm4gewogICAgbmFtZTogIm1hbnVzLWRlYnVnLWNvbGxlY3RvciIsCgogICAgdHJhbnNmb3JtSW5kZXhIdG1sKGh0bWwpIHsKICAgICAgaWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAicHJvZHVjdGlvbiIpIHsKICAgICAgICByZXR1cm4gaHRtbDsKICAgICAgfQogICAgICByZXR1cm4gewogICAgICAgIGh0bWwsCiAgICAgICAgdGFnczogWwogICAgICAgICAgewogICAgICAgICAgICB0YWc6ICJzY3JpcHQiLAogICAgICAgICAgICBhdHRyczogewogICAgICAgICAgICAgIHNyYzogIi9fX21hbnVzX18vZGVidWctY29sbGVjdG9yLmpzIiwKICAgICAgICAgICAgICBkZWZlcjogdHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgaW5qZWN0VG86ICJoZWFkIiwKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgfTsKICAgIH0sCgogICAgY29uZmlndXJlU2VydmVyKHNlcnZlcjogVml0ZURldlNlcnZlcikgewogICAgICAvLyBQT1NUIC9fX21hbnVzX18vbG9nczogQnJvd3NlciBzZW5kcyBsb2dzICh3cml0dGVuIGRpcmVjdGx5IHRvIGZpbGVzKQogICAgICBzZXJ2ZXIubWlkZGxld2FyZXMudXNlKCIvX19tYW51c19fL2xvZ3MiLCAocmVxLCByZXMsIG5leHQpID0+IHsKICAgICAgICBpZiAocmVxLm1ldGhvZCAhPT0gIlBPU1QiKSB7CiAgICAgICAgICByZXR1cm4gbmV4dCgpOwogICAgICAgIH0KCiAgICAgICAgY29uc3QgaGFuZGxlUGF5bG9hZCA9IChwYXlsb2FkOiBhbnkpID0+IHsKICAgICAgICAgIC8vIFdyaXRlIGxvZ3MgZGlyZWN0bHkgdG8gZmlsZXMKICAgICAgICAgIGlmIChwYXlsb2FkLmNvbnNvbGVMb2dzPy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIHdyaXRlVG9Mb2dGaWxlKCJicm93c2VyQ29uc29sZSIsIHBheWxvYWQuY29uc29sZUxvZ3MpOwogICAgICAgICAgfQogICAgICAgICAgaWYgKHBheWxvYWQubmV0d29ya1JlcXVlc3RzPy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIHdyaXRlVG9Mb2dGaWxlKCJuZXR3b3JrUmVxdWVzdHMiLCBwYXlsb2FkLm5ldHdvcmtSZXF1ZXN0cyk7CiAgICAgICAgICB9CiAgICAgICAgICBpZiAocGF5bG9hZC5zZXNzaW9uRXZlbnRzPy5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgIHdyaXRlVG9Mb2dGaWxlKCJzZXNzaW9uUmVwbGF5IiwgcGF5bG9hZC5zZXNzaW9uRXZlbnRzKTsKICAgICAgICAgIH0KCiAgICAgICAgICByZXMud3JpdGVIZWFkKDIwMCwgeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0pOwogICAgICAgICAgcmVzLmVuZChKU09OLnN0cmluZ2lmeSh7IHN1Y2Nlc3M6IHRydWUgfSkpOwogICAgICAgIH07CgogICAgICAgIGNvbnN0IHJlcUJvZHkgPSAocmVxIGFzIHsgYm9keT86IHVua25vd24gfSkuYm9keTsKICAgICAgICBpZiAocmVxQm9keSAmJiB0eXBlb2YgcmVxQm9keSA9PT0gIm9iamVjdCIpIHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIGhhbmRsZVBheWxvYWQocmVxQm9keSk7CiAgICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIHJlcy53cml0ZUhlYWQoNDAwLCB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfSk7CiAgICAgICAgICAgIHJlcy5lbmQoSlNPTi5zdHJpbmdpZnkoeyBzdWNjZXNzOiBmYWxzZSwgZXJyb3I6IFN0cmluZyhlKSB9KSk7CiAgICAgICAgICB9CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBsZXQgYm9keSA9ICIiOwogICAgICAgIHJlcS5vbigiZGF0YSIsIChjaHVuaykgPT4gewogICAgICAgICAgYm9keSArPSBjaHVuay50b1N0cmluZygpOwogICAgICAgIH0pOwoKICAgICAgICByZXEub24oImVuZCIsICgpID0+IHsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHBheWxvYWQgPSBKU09OLnBhcnNlKGJvZHkpOwogICAgICAgICAgICBoYW5kbGVQYXlsb2FkKHBheWxvYWQpOwogICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICByZXMud3JpdGVIZWFkKDQwMCwgeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0pOwogICAgICAgICAgICByZXMuZW5kKEpTT04uc3RyaW5naWZ5KHsgc3VjY2VzczogZmFsc2UsIGVycm9yOiBTdHJpbmcoZSkgfSkpOwogICAgICAgICAgfQogICAgICAgIH0pOwogICAgICB9KTsKICAgIH0sCiAgfTsKfQoKY29uc3QgcGx1Z2lucyA9IFtyZWFjdCgpLCB0YWlsd2luZGNzcygpLCBqc3hMb2NQbHVnaW4oKSwgdml0ZVBsdWdpbk1hbnVzUnVudGltZSgpLCB2aXRlUGx1Z2luTWFudXNEZWJ1Z0NvbGxlY3RvcigpXTsKCmV4cG9ydCBkZWZhdWx0IGRlZmluZUNvbmZpZyh7CiAgcGx1Z2lucywKICByZXNvbHZlOiB7CiAgICBhbGlhczogewogICAgICAiQCI6IHBhdGgucmVzb2x2ZShpbXBvcnQubWV0YS5kaXJuYW1lLCAiY2xpZW50IiwgInNyYyIpLAogICAgICAiQHNoYXJlZCI6IHBhdGgucmVzb2x2ZShpbXBvcnQubWV0YS5kaXJuYW1lLCAic2hhcmVkIiksCiAgICAgICJAYXNzZXRzIjogcGF0aC5yZXNvbHZlKGltcG9ydC5tZXRhLmRpcm5hbWUsICJhdHRhY2hlZF9hc3NldHMiKSwKICAgIH0sCiAgfSwKICBlbnZEaXI6IHBhdGgucmVzb2x2ZShpbXBvcnQubWV0YS5kaXJuYW1lKSwKICByb290OiBwYXRoLnJlc29sdmUoaW1wb3J0Lm1ldGEuZGlybmFtZSwgImNsaWVudCIpLAogIGJ1aWxkOiB7CiAgICBvdXREaXI6IHBhdGgucmVzb2x2ZShpbXBvcnQubWV0YS5kaXJuYW1lLCAiZGlzdC9wdWJsaWMiKSwKICAgIGVtcHR5T3V0RGlyOiB0cnVlLAogIH0sCiAgc2VydmVyOiB7CiAgICBwb3J0OiAzMDAwLAogICAgc3RyaWN0UG9ydDogZmFsc2UsIC8vIFdpbGwgZmluZCBuZXh0IGF2YWlsYWJsZSBwb3J0IGlmIDMwMDAgaXMgYnVzeQogICAgaG9zdDogdHJ1ZSwKICAgIGFsbG93ZWRIb3N0czogWwogICAgICAiLm1hbnVzcHJlLmNvbXB1dGVyIiwKICAgICAgIi5tYW51cy5jb21wdXRlciIsCiAgICAgICIubWFudXMtYXNpYS5jb21wdXRlciIsCiAgICAgICIubWFudXNjb21wdXRlci5haSIsCiAgICAgICIubWFudXN2bS5jb21wdXRlciIsCiAgICAgICJsb2NhbGhvc3QiLAogICAgICAiMTI3LjAuMC4xIiwKICAgIF0sCiAgICBmczogewogICAgICBzdHJpY3Q6IHRydWUsCiAgICAgIGRlbnk6IFsiKiovLioiXSwKICAgIH0sCiAgfSwKfSk7Cg=="}
+import { jsxLocPlugin } from "@builder.io/vite-plugin-jsx-loc";
+import tailwindcss from "@tailwindcss/vite";
+import react from "@vitejs/plugin-react";
+import fs from "node:fs";
+import path from "node:path";
+import { defineConfig, type Plugin, type ViteDevServer } from "vite";
+import { vitePluginManusRuntime } from "vite-plugin-manus-runtime";
+
+// =============================================================================
+// Manus Debug Collector - Vite Plugin
+// Writes browser logs directly to files, trimmed when exceeding size limit
+// =============================================================================
+
+const PROJECT_ROOT = import.meta.dirname;
+const LOG_DIR = path.join(PROJECT_ROOT, ".manus-logs");
+const MAX_LOG_SIZE_BYTES = 1 * 1024 * 1024; // 1MB per log file
+const TRIM_TARGET_BYTES = Math.floor(MAX_LOG_SIZE_BYTES * 0.6); // Trim to 60% to avoid constant re-trimming
+
+type LogSource = "browserConsole" | "networkRequests" | "sessionReplay";
+
+function ensureLogDir() {
+  if (!fs.existsSync(LOG_DIR)) {
+    fs.mkdirSync(LOG_DIR, { recursive: true });
+  }
+}
+
+function trimLogFile(logPath: string, maxSize: number) {
+  try {
+    if (!fs.existsSync(logPath) || fs.statSync(logPath).size <= maxSize) {
+      return;
+    }
+
+    const lines = fs.readFileSync(logPath, "utf-8").split("\n");
+    const keptLines: string[] = [];
+    let keptBytes = 0;
+
+    // Keep newest lines (from end) that fit within 60% of maxSize
+    const targetSize = TRIM_TARGET_BYTES;
+    for (let i = lines.length - 1; i >= 0; i--) {
+      const lineBytes = Buffer.byteLength(`${lines[i]}\n`, "utf-8");
+      if (keptBytes + lineBytes > targetSize) break;
+      keptLines.unshift(lines[i]);
+      keptBytes += lineBytes;
+    }
+
+    fs.writeFileSync(logPath, keptLines.join("\n"), "utf-8");
+  } catch {
+    /* ignore trim errors */
+  }
+}
+
+function writeToLogFile(source: LogSource, entries: unknown[]) {
+  if (entries.length === 0) return;
+
+  ensureLogDir();
+  const logPath = path.join(LOG_DIR, `${source}.log`);
+
+  // Format entries with timestamps
+  const lines = entries.map((entry) => {
+    const ts = new Date().toISOString();
+    return `[${ts}] ${JSON.stringify(entry)}`;
+  });
+
+  // Append to log file
+  fs.appendFileSync(logPath, `${lines.join("\n")}\n`, "utf-8");
+
+  // Trim if exceeds max size
+  trimLogFile(logPath, MAX_LOG_SIZE_BYTES);
+}
+
+/**
+ * Vite plugin to collect browser debug logs
+ * - POST /__manus__/logs: Browser sends logs, written directly to files
+ * - Files: browserConsole.log, networkRequests.log, sessionReplay.log
+ * - Auto-trimmed when exceeding 1MB (keeps newest entries)
+ */
+function vitePluginManusDebugCollector(): Plugin {
+  return {
+    name: "manus-debug-collector",
+
+    transformIndexHtml(html) {
+      if (process.env.NODE_ENV === "production") {
+        return html;
+      }
+      return {
+        html,
+        tags: [
+          {
+            tag: "script",
+            attrs: {
+              src: "/__manus__/debug-collector.js",
+              defer: true,
+            },
+            injectTo: "head",
+          },
+        ],
+      };
+    },
+
+    configureServer(server: ViteDevServer) {
+      // POST /__manus__/logs: Browser sends logs (written directly to files)
+      server.middlewares.use("/__manus__/logs", (req, res, next) => {
+        if (req.method !== "POST") {
+          return next();
+        }
+
+        const handlePayload = (payload: any) => {
+          // Write logs directly to files
+          if (payload.consoleLogs?.length > 0) {
+            writeToLogFile("browserConsole", payload.consoleLogs);
+          }
+          if (payload.networkRequests?.length > 0) {
+            writeToLogFile("networkRequests", payload.networkRequests);
+          }
+          if (payload.sessionEvents?.length > 0) {
+            writeToLogFile("sessionReplay", payload.sessionEvents);
+          }
+
+          res.writeHead(200, { "Content-Type": "application/json" });
+          res.end(JSON.stringify({ success: true }));
+        };
+
+        const reqBody = (req as { body?: unknown }).body;
+        if (reqBody && typeof reqBody === "object") {
+          try {
+            handlePayload(reqBody);
+          } catch (e) {
+            res.writeHead(400, { "Content-Type": "application/json" });
+            res.end(JSON.stringify({ success: false, error: String(e) }));
+          }
+          return;
+        }
+
+        let body = "";
+        req.on("data", (chunk) => {
+          body += chunk.toString();
+        });
+
+        req.on("end", () => {
+          try {
+            const payload = JSON.parse(body);
+            handlePayload(payload);
+          } catch (e) {
+            res.writeHead(400, { "Content-Type": "application/json" });
+            res.end(JSON.stringify({ success: false, error: String(e) }));
+          }
+        });
+      });
+    },
+  };
+}
+
+const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime(), vitePluginManusDebugCollector()];
+
+export default defineConfig({
+  plugins,
+  resolve: {
+    alias: {
+      "@": path.resolve(import.meta.dirname, "client", "src"),
+      "@shared": path.resolve(import.meta.dirname, "shared"),
+      "@assets": path.resolve(import.meta.dirname, "attached_assets"),
+    },
+  },
+  envDir: path.resolve(import.meta.dirname),
+  root: path.resolve(import.meta.dirname, "client"),
+  build: {
+    outDir: path.resolve(import.meta.dirname, "dist/public"),
+    emptyOutDir: true,
+  },
+  server: {
+    port: 3000,
+    strictPort: false, // Will find next available port if 3000 is busy
+    host: true,
+    allowedHosts: [
+      ".manuspre.computer",
+      ".manus.computer",
+      ".manus-asia.computer",
+      ".manuscomputer.ai",
+      ".manusvm.computer",
+      "localhost",
+      "127.0.0.1",
+    ],
+    fs: {
+      strict: true,
+      deny: ["**/.*"],
+    },
+  },
+});

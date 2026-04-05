@@ -1,1 +1,70 @@
-{"data":"aW1wb3J0IHsgdXNlRGlhbG9nQ29tcG9zaXRpb24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKaW1wb3J0IHsgdXNlQ29tcG9zaXRpb24gfSBmcm9tICJAL2hvb2tzL3VzZUNvbXBvc2l0aW9uIjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CmltcG9ydCAqIGFzIFJlYWN0IGZyb20gInJlYWN0IjsKCmZ1bmN0aW9uIElucHV0KHsKICBjbGFzc05hbWUsCiAgdHlwZSwKICBvbktleURvd24sCiAgb25Db21wb3NpdGlvblN0YXJ0LAogIG9uQ29tcG9zaXRpb25FbmQsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImlucHV0Ij4pIHsKICAvLyBHZXQgZGlhbG9nIGNvbXBvc2l0aW9uIGNvbnRleHQgaWYgYXZhaWxhYmxlICh3aWxsIGJlIG5vLW9wIGlmIG5vdCBpbnNpZGUgRGlhbG9nKQogIGNvbnN0IGRpYWxvZ0NvbXBvc2l0aW9uID0gdXNlRGlhbG9nQ29tcG9zaXRpb24oKTsKCiAgLy8gQWRkIGNvbXBvc2l0aW9uIGV2ZW50IGhhbmRsZXJzIHRvIHN1cHBvcnQgaW5wdXQgbWV0aG9kIGVkaXRvciAoSU1FKSBmb3IgQ0pLIGxhbmd1YWdlcy4KICBjb25zdCB7CiAgICBvbkNvbXBvc2l0aW9uU3RhcnQ6IGhhbmRsZUNvbXBvc2l0aW9uU3RhcnQsCiAgICBvbkNvbXBvc2l0aW9uRW5kOiBoYW5kbGVDb21wb3NpdGlvbkVuZCwKICAgIG9uS2V5RG93bjogaGFuZGxlS2V5RG93biwKICB9ID0gdXNlQ29tcG9zaXRpb248SFRNTElucHV0RWxlbWVudD4oewogICAgb25LZXlEb3duOiAoZSkgPT4gewogICAgICAvLyBDaGVjayBpZiB0aGlzIGlzIGFuIEVudGVyIGtleSB0aGF0IHNob3VsZCBiZSBibG9ja2VkCiAgICAgIGNvbnN0IGlzQ29tcG9zaW5nID0gKGUubmF0aXZlRXZlbnQgYXMgYW55KS5pc0NvbXBvc2luZyB8fCBkaWFsb2dDb21wb3NpdGlvbi5qdXN0RW5kZWRDb21wb3NpbmcoKTsKCiAgICAgIC8vIElmIEVudGVyIGtleSBpcyBwcmVzc2VkIHdoaWxlIGNvbXBvc2luZyBvciBqdXN0IGFmdGVyIGNvbXBvc2l0aW9uIGVuZGVkLAogICAgICAvLyBkb24ndCBjYWxsIHRoZSB1c2VyJ3Mgb25LZXlEb3duICh0aGlzIGJsb2NrcyB0aGUgYnVzaW5lc3MgbG9naWMpCiAgICAgIGlmIChlLmtleSA9PT0gIkVudGVyIiAmJiBpc0NvbXBvc2luZykgewogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgLy8gT3RoZXJ3aXNlLCBjYWxsIHRoZSB1c2VyJ3Mgb25LZXlEb3duCiAgICAgIG9uS2V5RG93bj8uKGUpOwogICAgfSwKICAgIG9uQ29tcG9zaXRpb25TdGFydDogZSA9PiB7CiAgICAgIGRpYWxvZ0NvbXBvc2l0aW9uLnNldENvbXBvc2luZyh0cnVlKTsKICAgICAgb25Db21wb3NpdGlvblN0YXJ0Py4oZSk7CiAgICB9LAogICAgb25Db21wb3NpdGlvbkVuZDogZSA9PiB7CiAgICAgIC8vIE1hcmsgdGhhdCBjb21wb3NpdGlvbiBqdXN0IGVuZGVkIC0gdGhpcyBoZWxwcyBoYW5kbGUgdGhlIEVudGVyIGtleSB0aGF0IGNvbmZpcm1zIGlucHV0CiAgICAgIGRpYWxvZ0NvbXBvc2l0aW9uLm1hcmtDb21wb3NpdGlvbkVuZCgpOwogICAgICAvLyBEZWxheSBzZXR0aW5nIGNvbXBvc2luZyB0byBmYWxzZSB0byBoYW5kbGUgU2FmYXJpJ3MgZXZlbnQgb3JkZXIKICAgICAgLy8gSW4gU2FmYXJpLCBjb21wb3NpdGlvbkVuZCBmaXJlcyBiZWZvcmUgdGhlIEVTQyBrZXlkb3duIGV2ZW50CiAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIGRpYWxvZ0NvbXBvc2l0aW9uLnNldENvbXBvc2luZyhmYWxzZSk7CiAgICAgIH0sIDEwMCk7CiAgICAgIG9uQ29tcG9zaXRpb25FbmQ/LihlKTsKICAgIH0sCiAgfSk7CgogIHJldHVybiAoCiAgICA8aW5wdXQKICAgICAgdHlwZT17dHlwZX0KICAgICAgZGF0YS1zbG90PSJpbnB1dCIKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAiZmlsZTp0ZXh0LWZvcmVncm91bmQgcGxhY2Vob2xkZXI6dGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHNlbGVjdGlvbjpiZy1wcmltYXJ5IHNlbGVjdGlvbjp0ZXh0LXByaW1hcnktZm9yZWdyb3VuZCBkYXJrOmJnLWlucHV0LzMwIGJvcmRlci1pbnB1dCBoLTkgdy1mdWxsIG1pbi13LTAgcm91bmRlZC1tZCBib3JkZXIgYmctdHJhbnNwYXJlbnQgcHgtMyBweS0xIHRleHQtYmFzZSBzaGFkb3cteHMgdHJhbnNpdGlvbi1bY29sb3IsYm94LXNoYWRvd10gb3V0bGluZS1ub25lIGZpbGU6aW5saW5lLWZsZXggZmlsZTpoLTcgZmlsZTpib3JkZXItMCBmaWxlOmJnLXRyYW5zcGFyZW50IGZpbGU6dGV4dC1zbSBmaWxlOmZvbnQtbWVkaXVtIGRpc2FibGVkOnBvaW50ZXItZXZlbnRzLW5vbmUgZGlzYWJsZWQ6Y3Vyc29yLW5vdC1hbGxvd2VkIGRpc2FibGVkOm9wYWNpdHktNTAgbWQ6dGV4dC1zbSIsCiAgICAgICAgImZvY3VzLXZpc2libGU6Ym9yZGVyLXJpbmcgZm9jdXMtdmlzaWJsZTpyaW5nLXJpbmcvNTAgZm9jdXMtdmlzaWJsZTpyaW5nLVszcHhdIiwKICAgICAgICAiYXJpYS1pbnZhbGlkOnJpbmctZGVzdHJ1Y3RpdmUvMjAgZGFyazphcmlhLWludmFsaWQ6cmluZy1kZXN0cnVjdGl2ZS80MCBhcmlhLWludmFsaWQ6Ym9yZGVyLWRlc3RydWN0aXZlIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgb25Db21wb3NpdGlvblN0YXJ0PXtoYW5kbGVDb21wb3NpdGlvblN0YXJ0fQogICAgICBvbkNvbXBvc2l0aW9uRW5kPXtoYW5kbGVDb21wb3NpdGlvbkVuZH0KICAgICAgb25LZXlEb3duPXtoYW5kbGVLZXlEb3dufQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICk7Cn0KCmV4cG9ydCB7IElucHV0IH07Cg=="}
+import { useDialogComposition } from "@/components/ui/dialog";
+import { useComposition } from "@/hooks/useComposition";
+import { cn } from "@/lib/utils";
+import * as React from "react";
+
+function Input({
+  className,
+  type,
+  onKeyDown,
+  onCompositionStart,
+  onCompositionEnd,
+  ...props
+}: React.ComponentProps<"input">) {
+  // Get dialog composition context if available (will be no-op if not inside Dialog)
+  const dialogComposition = useDialogComposition();
+
+  // Add composition event handlers to support input method editor (IME) for CJK languages.
+  const {
+    onCompositionStart: handleCompositionStart,
+    onCompositionEnd: handleCompositionEnd,
+    onKeyDown: handleKeyDown,
+  } = useComposition<HTMLInputElement>({
+    onKeyDown: (e) => {
+      // Check if this is an Enter key that should be blocked
+      const isComposing = (e.nativeEvent as any).isComposing || dialogComposition.justEndedComposing();
+
+      // If Enter key is pressed while composing or just after composition ended,
+      // don't call the user's onKeyDown (this blocks the business logic)
+      if (e.key === "Enter" && isComposing) {
+        return;
+      }
+
+      // Otherwise, call the user's onKeyDown
+      onKeyDown?.(e);
+    },
+    onCompositionStart: e => {
+      dialogComposition.setComposing(true);
+      onCompositionStart?.(e);
+    },
+    onCompositionEnd: e => {
+      // Mark that composition just ended - this helps handle the Enter key that confirms input
+      dialogComposition.markCompositionEnd();
+      // Delay setting composing to false to handle Safari's event order
+      // In Safari, compositionEnd fires before the ESC keydown event
+      setTimeout(() => {
+        dialogComposition.setComposing(false);
+      }, 100);
+      onCompositionEnd?.(e);
+    },
+  });
+
+  return (
+    <input
+      type={type}
+      data-slot="input"
+      className={cn(
+        "file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input h-9 w-full min-w-0 rounded-md border bg-transparent px-3 py-1 text-base shadow-xs transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm",
+        "focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+        className
+      )}
+      onCompositionStart={handleCompositionStart}
+      onCompositionEnd={handleCompositionEnd}
+      onKeyDown={handleKeyDown}
+      {...props}
+    />
+  );
+}
+
+export { Input };

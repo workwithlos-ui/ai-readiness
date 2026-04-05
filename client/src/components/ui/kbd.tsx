@@ -1,1 +1,28 @@
-{"data":"aW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgpmdW5jdGlvbiBLYmQoeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJrYmQiPikgewogIHJldHVybiAoCiAgICA8a2JkCiAgICAgIGRhdGEtc2xvdD0ia2JkIgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJiZy1tdXRlZCB0ZXh0LW11dGVkLWZvcmVncm91bmQgcG9pbnRlci1ldmVudHMtbm9uZSBpbmxpbmUtZmxleCBoLTUgdy1maXQgbWluLXctNSBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTEgcm91bmRlZC1zbSBweC0xIGZvbnQtc2FucyB0ZXh0LXhzIGZvbnQtbWVkaXVtIHNlbGVjdC1ub25lIiwKICAgICAgICAiWyZfc3ZnOm5vdChbY2xhc3MqPSdzaXplLSddKV06c2l6ZS0zIiwKICAgICAgICAiW1tkYXRhLXNsb3Q9dG9vbHRpcC1jb250ZW50XV8mXTpiZy1iYWNrZ3JvdW5kLzIwIFtbZGF0YS1zbG90PXRvb2x0aXAtY29udGVudF1fJl06dGV4dC1iYWNrZ3JvdW5kIGRhcms6W1tkYXRhLXNsb3Q9dG9vbHRpcC1jb250ZW50XV8mXTpiZy1iYWNrZ3JvdW5kLzEwIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBLYmRHcm91cCh7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImRpdiI+KSB7CiAgcmV0dXJuICgKICAgIDxrYmQKICAgICAgZGF0YS1zbG90PSJrYmQtZ3JvdXAiCiAgICAgIGNsYXNzTmFtZT17Y24oImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKZXhwb3J0IHsgS2JkLCBLYmRHcm91cCB9Owo="}
+import { cn } from "@/lib/utils";
+
+function Kbd({ className, ...props }: React.ComponentProps<"kbd">) {
+  return (
+    <kbd
+      data-slot="kbd"
+      className={cn(
+        "bg-muted text-muted-foreground pointer-events-none inline-flex h-5 w-fit min-w-5 items-center justify-center gap-1 rounded-sm px-1 font-sans text-xs font-medium select-none",
+        "[&_svg:not([class*='size-'])]:size-3",
+        "[[data-slot=tooltip-content]_&]:bg-background/20 [[data-slot=tooltip-content]_&]:text-background dark:[[data-slot=tooltip-content]_&]:bg-background/10",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function KbdGroup({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <kbd
+      data-slot="kbd-group"
+      className={cn("inline-flex items-center gap-1", className)}
+      {...props}
+    />
+  );
+}
+
+export { Kbd, KbdGroup };

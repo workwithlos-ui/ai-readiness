@@ -1,1 +1,9 @@
-{"data":"aW1wb3J0ICogYXMgQXNwZWN0UmF0aW9QcmltaXRpdmUgZnJvbSAiQHJhZGl4LXVpL3JlYWN0LWFzcGVjdC1yYXRpbyI7CgpmdW5jdGlvbiBBc3BlY3RSYXRpbyh7CiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIEFzcGVjdFJhdGlvUHJpbWl0aXZlLlJvb3Q+KSB7CiAgcmV0dXJuIDxBc3BlY3RSYXRpb1ByaW1pdGl2ZS5Sb290IGRhdGEtc2xvdD0iYXNwZWN0LXJhdGlvIiB7Li4ucHJvcHN9IC8+Owp9CgpleHBvcnQgeyBBc3BlY3RSYXRpbyB9Owo="}
+import * as AspectRatioPrimitive from "@radix-ui/react-aspect-ratio";
+
+function AspectRatio({
+  ...props
+}: React.ComponentProps<typeof AspectRatioPrimitive.Root>) {
+  return <AspectRatioPrimitive.Root data-slot="aspect-ratio" {...props} />;
+}
+
+export { AspectRatio };

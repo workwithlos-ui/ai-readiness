@@ -1,1 +1,81 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VQZXJzaXN0Rm4gfSBmcm9tICIuL3VzZVBlcnNpc3RGbiI7CgpleHBvcnQgaW50ZXJmYWNlIFVzZUNvbXBvc2l0aW9uUmV0dXJuPAogIFQgZXh0ZW5kcyBIVE1MSW5wdXRFbGVtZW50IHwgSFRNTFRleHRBcmVhRWxlbWVudCwKPiB7CiAgb25Db21wb3NpdGlvblN0YXJ0OiBSZWFjdC5Db21wb3NpdGlvbkV2ZW50SGFuZGxlcjxUPjsKICBvbkNvbXBvc2l0aW9uRW5kOiBSZWFjdC5Db21wb3NpdGlvbkV2ZW50SGFuZGxlcjxUPjsKICBvbktleURvd246IFJlYWN0LktleWJvYXJkRXZlbnRIYW5kbGVyPFQ+OwogIGlzQ29tcG9zaW5nOiAoKSA9PiBib29sZWFuOwp9CgpleHBvcnQgaW50ZXJmYWNlIFVzZUNvbXBvc2l0aW9uT3B0aW9uczwKICBUIGV4dGVuZHMgSFRNTElucHV0RWxlbWVudCB8IEhUTUxUZXh0QXJlYUVsZW1lbnQsCj4gewogIG9uS2V5RG93bj86IFJlYWN0LktleWJvYXJkRXZlbnRIYW5kbGVyPFQ+OwogIG9uQ29tcG9zaXRpb25TdGFydD86IFJlYWN0LkNvbXBvc2l0aW9uRXZlbnRIYW5kbGVyPFQ+OwogIG9uQ29tcG9zaXRpb25FbmQ/OiBSZWFjdC5Db21wb3NpdGlvbkV2ZW50SGFuZGxlcjxUPjsKfQoKdHlwZSBUaW1lclJlc3BvbnNlID0gUmV0dXJuVHlwZTx0eXBlb2Ygc2V0VGltZW91dD47CgpleHBvcnQgZnVuY3Rpb24gdXNlQ29tcG9zaXRpb248CiAgVCBleHRlbmRzIEhUTUxJbnB1dEVsZW1lbnQgfCBIVE1MVGV4dEFyZWFFbGVtZW50ID0gSFRNTElucHV0RWxlbWVudCwKPihvcHRpb25zOiBVc2VDb21wb3NpdGlvbk9wdGlvbnM8VD4gPSB7fSk6IFVzZUNvbXBvc2l0aW9uUmV0dXJuPFQ+IHsKICBjb25zdCB7CiAgICBvbktleURvd246IG9yaWdpbmFsT25LZXlEb3duLAogICAgb25Db21wb3NpdGlvblN0YXJ0OiBvcmlnaW5hbE9uQ29tcG9zaXRpb25TdGFydCwKICAgIG9uQ29tcG9zaXRpb25FbmQ6IG9yaWdpbmFsT25Db21wb3NpdGlvbkVuZCwKICB9ID0gb3B0aW9uczsKCiAgY29uc3QgYyA9IHVzZVJlZihmYWxzZSk7CiAgY29uc3QgdGltZXIgPSB1c2VSZWY8VGltZXJSZXNwb25zZSB8IG51bGw+KG51bGwpOwogIGNvbnN0IHRpbWVyMiA9IHVzZVJlZjxUaW1lclJlc3BvbnNlIHwgbnVsbD4obnVsbCk7CgogIGNvbnN0IG9uQ29tcG9zaXRpb25TdGFydCA9IHVzZVBlcnNpc3RGbigoZTogUmVhY3QuQ29tcG9zaXRpb25FdmVudDxUPikgPT4gewogICAgaWYgKHRpbWVyLmN1cnJlbnQpIHsKICAgICAgY2xlYXJUaW1lb3V0KHRpbWVyLmN1cnJlbnQpOwogICAgICB0aW1lci5jdXJyZW50ID0gbnVsbDsKICAgIH0KICAgIGlmICh0aW1lcjIuY3VycmVudCkgewogICAgICBjbGVhclRpbWVvdXQodGltZXIyLmN1cnJlbnQpOwogICAgICB0aW1lcjIuY3VycmVudCA9IG51bGw7CiAgICB9CiAgICBjLmN1cnJlbnQgPSB0cnVlOwogICAgb3JpZ2luYWxPbkNvbXBvc2l0aW9uU3RhcnQ/LihlKTsKICB9KTsKCiAgY29uc3Qgb25Db21wb3NpdGlvbkVuZCA9IHVzZVBlcnNpc3RGbigoZTogUmVhY3QuQ29tcG9zaXRpb25FdmVudDxUPikgPT4gewogICAgLy8g5L2/55So5Lik5bGCIHNldFRpbWVvdXQg5p2l5aSE55CGIFNhZmFyaSDmtY/op4jlmajkuK0gY29tcG9zaXRpb25FbmQg5YWI5LqOIG9uS2V5RG93biDop6blj5HnmoTpl67popgKICAgIHRpbWVyLmN1cnJlbnQgPSBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgdGltZXIyLmN1cnJlbnQgPSBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBjLmN1cnJlbnQgPSBmYWxzZTsKICAgICAgfSk7CiAgICB9KTsKICAgIG9yaWdpbmFsT25Db21wb3NpdGlvbkVuZD8uKGUpOwogIH0pOwoKICBjb25zdCBvbktleURvd24gPSB1c2VQZXJzaXN0Rm4oKGU6IFJlYWN0LktleWJvYXJkRXZlbnQ8VD4pID0+IHsKICAgIC8vIOWcqCBjb21wb3NpdGlvbiDnirbmgIHkuIvvvIzpmLvmraIgRVNDIOWSjCBFbnRlcu+8iOmdniBzaGlmdCtFbnRlcu+8ieS6i+S7tueahOWGkuazoQogICAgaWYgKAogICAgICBjLmN1cnJlbnQgJiYKICAgICAgKGUua2V5ID09PSAiRXNjYXBlIiB8fCAoZS5rZXkgPT09ICJFbnRlciIgJiYgIWUuc2hpZnRLZXkpKQogICAgKSB7CiAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCk7CiAgICAgIHJldHVybjsKICAgIH0KICAgIG9yaWdpbmFsT25LZXlEb3duPy4oZSk7CiAgfSk7CgogIGNvbnN0IGlzQ29tcG9zaW5nID0gdXNlUGVyc2lzdEZuKCgpID0+IHsKICAgIHJldHVybiBjLmN1cnJlbnQ7CiAgfSk7CgogIHJldHVybiB7CiAgICBvbkNvbXBvc2l0aW9uU3RhcnQsCiAgICBvbkNvbXBvc2l0aW9uRW5kLAogICAgb25LZXlEb3duLAogICAgaXNDb21wb3NpbmcsCiAgfTsKfQo="}
+import { useRef } from "react";
+import { usePersistFn } from "./usePersistFn";
+
+export interface UseCompositionReturn<
+  T extends HTMLInputElement | HTMLTextAreaElement,
+> {
+  onCompositionStart: React.CompositionEventHandler<T>;
+  onCompositionEnd: React.CompositionEventHandler<T>;
+  onKeyDown: React.KeyboardEventHandler<T>;
+  isComposing: () => boolean;
+}
+
+export interface UseCompositionOptions<
+  T extends HTMLInputElement | HTMLTextAreaElement,
+> {
+  onKeyDown?: React.KeyboardEventHandler<T>;
+  onCompositionStart?: React.CompositionEventHandler<T>;
+  onCompositionEnd?: React.CompositionEventHandler<T>;
+}
+
+type TimerResponse = ReturnType<typeof setTimeout>;
+
+export function useComposition<
+  T extends HTMLInputElement | HTMLTextAreaElement = HTMLInputElement,
+>(options: UseCompositionOptions<T> = {}): UseCompositionReturn<T> {
+  const {
+    onKeyDown: originalOnKeyDown,
+    onCompositionStart: originalOnCompositionStart,
+    onCompositionEnd: originalOnCompositionEnd,
+  } = options;
+
+  const c = useRef(false);
+  const timer = useRef<TimerResponse | null>(null);
+  const timer2 = useRef<TimerResponse | null>(null);
+
+  const onCompositionStart = usePersistFn((e: React.CompositionEvent<T>) => {
+    if (timer.current) {
+      clearTimeout(timer.current);
+      timer.current = null;
+    }
+    if (timer2.current) {
+      clearTimeout(timer2.current);
+      timer2.current = null;
+    }
+    c.current = true;
+    originalOnCompositionStart?.(e);
+  });
+
+  const onCompositionEnd = usePersistFn((e: React.CompositionEvent<T>) => {
+    // 使用两层 setTimeout 来处理 Safari 浏览器中 compositionEnd 先于 onKeyDown 触发的问题
+    timer.current = setTimeout(() => {
+      timer2.current = setTimeout(() => {
+        c.current = false;
+      });
+    });
+    originalOnCompositionEnd?.(e);
+  });
+
+  const onKeyDown = usePersistFn((e: React.KeyboardEvent<T>) => {
+    // 在 composition 状态下，阻止 ESC 和 Enter（非 shift+Enter）事件的冒泡
+    if (
+      c.current &&
+      (e.key === "Escape" || (e.key === "Enter" && !e.shiftKey))
+    ) {
+      e.stopPropagation();
+      return;
+    }
+    originalOnKeyDown?.(e);
+  });
+
+  const isComposing = usePersistFn(() => {
+    return c.current;
+  });
+
+  return {
+    onCompositionStart,
+    onCompositionEnd,
+    onKeyDown,
+    isComposing,
+  };
+}

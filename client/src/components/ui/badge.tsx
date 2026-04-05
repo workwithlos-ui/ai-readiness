@@ -1,1 +1,46 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgeyBTbG90IH0gZnJvbSAiQHJhZGl4LXVpL3JlYWN0LXNsb3QiOwppbXBvcnQgeyBjdmEsIHR5cGUgVmFyaWFudFByb3BzIH0gZnJvbSAiY2xhc3MtdmFyaWFuY2UtYXV0aG9yaXR5IjsKCmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKY29uc3QgYmFkZ2VWYXJpYW50cyA9IGN2YSgKICAiaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtbWQgYm9yZGVyIHB4LTIgcHktMC41IHRleHQteHMgZm9udC1tZWRpdW0gdy1maXQgd2hpdGVzcGFjZS1ub3dyYXAgc2hyaW5rLTAgWyY+c3ZnXTpzaXplLTMgZ2FwLTEgWyY+c3ZnXTpwb2ludGVyLWV2ZW50cy1ub25lIGZvY3VzLXZpc2libGU6Ym9yZGVyLXJpbmcgZm9jdXMtdmlzaWJsZTpyaW5nLXJpbmcvNTAgZm9jdXMtdmlzaWJsZTpyaW5nLVszcHhdIGFyaWEtaW52YWxpZDpyaW5nLWRlc3RydWN0aXZlLzIwIGRhcms6YXJpYS1pbnZhbGlkOnJpbmctZGVzdHJ1Y3RpdmUvNDAgYXJpYS1pbnZhbGlkOmJvcmRlci1kZXN0cnVjdGl2ZSB0cmFuc2l0aW9uLVtjb2xvcixib3gtc2hhZG93XSBvdmVyZmxvdy1oaWRkZW4iLAogIHsKICAgIHZhcmlhbnRzOiB7CiAgICAgIHZhcmlhbnQ6IHsKICAgICAgICBkZWZhdWx0OgogICAgICAgICAgImJvcmRlci10cmFuc3BhcmVudCBiZy1wcmltYXJ5IHRleHQtcHJpbWFyeS1mb3JlZ3JvdW5kIFthJl06aG92ZXI6YmctcHJpbWFyeS85MCIsCiAgICAgICAgc2Vjb25kYXJ5OgogICAgICAgICAgImJvcmRlci10cmFuc3BhcmVudCBiZy1zZWNvbmRhcnkgdGV4dC1zZWNvbmRhcnktZm9yZWdyb3VuZCBbYSZdOmhvdmVyOmJnLXNlY29uZGFyeS85MCIsCiAgICAgICAgZGVzdHJ1Y3RpdmU6CiAgICAgICAgICAiYm9yZGVyLXRyYW5zcGFyZW50IGJnLWRlc3RydWN0aXZlIHRleHQtd2hpdGUgW2EmXTpob3ZlcjpiZy1kZXN0cnVjdGl2ZS85MCBmb2N1cy12aXNpYmxlOnJpbmctZGVzdHJ1Y3RpdmUvMjAgZGFyazpmb2N1cy12aXNpYmxlOnJpbmctZGVzdHJ1Y3RpdmUvNDAgZGFyazpiZy1kZXN0cnVjdGl2ZS82MCIsCiAgICAgICAgb3V0bGluZToKICAgICAgICAgICJ0ZXh0LWZvcmVncm91bmQgW2EmXTpob3ZlcjpiZy1hY2NlbnQgW2EmXTpob3Zlcjp0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIiwKICAgICAgfSwKICAgIH0sCiAgICBkZWZhdWx0VmFyaWFudHM6IHsKICAgICAgdmFyaWFudDogImRlZmF1bHQiLAogICAgfSwKICB9Cik7CgpmdW5jdGlvbiBCYWRnZSh7CiAgY2xhc3NOYW1lLAogIHZhcmlhbnQsCiAgYXNDaGlsZCA9IGZhbHNlLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJzcGFuIj4gJgogIFZhcmlhbnRQcm9wczx0eXBlb2YgYmFkZ2VWYXJpYW50cz4gJiB7IGFzQ2hpbGQ/OiBib29sZWFuIH0pIHsKICBjb25zdCBDb21wID0gYXNDaGlsZCA/IFNsb3QgOiAic3BhbiI7CgogIHJldHVybiAoCiAgICA8Q29tcAogICAgICBkYXRhLXNsb3Q9ImJhZGdlIgogICAgICBjbGFzc05hbWU9e2NuKGJhZGdlVmFyaWFudHMoeyB2YXJpYW50IH0pLCBjbGFzc05hbWUpfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICk7Cn0KCmV4cG9ydCB7IEJhZGdlLCBiYWRnZVZhcmlhbnRzIH07Cg=="}
+import * as React from "react";
+import { Slot } from "@radix-ui/react-slot";
+import { cva, type VariantProps } from "class-variance-authority";
+
+import { cn } from "@/lib/utils";
+
+const badgeVariants = cva(
+  "inline-flex items-center justify-center rounded-md border px-2 py-0.5 text-xs font-medium w-fit whitespace-nowrap shrink-0 [&>svg]:size-3 gap-1 [&>svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden",
+  {
+    variants: {
+      variant: {
+        default:
+          "border-transparent bg-primary text-primary-foreground [a&]:hover:bg-primary/90",
+        secondary:
+          "border-transparent bg-secondary text-secondary-foreground [a&]:hover:bg-secondary/90",
+        destructive:
+          "border-transparent bg-destructive text-white [a&]:hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60",
+        outline:
+          "text-foreground [a&]:hover:bg-accent [a&]:hover:text-accent-foreground",
+      },
+    },
+    defaultVariants: {
+      variant: "default",
+    },
+  }
+);
+
+function Badge({
+  className,
+  variant,
+  asChild = false,
+  ...props
+}: React.ComponentProps<"span"> &
+  VariantProps<typeof badgeVariants> & { asChild?: boolean }) {
+  const Comp = asChild ? Slot : "span";
+
+  return (
+    <Comp
+      data-slot="badge"
+      className={cn(badgeVariants({ variant }), className)}
+      {...props}
+    />
+  );
+}
+
+export { Badge, badgeVariants };

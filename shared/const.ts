@@ -1,1 +1,2 @@
-{"data":"ZXhwb3J0IGNvbnN0IENPT0tJRV9OQU1FID0gImFwcF9zZXNzaW9uX2lkIjsKZXhwb3J0IGNvbnN0IE9ORV9ZRUFSX01TID0gMTAwMCAqIDYwICogNjAgKiAyNCAqIDM2NTsK"}
+export const COOKIE_NAME = "app_session_id";
+export const ONE_YEAR_MS = 1000 * 60 * 60 * 24 * 365;

@@ -1,1 +1,85 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKCmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgewogIERpYWxvZywKICBEaWFsb2dDb250ZW50LAogIERpYWxvZ0Rlc2NyaXB0aW9uLAogIERpYWxvZ0Zvb3RlciwKICBEaWFsb2dUaXRsZSwKfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKCmludGVyZmFjZSBNYW51c0RpYWxvZ1Byb3BzIHsKICB0aXRsZT86IHN0cmluZzsKICBsb2dvPzogc3RyaW5nOwogIG9wZW4/OiBib29sZWFuOwogIG9uTG9naW46ICgpID0+IHZvaWQ7CiAgb25PcGVuQ2hhbmdlPzogKG9wZW46IGJvb2xlYW4pID0+IHZvaWQ7CiAgb25DbG9zZT86ICgpID0+IHZvaWQ7Cn0KCmV4cG9ydCBmdW5jdGlvbiBNYW51c0RpYWxvZyh7CiAgdGl0bGUsCiAgbG9nbywKICBvcGVuID0gZmFsc2UsCiAgb25Mb2dpbiwKICBvbk9wZW5DaGFuZ2UsCiAgb25DbG9zZSwKfTogTWFudXNEaWFsb2dQcm9wcykgewogIGNvbnN0IFtpbnRlcm5hbE9wZW4sIHNldEludGVybmFsT3Blbl0gPSB1c2VTdGF0ZShvcGVuKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghb25PcGVuQ2hhbmdlKSB7CiAgICAgIHNldEludGVybmFsT3BlbihvcGVuKTsKICAgIH0KICB9LCBbb3Blbiwgb25PcGVuQ2hhbmdlXSk7CgogIGNvbnN0IGhhbmRsZU9wZW5DaGFuZ2UgPSAobmV4dE9wZW46IGJvb2xlYW4pID0+IHsKICAgIGlmIChvbk9wZW5DaGFuZ2UpIHsKICAgICAgb25PcGVuQ2hhbmdlKG5leHRPcGVuKTsKICAgIH0gZWxzZSB7CiAgICAgIHNldEludGVybmFsT3BlbihuZXh0T3Blbik7CiAgICB9CgogICAgaWYgKCFuZXh0T3BlbikgewogICAgICBvbkNsb3NlPy4oKTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPERpYWxvZwogICAgICBvcGVuPXtvbk9wZW5DaGFuZ2UgPyBvcGVuIDogaW50ZXJuYWxPcGVufQogICAgICBvbk9wZW5DaGFuZ2U9e2hhbmRsZU9wZW5DaGFuZ2V9CiAgICA+CiAgICAgIDxEaWFsb2dDb250ZW50IGNsYXNzTmFtZT0icHktNSBiZy1bI2Y4ZjhmN10gcm91bmRlZC1bMjBweF0gdy1bNDAwcHhdIHNoYWRvdy1bMHB4XzRweF8xMXB4XzBweF9yZ2JhKDAsMCwwLDAuMDgpXSBib3JkZXIgYm9yZGVyLVtyZ2JhKDAsMCwwLDAuMDgpXSBiYWNrZHJvcC1ibHVyLTJ4bCBwLTAgZ2FwLTAgdGV4dC1jZW50ZXIiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBnYXAtMiBwLTUgcHQtMTIiPgogICAgICAgICAge2xvZ28gPyAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTE2IGgtMTYgYmctd2hpdGUgcm91bmRlZC14bCBib3JkZXIgYm9yZGVyLVtyZ2JhKDAsMCwwLDAuMDgpXSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgICAgPGltZyBzcmM9e2xvZ299IGFsdD0iRGlhbG9nIGdyYXBoaWMiIGNsYXNzTmFtZT0idy0xMCBoLTEwIHJvdW5kZWQtbWQiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSA6IG51bGx9CgogICAgICAgICAgey8qIFRpdGxlIGFuZCBzdWJ0aXRsZSAqL30KICAgICAgICAgIHt0aXRsZSA/ICgKICAgICAgICAgICAgPERpYWxvZ1RpdGxlIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIHRleHQtWyMzNDMyMmRdIGxlYWRpbmctWzI2cHhdIHRyYWNraW5nLVstMC40NHB4XSI+CiAgICAgICAgICAgICAge3RpdGxlfQogICAgICAgICAgICA8L0RpYWxvZ1RpdGxlPgogICAgICAgICAgKSA6IG51bGx9CiAgICAgICAgICA8RGlhbG9nRGVzY3JpcHRpb24gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtWyM4NTg0ODFdIGxlYWRpbmctNSB0cmFja2luZy1bLTAuMTU0cHhdIj4KICAgICAgICAgICAgUGxlYXNlIGxvZ2luIHdpdGggTWFudXMgdG8gY29udGludWUKICAgICAgICAgIDwvRGlhbG9nRGVzY3JpcHRpb24+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxEaWFsb2dGb290ZXIgY2xhc3NOYW1lPSJweC01IHB5LTUiPgogICAgICAgICAgey8qIExvZ2luIGJ1dHRvbiAqL30KICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgb25DbGljaz17b25Mb2dpbn0KICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC0xMCBiZy1bIzFhMWExOV0gaG92ZXI6YmctWyMxYTFhMTldLzkwIHRleHQtd2hpdGUgcm91bmRlZC1bMTBweF0gdGV4dC1zbSBmb250LW1lZGl1bSBsZWFkaW5nLTUgdHJhY2tpbmctWy0wLjE1NHB4XSIKICAgICAgICAgID4KICAgICAgICAgICAgTG9naW4gd2l0aCBNYW51cwogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9EaWFsb2dGb290ZXI+CiAgICAgIDwvRGlhbG9nQ29udGVudD4KICAgIDwvRGlhbG9nPgogICk7Cn0K"}
+import { useEffect, useState } from "react";
+
+import { Button } from "@/components/ui/button";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogTitle,
+} from "@/components/ui/dialog";
+
+interface ManusDialogProps {
+  title?: string;
+  logo?: string;
+  open?: boolean;
+  onLogin: () => void;
+  onOpenChange?: (open: boolean) => void;
+  onClose?: () => void;
+}
+
+export function ManusDialog({
+  title,
+  logo,
+  open = false,
+  onLogin,
+  onOpenChange,
+  onClose,
+}: ManusDialogProps) {
+  const [internalOpen, setInternalOpen] = useState(open);
+
+  useEffect(() => {
+    if (!onOpenChange) {
+      setInternalOpen(open);
+    }
+  }, [open, onOpenChange]);
+
+  const handleOpenChange = (nextOpen: boolean) => {
+    if (onOpenChange) {
+      onOpenChange(nextOpen);
+    } else {
+      setInternalOpen(nextOpen);
+    }
+
+    if (!nextOpen) {
+      onClose?.();
+    }
+  };
+
+  return (
+    <Dialog
+      open={onOpenChange ? open : internalOpen}
+      onOpenChange={handleOpenChange}
+    >
+      <DialogContent className="py-5 bg-[#f8f8f7] rounded-[20px] w-[400px] shadow-[0px_4px_11px_0px_rgba(0,0,0,0.08)] border border-[rgba(0,0,0,0.08)] backdrop-blur-2xl p-0 gap-0 text-center">
+        <div className="flex flex-col items-center gap-2 p-5 pt-12">
+          {logo ? (
+            <div className="w-16 h-16 bg-white rounded-xl border border-[rgba(0,0,0,0.08)] flex items-center justify-center">
+              <img src={logo} alt="Dialog graphic" className="w-10 h-10 rounded-md" />
+            </div>
+          ) : null}
+
+          {/* Title and subtitle */}
+          {title ? (
+            <DialogTitle className="text-xl font-semibold text-[#34322d] leading-[26px] tracking-[-0.44px]">
+              {title}
+            </DialogTitle>
+          ) : null}
+          <DialogDescription className="text-sm text-[#858481] leading-5 tracking-[-0.154px]">
+            Please login with Manus to continue
+          </DialogDescription>
+        </div>
+
+        <DialogFooter className="px-5 py-5">
+          {/* Login button */}
+          <Button
+            onClick={onLogin}
+            className="w-full h-10 bg-[#1a1a19] hover:bg-[#1a1a19]/90 text-white rounded-[10px] text-sm font-medium leading-5 tracking-[-0.154px]"
+          >
+            Login with Manus
+          </Button>
+        </DialogFooter>
+      </DialogContent>
+    </Dialog>
+  );
+}

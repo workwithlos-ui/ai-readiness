@@ -1,1 +1,67 @@
-{"data":"aW1wb3J0IHsgdXNlRGlhbG9nQ29tcG9zaXRpb24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKaW1wb3J0IHsgdXNlQ29tcG9zaXRpb24gfSBmcm9tICJAL2hvb2tzL3VzZUNvbXBvc2l0aW9uIjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CmltcG9ydCAqIGFzIFJlYWN0IGZyb20gInJlYWN0IjsKCmZ1bmN0aW9uIFRleHRhcmVhKHsKICBjbGFzc05hbWUsCiAgb25LZXlEb3duLAogIG9uQ29tcG9zaXRpb25TdGFydCwKICBvbkNvbXBvc2l0aW9uRW5kLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJ0ZXh0YXJlYSI+KSB7CiAgLy8gR2V0IGRpYWxvZyBjb21wb3NpdGlvbiBjb250ZXh0IGlmIGF2YWlsYWJsZSAod2lsbCBiZSBuby1vcCBpZiBub3QgaW5zaWRlIERpYWxvZykKICBjb25zdCBkaWFsb2dDb21wb3NpdGlvbiA9IHVzZURpYWxvZ0NvbXBvc2l0aW9uKCk7CgogIC8vIEFkZCBjb21wb3NpdGlvbiBldmVudCBoYW5kbGVycyB0byBzdXBwb3J0IGlucHV0IG1ldGhvZCBlZGl0b3IgKElNRSkgZm9yIENKSyBsYW5ndWFnZXMuCiAgY29uc3QgewogICAgb25Db21wb3NpdGlvblN0YXJ0OiBoYW5kbGVDb21wb3NpdGlvblN0YXJ0LAogICAgb25Db21wb3NpdGlvbkVuZDogaGFuZGxlQ29tcG9zaXRpb25FbmQsCiAgICBvbktleURvd246IGhhbmRsZUtleURvd24sCiAgfSA9IHVzZUNvbXBvc2l0aW9uPEhUTUxUZXh0QXJlYUVsZW1lbnQ+KHsKICAgIG9uS2V5RG93bjogKGUpID0+IHsKICAgICAgLy8gQ2hlY2sgaWYgdGhpcyBpcyBhbiBFbnRlciBrZXkgdGhhdCBzaG91bGQgYmUgYmxvY2tlZAogICAgICBjb25zdCBpc0NvbXBvc2luZyA9IChlLm5hdGl2ZUV2ZW50IGFzIGFueSkuaXNDb21wb3NpbmcgfHwgZGlhbG9nQ29tcG9zaXRpb24uanVzdEVuZGVkQ29tcG9zaW5nKCk7CgogICAgICAvLyBJZiBFbnRlciBrZXkgaXMgcHJlc3NlZCB3aGlsZSBjb21wb3Npbmcgb3IganVzdCBhZnRlciBjb21wb3NpdGlvbiBlbmRlZCwKICAgICAgLy8gZG9uJ3QgY2FsbCB0aGUgdXNlcidzIG9uS2V5RG93biAodGhpcyBibG9ja3MgdGhlIGJ1c2luZXNzIGxvZ2ljKQogICAgICAvLyBOb3RlOiBGb3IgdGV4dGFyZWEsIFNoaWZ0K0VudGVyIHNob3VsZCBzdGlsbCB3b3JrIGZvciBuZXdsaW5lcwogICAgICBpZiAoZS5rZXkgPT09ICJFbnRlciIgJiYgIWUuc2hpZnRLZXkgJiYgaXNDb21wb3NpbmcpIHsKICAgICAgICByZXR1cm47CiAgICAgIH0KCiAgICAgIC8vIE90aGVyd2lzZSwgY2FsbCB0aGUgdXNlcidzIG9uS2V5RG93bgogICAgICBvbktleURvd24/LihlKTsKICAgIH0sCiAgICBvbkNvbXBvc2l0aW9uU3RhcnQ6IGUgPT4gewogICAgICBkaWFsb2dDb21wb3NpdGlvbi5zZXRDb21wb3NpbmcodHJ1ZSk7CiAgICAgIG9uQ29tcG9zaXRpb25TdGFydD8uKGUpOwogICAgfSwKICAgIG9uQ29tcG9zaXRpb25FbmQ6IGUgPT4gewogICAgICAvLyBNYXJrIHRoYXQgY29tcG9zaXRpb24ganVzdCBlbmRlZCAtIHRoaXMgaGVscHMgaGFuZGxlIHRoZSBFbnRlciBrZXkgdGhhdCBjb25maXJtcyBpbnB1dAogICAgICBkaWFsb2dDb21wb3NpdGlvbi5tYXJrQ29tcG9zaXRpb25FbmQoKTsKICAgICAgLy8gRGVsYXkgc2V0dGluZyBjb21wb3NpbmcgdG8gZmFsc2UgdG8gaGFuZGxlIFNhZmFyaSdzIGV2ZW50IG9yZGVyCiAgICAgIC8vIEluIFNhZmFyaSwgY29tcG9zaXRpb25FbmQgZmlyZXMgYmVmb3JlIHRoZSBFU0Mga2V5ZG93biBldmVudAogICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBkaWFsb2dDb21wb3NpdGlvbi5zZXRDb21wb3NpbmcoZmFsc2UpOwogICAgICB9LCAxMDApOwogICAgICBvbkNvbXBvc2l0aW9uRW5kPy4oZSk7CiAgICB9LAogIH0pOwoKICByZXR1cm4gKAogICAgPHRleHRhcmVhCiAgICAgIGRhdGEtc2xvdD0idGV4dGFyZWEiCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImJvcmRlci1pbnB1dCBwbGFjZWhvbGRlcjp0ZXh0LW11dGVkLWZvcmVncm91bmQgZm9jdXMtdmlzaWJsZTpib3JkZXItcmluZyBmb2N1cy12aXNpYmxlOnJpbmctcmluZy81MCBhcmlhLWludmFsaWQ6cmluZy1kZXN0cnVjdGl2ZS8yMCBkYXJrOmFyaWEtaW52YWxpZDpyaW5nLWRlc3RydWN0aXZlLzQwIGFyaWEtaW52YWxpZDpib3JkZXItZGVzdHJ1Y3RpdmUgZGFyazpiZy1pbnB1dC8zMCBmbGV4IGZpZWxkLXNpemluZy1jb250ZW50IG1pbi1oLTE2IHctZnVsbCByb3VuZGVkLW1kIGJvcmRlciBiZy10cmFuc3BhcmVudCBweC0zIHB5LTIgdGV4dC1iYXNlIHNoYWRvdy14cyB0cmFuc2l0aW9uLVtjb2xvcixib3gtc2hhZG93XSBvdXRsaW5lLW5vbmUgZm9jdXMtdmlzaWJsZTpyaW5nLVszcHhdIGRpc2FibGVkOmN1cnNvci1ub3QtYWxsb3dlZCBkaXNhYmxlZDpvcGFjaXR5LTUwIG1kOnRleHQtc20iLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICBvbkNvbXBvc2l0aW9uU3RhcnQ9e2hhbmRsZUNvbXBvc2l0aW9uU3RhcnR9CiAgICAgIG9uQ29tcG9zaXRpb25FbmQ9e2hhbmRsZUNvbXBvc2l0aW9uRW5kfQogICAgICBvbktleURvd249e2hhbmRsZUtleURvd259CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKZXhwb3J0IHsgVGV4dGFyZWEgfTsK"}
+import { useDialogComposition } from "@/components/ui/dialog";
+import { useComposition } from "@/hooks/useComposition";
+import { cn } from "@/lib/utils";
+import * as React from "react";
+
+function Textarea({
+  className,
+  onKeyDown,
+  onCompositionStart,
+  onCompositionEnd,
+  ...props
+}: React.ComponentProps<"textarea">) {
+  // Get dialog composition context if available (will be no-op if not inside Dialog)
+  const dialogComposition = useDialogComposition();
+
+  // Add composition event handlers to support input method editor (IME) for CJK languages.
+  const {
+    onCompositionStart: handleCompositionStart,
+    onCompositionEnd: handleCompositionEnd,
+    onKeyDown: handleKeyDown,
+  } = useComposition<HTMLTextAreaElement>({
+    onKeyDown: (e) => {
+      // Check if this is an Enter key that should be blocked
+      const isComposing = (e.nativeEvent as any).isComposing || dialogComposition.justEndedComposing();
+
+      // If Enter key is pressed while composing or just after composition ended,
+      // don't call the user's onKeyDown (this blocks the business logic)
+      // Note: For textarea, Shift+Enter should still work for newlines
+      if (e.key === "Enter" && !e.shiftKey && isComposing) {
+        return;
+      }
+
+      // Otherwise, call the user's onKeyDown
+      onKeyDown?.(e);
+    },
+    onCompositionStart: e => {
+      dialogComposition.setComposing(true);
+      onCompositionStart?.(e);
+    },
+    onCompositionEnd: e => {
+      // Mark that composition just ended - this helps handle the Enter key that confirms input
+      dialogComposition.markCompositionEnd();
+      // Delay setting composing to false to handle Safari's event order
+      // In Safari, compositionEnd fires before the ESC keydown event
+      setTimeout(() => {
+        dialogComposition.setComposing(false);
+      }, 100);
+      onCompositionEnd?.(e);
+    },
+  });
+
+  return (
+    <textarea
+      data-slot="textarea"
+      className={cn(
+        "border-input placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:bg-input/30 flex field-sizing-content min-h-16 w-full rounded-md border bg-transparent px-3 py-2 text-base shadow-xs transition-[color,box-shadow] outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50 md:text-sm",
+        className
+      )}
+      onCompositionStart={handleCompositionStart}
+      onCompositionEnd={handleCompositionEnd}
+      onKeyDown={handleKeyDown}
+      {...props}
+    />
+  );
+}
+
+export { Textarea };

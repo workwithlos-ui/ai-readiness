@@ -1,1 +1,17 @@
-{"data":"ZXhwb3J0IHsgQ09PS0lFX05BTUUsIE9ORV9ZRUFSX01TIH0gZnJvbSAiQHNoYXJlZC9jb25zdCI7CgovLyBHZW5lcmF0ZSBsb2dpbiBVUkwgYXQgcnVudGltZSBzbyByZWRpcmVjdCBVUkkgcmVmbGVjdHMgdGhlIGN1cnJlbnQgb3JpZ2luLgpleHBvcnQgY29uc3QgZ2V0TG9naW5VcmwgPSAoKSA9PiB7CiAgY29uc3Qgb2F1dGhQb3J0YWxVcmwgPSBpbXBvcnQubWV0YS5lbnYuVklURV9PQVVUSF9QT1JUQUxfVVJMOwogIGNvbnN0IGFwcElkID0gaW1wb3J0Lm1ldGEuZW52LlZJVEVfQVBQX0lEOwogIGNvbnN0IHJlZGlyZWN0VXJpID0gYCR7d2luZG93LmxvY2F0aW9uLm9yaWdpbn0vYXBpL29hdXRoL2NhbGxiYWNrYDsKICBjb25zdCBzdGF0ZSA9IGJ0b2EocmVkaXJlY3RVcmkpOwoKICBjb25zdCB1cmwgPSBuZXcgVVJMKGAke29hdXRoUG9ydGFsVXJsfS9hcHAtYXV0aGApOwogIHVybC5zZWFyY2hQYXJhbXMuc2V0KCJhcHBJZCIsIGFwcElkKTsKICB1cmwuc2VhcmNoUGFyYW1zLnNldCgicmVkaXJlY3RVcmkiLCByZWRpcmVjdFVyaSk7CiAgdXJsLnNlYXJjaFBhcmFtcy5zZXQoInN0YXRlIiwgc3RhdGUpOwogIHVybC5zZWFyY2hQYXJhbXMuc2V0KCJ0eXBlIiwgInNpZ25JbiIpOwoKICByZXR1cm4gdXJsLnRvU3RyaW5nKCk7Cn07Cg=="}
+export { COOKIE_NAME, ONE_YEAR_MS } from "@shared/const";
+
+// Generate login URL at runtime so redirect URI reflects the current origin.
+export const getLoginUrl = () => {
+  const oauthPortalUrl = import.meta.env.VITE_OAUTH_PORTAL_URL;
+  const appId = import.meta.env.VITE_APP_ID;
+  const redirectUri = `${window.location.origin}/api/oauth/callback`;
+  const state = btoa(redirectUri);
+
+  const url = new URL(`${oauthPortalUrl}/app-auth`);
+  url.searchParams.set("appId", appId);
+  url.searchParams.set("redirectUri", redirectUri);
+  url.searchParams.set("state", state);
+  url.searchParams.set("type", "signIn");
+
+  return url.toString();
+};

@@ -1,1 +1,41 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CgppbnRlcmZhY2UgSGVhZGVyUHJvcHMgewogIHByb2dyZXNzOiBudW1iZXI7CiAgc2hvd1Byb2dyZXNzOiBib29sZWFuOwp9CgpleHBvcnQgZnVuY3Rpb24gSGVhZGVyKHsgcHJvZ3Jlc3MsIHNob3dQcm9ncmVzcyB9OiBIZWFkZXJQcm9wcykgewogIHJldHVybiAoCiAgICA8aGVhZGVyIGNsYXNzTmFtZT0ic3RpY2t5IHRvcC0wIHotNTAgYmctWyMwYTBhMGFdLzgwIGJhY2tkcm9wLWJsdXIteGwgYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzUiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctNXhsIG14LWF1dG8gcHgtNCBzbTpweC02IGgtMTQgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctNyBoLTcgcm91bmRlZC1tZCBiZy10ZWFsLTUwMC8xMCBib3JkZXIgYm9yZGVyLXRlYWwtNTAwLzMwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGNsYXNzTmFtZT0idGV4dC10ZWFsLTQwMCI+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIgLz4KICAgICAgICAgICAgICA8cGF0aCBkPSJNMiAxN2wxMCA1IDEwLTUiIC8+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTIgMTJsMTAgNSAxMC01IiAvPgogICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSB0cmFja2luZy10aWdodCI+QUkgUmVhZGluZXNzPC9zcGFuPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7c2hvd1Byb2dyZXNzICYmICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LWdyYXktNTAwIHRhYnVsYXItbnVtcyBmb250LVsnU3BhY2VfR3JvdGVzayddIj4KICAgICAgICAgICAgICB7TWF0aC5yb3VuZChwcm9ncmVzcyl9JQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTMyIHNtOnctNDggaC0xIGJnLXdoaXRlLzUgcm91bmRlZC1mdWxsIG92ZXJmbG93LWhpZGRlbiI+CiAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaC1mdWxsIGJnLXRlYWwtNTAwIHJvdW5kZWQtZnVsbCIKICAgICAgICAgICAgICAgIGluaXRpYWw9e3sgd2lkdGg6IDAgfX0KICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgd2lkdGg6IGAke3Byb2dyZXNzfSVgIH19CiAgICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjQsIGVhc2U6ICJlYXNlT3V0IiB9fQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CiAgICA8L2hlYWRlcj4KICApOwp9Cg=="}
+import { motion } from "framer-motion";
+
+interface HeaderProps {
+  progress: number;
+  showProgress: boolean;
+}
+
+export function Header({ progress, showProgress }: HeaderProps) {
+  return (
+    <header className="sticky top-0 z-50 bg-[#0a0a0a]/80 backdrop-blur-xl border-b border-white/5">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
+        <div className="flex items-center gap-2">
+          <div className="w-7 h-7 rounded-md bg-teal-500/10 border border-teal-500/30 flex items-center justify-center">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="text-teal-400">
+              <path d="M12 2L2 7l10 5 10-5-10-5z" />
+              <path d="M2 17l10 5 10-5" />
+              <path d="M2 12l10 5 10-5" />
+            </svg>
+          </div>
+          <span className="text-sm font-semibold text-white tracking-tight">AI Readiness</span>
+        </div>
+
+        {showProgress && (
+          <div className="flex items-center gap-3">
+            <span className="text-xs font-medium text-gray-500 tabular-nums font-['Space_Grotesk']">
+              {Math.round(progress)}%
+            </span>
+            <div className="w-32 sm:w-48 h-1 bg-white/5 rounded-full overflow-hidden">
+              <motion.div
+                className="h-full bg-teal-500 rounded-full"
+                initial={{ width: 0 }}
+                animate={{ width: `${progress}%` }}
+                transition={{ duration: 0.4, ease: "easeOut" }}
+              />
+            </div>
+          </div>
+        )}
+      </div>
+    </header>
+  );
+}

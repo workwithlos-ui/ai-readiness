@@ -1,1 +1,22 @@
-{"data":"ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAidGFyZ2V0IjogIkVTMjAyMiIsCiAgICAibGliIjogWyJFUzIwMjMiXSwKICAgICJtb2R1bGUiOiAiRVNOZXh0IiwKICAgICJza2lwTGliQ2hlY2siOiB0cnVlLAoKICAgIC8qIEJ1bmRsZXIgbW9kZSAqLwogICAgIm1vZHVsZVJlc29sdXRpb24iOiAiYnVuZGxlciIsCiAgICAiYWxsb3dJbXBvcnRpbmdUc0V4dGVuc2lvbnMiOiB0cnVlLAogICAgImlzb2xhdGVkTW9kdWxlcyI6IHRydWUsCiAgICAibW9kdWxlRGV0ZWN0aW9uIjogImZvcmNlIiwKICAgICJub0VtaXQiOiB0cnVlLAoKICAgIC8qIExpbnRpbmcgKi8KICAgICJzdHJpY3QiOiB0cnVlLAogICAgIm5vVW51c2VkTG9jYWxzIjogdHJ1ZSwKICAgICJub1VudXNlZFBhcmFtZXRlcnMiOiB0cnVlLAogICAgIm5vRmFsbHRocm91Z2hDYXNlc0luU3dpdGNoIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbInZpdGUuY29uZmlnLnRzIl0KfQo="}
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2023"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["vite.config.ts"]
+}

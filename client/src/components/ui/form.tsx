@@ -1,1 +1,168 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgKiBhcyBMYWJlbFByaW1pdGl2ZSBmcm9tICJAcmFkaXgtdWkvcmVhY3QtbGFiZWwiOwppbXBvcnQgeyBTbG90IH0gZnJvbSAiQHJhZGl4LXVpL3JlYWN0LXNsb3QiOwppbXBvcnQgewogIENvbnRyb2xsZXIsCiAgRm9ybVByb3ZpZGVyLAogIHVzZUZvcm1Db250ZXh0LAogIHVzZUZvcm1TdGF0ZSwKICB0eXBlIENvbnRyb2xsZXJQcm9wcywKICB0eXBlIEZpZWxkUGF0aCwKICB0eXBlIEZpZWxkVmFsdWVzLAp9IGZyb20gInJlYWN0LWhvb2stZm9ybSI7CgppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKaW1wb3J0IHsgTGFiZWwgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvbGFiZWwiOwoKY29uc3QgRm9ybSA9IEZvcm1Qcm92aWRlcjsKCnR5cGUgRm9ybUZpZWxkQ29udGV4dFZhbHVlPAogIFRGaWVsZFZhbHVlcyBleHRlbmRzIEZpZWxkVmFsdWVzID0gRmllbGRWYWx1ZXMsCiAgVE5hbWUgZXh0ZW5kcyBGaWVsZFBhdGg8VEZpZWxkVmFsdWVzPiA9IEZpZWxkUGF0aDxURmllbGRWYWx1ZXM+LAo+ID0gewogIG5hbWU6IFROYW1lOwp9OwoKY29uc3QgRm9ybUZpZWxkQ29udGV4dCA9IFJlYWN0LmNyZWF0ZUNvbnRleHQ8Rm9ybUZpZWxkQ29udGV4dFZhbHVlPigKICB7fSBhcyBGb3JtRmllbGRDb250ZXh0VmFsdWUKKTsKCmNvbnN0IEZvcm1GaWVsZCA9IDwKICBURmllbGRWYWx1ZXMgZXh0ZW5kcyBGaWVsZFZhbHVlcyA9IEZpZWxkVmFsdWVzLAogIFROYW1lIGV4dGVuZHMgRmllbGRQYXRoPFRGaWVsZFZhbHVlcz4gPSBGaWVsZFBhdGg8VEZpZWxkVmFsdWVzPiwKPih7CiAgLi4ucHJvcHMKfTogQ29udHJvbGxlclByb3BzPFRGaWVsZFZhbHVlcywgVE5hbWU+KSA9PiB7CiAgcmV0dXJuICgKICAgIDxGb3JtRmllbGRDb250ZXh0LlByb3ZpZGVyIHZhbHVlPXt7IG5hbWU6IHByb3BzLm5hbWUgfX0+CiAgICAgIDxDb250cm9sbGVyIHsuLi5wcm9wc30gLz4KICAgIDwvRm9ybUZpZWxkQ29udGV4dC5Qcm92aWRlcj4KICApOwp9OwoKY29uc3QgdXNlRm9ybUZpZWxkID0gKCkgPT4gewogIGNvbnN0IGZpZWxkQ29udGV4dCA9IFJlYWN0LnVzZUNvbnRleHQoRm9ybUZpZWxkQ29udGV4dCk7CiAgY29uc3QgaXRlbUNvbnRleHQgPSBSZWFjdC51c2VDb250ZXh0KEZvcm1JdGVtQ29udGV4dCk7CiAgY29uc3QgeyBnZXRGaWVsZFN0YXRlIH0gPSB1c2VGb3JtQ29udGV4dCgpOwogIGNvbnN0IGZvcm1TdGF0ZSA9IHVzZUZvcm1TdGF0ZSh7IG5hbWU6IGZpZWxkQ29udGV4dC5uYW1lIH0pOwogIGNvbnN0IGZpZWxkU3RhdGUgPSBnZXRGaWVsZFN0YXRlKGZpZWxkQ29udGV4dC5uYW1lLCBmb3JtU3RhdGUpOwoKICBpZiAoIWZpZWxkQ29udGV4dCkgewogICAgdGhyb3cgbmV3IEVycm9yKCJ1c2VGb3JtRmllbGQgc2hvdWxkIGJlIHVzZWQgd2l0aGluIDxGb3JtRmllbGQ+Iik7CiAgfQoKICBjb25zdCB7IGlkIH0gPSBpdGVtQ29udGV4dDsKCiAgcmV0dXJuIHsKICAgIGlkLAogICAgbmFtZTogZmllbGRDb250ZXh0Lm5hbWUsCiAgICBmb3JtSXRlbUlkOiBgJHtpZH0tZm9ybS1pdGVtYCwKICAgIGZvcm1EZXNjcmlwdGlvbklkOiBgJHtpZH0tZm9ybS1pdGVtLWRlc2NyaXB0aW9uYCwKICAgIGZvcm1NZXNzYWdlSWQ6IGAke2lkfS1mb3JtLWl0ZW0tbWVzc2FnZWAsCiAgICAuLi5maWVsZFN0YXRlLAogIH07Cn07Cgp0eXBlIEZvcm1JdGVtQ29udGV4dFZhbHVlID0gewogIGlkOiBzdHJpbmc7Cn07Cgpjb25zdCBGb3JtSXRlbUNvbnRleHQgPSBSZWFjdC5jcmVhdGVDb250ZXh0PEZvcm1JdGVtQ29udGV4dFZhbHVlPigKICB7fSBhcyBGb3JtSXRlbUNvbnRleHRWYWx1ZQopOwoKZnVuY3Rpb24gRm9ybUl0ZW0oeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJkaXYiPikgewogIGNvbnN0IGlkID0gUmVhY3QudXNlSWQoKTsKCiAgcmV0dXJuICgKICAgIDxGb3JtSXRlbUNvbnRleHQuUHJvdmlkZXIgdmFsdWU9e3sgaWQgfX0+CiAgICAgIDxkaXYKICAgICAgICBkYXRhLXNsb3Q9ImZvcm0taXRlbSIKICAgICAgICBjbGFzc05hbWU9e2NuKCJncmlkIGdhcC0yIiwgY2xhc3NOYW1lKX0KICAgICAgICB7Li4ucHJvcHN9CiAgICAgIC8+CiAgICA8L0Zvcm1JdGVtQ29udGV4dC5Qcm92aWRlcj4KICApOwp9CgpmdW5jdGlvbiBGb3JtTGFiZWwoewogIGNsYXNzTmFtZSwKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczx0eXBlb2YgTGFiZWxQcmltaXRpdmUuUm9vdD4pIHsKICBjb25zdCB7IGVycm9yLCBmb3JtSXRlbUlkIH0gPSB1c2VGb3JtRmllbGQoKTsKCiAgcmV0dXJuICgKICAgIDxMYWJlbAogICAgICBkYXRhLXNsb3Q9ImZvcm0tbGFiZWwiCiAgICAgIGRhdGEtZXJyb3I9eyEhZXJyb3J9CiAgICAgIGNsYXNzTmFtZT17Y24oImRhdGEtW2Vycm9yPXRydWVdOnRleHQtZGVzdHJ1Y3RpdmUiLCBjbGFzc05hbWUpfQogICAgICBodG1sRm9yPXtmb3JtSXRlbUlkfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICk7Cn0KCmZ1bmN0aW9uIEZvcm1Db250cm9sKHsgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIFNsb3Q+KSB7CiAgY29uc3QgeyBlcnJvciwgZm9ybUl0ZW1JZCwgZm9ybURlc2NyaXB0aW9uSWQsIGZvcm1NZXNzYWdlSWQgfSA9CiAgICB1c2VGb3JtRmllbGQoKTsKCiAgcmV0dXJuICgKICAgIDxTbG90CiAgICAgIGRhdGEtc2xvdD0iZm9ybS1jb250cm9sIgogICAgICBpZD17Zm9ybUl0ZW1JZH0KICAgICAgYXJpYS1kZXNjcmliZWRieT17CiAgICAgICAgIWVycm9yCiAgICAgICAgICA/IGAke2Zvcm1EZXNjcmlwdGlvbklkfWAKICAgICAgICAgIDogYCR7Zm9ybURlc2NyaXB0aW9uSWR9ICR7Zm9ybU1lc3NhZ2VJZH1gCiAgICAgIH0KICAgICAgYXJpYS1pbnZhbGlkPXshIWVycm9yfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICk7Cn0KCmZ1bmN0aW9uIEZvcm1EZXNjcmlwdGlvbih7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8InAiPikgewogIGNvbnN0IHsgZm9ybURlc2NyaXB0aW9uSWQgfSA9IHVzZUZvcm1GaWVsZCgpOwoKICByZXR1cm4gKAogICAgPHAKICAgICAgZGF0YS1zbG90PSJmb3JtLWRlc2NyaXB0aW9uIgogICAgICBpZD17Zm9ybURlc2NyaXB0aW9uSWR9CiAgICAgIGNsYXNzTmFtZT17Y24oInRleHQtbXV0ZWQtZm9yZWdyb3VuZCB0ZXh0LXNtIiwgY2xhc3NOYW1lKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBGb3JtTWVzc2FnZSh7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8InAiPikgewogIGNvbnN0IHsgZXJyb3IsIGZvcm1NZXNzYWdlSWQgfSA9IHVzZUZvcm1GaWVsZCgpOwogIGNvbnN0IGJvZHkgPSBlcnJvciA/IFN0cmluZyhlcnJvcj8ubWVzc2FnZSA/PyAiIikgOiBwcm9wcy5jaGlsZHJlbjsKCiAgaWYgKCFib2R5KSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIHJldHVybiAoCiAgICA8cAogICAgICBkYXRhLXNsb3Q9ImZvcm0tbWVzc2FnZSIKICAgICAgaWQ9e2Zvcm1NZXNzYWdlSWR9CiAgICAgIGNsYXNzTmFtZT17Y24oInRleHQtZGVzdHJ1Y3RpdmUgdGV4dC1zbSIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgID4KICAgICAge2JvZHl9CiAgICA8L3A+CiAgKTsKfQoKZXhwb3J0IHsKICB1c2VGb3JtRmllbGQsCiAgRm9ybSwKICBGb3JtSXRlbSwKICBGb3JtTGFiZWwsCiAgRm9ybUNvbnRyb2wsCiAgRm9ybURlc2NyaXB0aW9uLAogIEZvcm1NZXNzYWdlLAogIEZvcm1GaWVsZCwKfTsK"}
+"use client";
+
+import * as React from "react";
+import * as LabelPrimitive from "@radix-ui/react-label";
+import { Slot } from "@radix-ui/react-slot";
+import {
+  Controller,
+  FormProvider,
+  useFormContext,
+  useFormState,
+  type ControllerProps,
+  type FieldPath,
+  type FieldValues,
+} from "react-hook-form";
+
+import { cn } from "@/lib/utils";
+import { Label } from "@/components/ui/label";
+
+const Form = FormProvider;
+
+type FormFieldContextValue<
+  TFieldValues extends FieldValues = FieldValues,
+  TName extends FieldPath<TFieldValues> = FieldPath<TFieldValues>,
+> = {
+  name: TName;
+};
+
+const FormFieldContext = React.createContext<FormFieldContextValue>(
+  {} as FormFieldContextValue
+);
+
+const FormField = <
+  TFieldValues extends FieldValues = FieldValues,
+  TName extends FieldPath<TFieldValues> = FieldPath<TFieldValues>,
+>({
+  ...props
+}: ControllerProps<TFieldValues, TName>) => {
+  return (
+    <FormFieldContext.Provider value={{ name: props.name }}>
+      <Controller {...props} />
+    </FormFieldContext.Provider>
+  );
+};
+
+const useFormField = () => {
+  const fieldContext = React.useContext(FormFieldContext);
+  const itemContext = React.useContext(FormItemContext);
+  const { getFieldState } = useFormContext();
+  const formState = useFormState({ name: fieldContext.name });
+  const fieldState = getFieldState(fieldContext.name, formState);
+
+  if (!fieldContext) {
+    throw new Error("useFormField should be used within <FormField>");
+  }
+
+  const { id } = itemContext;
+
+  return {
+    id,
+    name: fieldContext.name,
+    formItemId: `${id}-form-item`,
+    formDescriptionId: `${id}-form-item-description`,
+    formMessageId: `${id}-form-item-message`,
+    ...fieldState,
+  };
+};
+
+type FormItemContextValue = {
+  id: string;
+};
+
+const FormItemContext = React.createContext<FormItemContextValue>(
+  {} as FormItemContextValue
+);
+
+function FormItem({ className, ...props }: React.ComponentProps<"div">) {
+  const id = React.useId();
+
+  return (
+    <FormItemContext.Provider value={{ id }}>
+      <div
+        data-slot="form-item"
+        className={cn("grid gap-2", className)}
+        {...props}
+      />
+    </FormItemContext.Provider>
+  );
+}
+
+function FormLabel({
+  className,
+  ...props
+}: React.ComponentProps<typeof LabelPrimitive.Root>) {
+  const { error, formItemId } = useFormField();
+
+  return (
+    <Label
+      data-slot="form-label"
+      data-error={!!error}
+      className={cn("data-[error=true]:text-destructive", className)}
+      htmlFor={formItemId}
+      {...props}
+    />
+  );
+}
+
+function FormControl({ ...props }: React.ComponentProps<typeof Slot>) {
+  const { error, formItemId, formDescriptionId, formMessageId } =
+    useFormField();
+
+  return (
+    <Slot
+      data-slot="form-control"
+      id={formItemId}
+      aria-describedby={
+        !error
+          ? `${formDescriptionId}`
+          : `${formDescriptionId} ${formMessageId}`
+      }
+      aria-invalid={!!error}
+      {...props}
+    />
+  );
+}
+
+function FormDescription({ className, ...props }: React.ComponentProps<"p">) {
+  const { formDescriptionId } = useFormField();
+
+  return (
+    <p
+      data-slot="form-description"
+      id={formDescriptionId}
+      className={cn("text-muted-foreground text-sm", className)}
+      {...props}
+    />
+  );
+}
+
+function FormMessage({ className, ...props }: React.ComponentProps<"p">) {
+  const { error, formMessageId } = useFormField();
+  const body = error ? String(error?.message ?? "") : props.children;
+
+  if (!body) {
+    return null;
+  }
+
+  return (
+    <p
+      data-slot="form-message"
+      id={formMessageId}
+      className={cn("text-destructive text-sm", className)}
+      {...props}
+    >
+      {body}
+    </p>
+  );
+}
+
+export {
+  useFormField,
+  Form,
+  FormItem,
+  FormLabel,
+  FormControl,
+  FormDescription,
+  FormMessage,
+  FormField,
+};

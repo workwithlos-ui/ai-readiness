@@ -1,1 +1,171 @@
-{"data":"LyoKICogQUkgUmVhZGluZXNzIEFzc2Vzc21lbnQgLSBNYWluIFBhZ2UKICogRGVzaWduOiBTd2lzcyBQcmVjaXNpb24gLSBOZW8tU3dpc3MgbWluaW1hbGlzbSwgdGVhbCBhY2NlbnQgb24gdHJ1ZSBibGFjawogKiBUeXBvZ3JhcGh5OiBQbHVzIEpha2FydGEgU2FucyAoaGVhZGluZ3MpLCBTcGFjZSBHcm90ZXNrIChudW1iZXJzKQogKi8KaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUNhbGxiYWNrIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBBbmltYXRlUHJlc2VuY2UgfSBmcm9tICJmcmFtZXItbW90aW9uIjsKaW1wb3J0IHsgSGVyb1NjcmVlbiB9IGZyb20gIkAvY29tcG9uZW50cy9IZXJvU2NyZWVuIjsKaW1wb3J0IHsgUXVpelNjcmVlbiB9IGZyb20gIkAvY29tcG9uZW50cy9RdWl6U2NyZWVuIjsKaW1wb3J0IHsgRW1haWxDYXB0dXJlIH0gZnJvbSAiQC9jb21wb25lbnRzL0VtYWlsQ2FwdHVyZSI7CmltcG9ydCB7IFJlcG9ydFNjcmVlbiB9IGZyb20gIkAvY29tcG9uZW50cy9SZXBvcnRTY3JlZW4iOwppbXBvcnQgeyBIZWFkZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvSGVhZGVyIjsKaW1wb3J0IHsgRm9vdGVyIH0gZnJvbSAiQC9jb21wb25lbnRzL0Zvb3RlciI7CmltcG9ydCB7CiAgc2NyZWVucywKICBjYWxjdWxhdGVTY29yZXMsCiAgdHlwZSBBc3Nlc3NtZW50QW5zd2VycywKICB0eXBlIFVzZXJJbmZvLAogIHR5cGUgQXNzZXNzbWVudFJlc3VsdCwKfSBmcm9tICJAL2xpYi9hc3Nlc3NtZW50LWRhdGEiOwoKdHlwZSBBcHBTdGF0ZSA9ICJoZXJvIiB8ICJxdWl6IiB8ICJlbWFpbCIgfCAibG9hZGluZyIgfCAicmVwb3J0IjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWUoKSB7CiAgY29uc3QgW2FwcFN0YXRlLCBzZXRBcHBTdGF0ZV0gPSB1c2VTdGF0ZTxBcHBTdGF0ZT4oImhlcm8iKTsKICBjb25zdCBbY3VycmVudFNjcmVlbiwgc2V0Q3VycmVudFNjcmVlbl0gPSB1c2VTdGF0ZSgwKTsKICBjb25zdCBbYW5zd2Vycywgc2V0QW5zd2Vyc10gPSB1c2VTdGF0ZTxBc3Nlc3NtZW50QW5zd2Vycz4oe30pOwogIGNvbnN0IFtyZXN1bHQsIHNldFJlc3VsdF0gPSB1c2VTdGF0ZTxBc3Nlc3NtZW50UmVzdWx0IHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW2FpUmVwb3J0LCBzZXRBaVJlcG9ydF0gPSB1c2VTdGF0ZTxzdHJpbmc+KCIiKTsKICBjb25zdCBbaXNHZW5lcmF0aW5nLCBzZXRJc0dlbmVyYXRpbmddID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCB0b3RhbFNjcmVlbnMgPSBzY3JlZW5zLmxlbmd0aDsKICBjb25zdCBwcm9ncmVzcyA9IGFwcFN0YXRlID09PSAicXVpeiIgPyAoKGN1cnJlbnRTY3JlZW4gKyAxKSAvIHRvdGFsU2NyZWVucykgKiAxMDAgOiAwOwoKICBjb25zdCBoYW5kbGVTdGFydCA9IHVzZUNhbGxiYWNrKCgpID0+IHsKICAgIHNldEFwcFN0YXRlKCJxdWl6Iik7CiAgICBzZXRDdXJyZW50U2NyZWVuKDApOwogIH0sIFtdKTsKCiAgY29uc3QgaGFuZGxlQW5zd2VyID0gdXNlQ2FsbGJhY2soCiAgICAocXVlc3Rpb25JZDogbnVtYmVyLCB2YWx1ZTogc3RyaW5nIHwgc3RyaW5nW10pID0+IHsKICAgICAgc2V0QW5zd2VycygocHJldikgPT4gKHsgLi4ucHJldiwgW3F1ZXN0aW9uSWRdOiB2YWx1ZSB9KSk7CiAgICB9LAogICAgW10KICApOwoKICBjb25zdCBoYW5kbGVOZXh0ID0gdXNlQ2FsbGJhY2soKCkgPT4gewogICAgaWYgKGN1cnJlbnRTY3JlZW4gPCB0b3RhbFNjcmVlbnMgLSAxKSB7CiAgICAgIHNldEN1cnJlbnRTY3JlZW4oKHByZXYpID0+IHByZXYgKyAxKTsKICAgIH0gZWxzZSB7CiAgICAgIHNldEFwcFN0YXRlKCJlbWFpbCIpOwogICAgfQogIH0sIFtjdXJyZW50U2NyZWVuLCB0b3RhbFNjcmVlbnNdKTsKCiAgY29uc3QgaGFuZGxlQmFjayA9IHVzZUNhbGxiYWNrKCgpID0+IHsKICAgIGlmIChjdXJyZW50U2NyZWVuID4gMCkgewogICAgICBzZXRDdXJyZW50U2NyZWVuKChwcmV2KSA9PiBwcmV2IC0gMSk7CiAgICB9IGVsc2UgewogICAgICBzZXRBcHBTdGF0ZSgiaGVybyIpOwogICAgfQogIH0sIFtjdXJyZW50U2NyZWVuXSk7CgogIGNvbnN0IGhhbmRsZUVtYWlsU3VibWl0ID0gdXNlQ2FsbGJhY2soCiAgICBhc3luYyAodXNlckluZm86IFVzZXJJbmZvKSA9PiB7CiAgICAgIHNldEFwcFN0YXRlKCJsb2FkaW5nIik7CiAgICAgIHNldElzR2VuZXJhdGluZyh0cnVlKTsKCiAgICAgIGNvbnN0IHsgb3ZlcmFsbFNjb3JlLCBjYXRlZ29yaWVzIH0gPSBjYWxjdWxhdGVTY29yZXMoYW5zd2Vycyk7CiAgICAgIGNvbnN0IGluZHVzdHJ5ID0gKGFuc3dlcnNbMV0gYXMgc3RyaW5nKSB8fCAiT3RoZXIiOwogICAgICBjb25zdCByZXZlbnVlID0gKGFuc3dlcnNbMl0gYXMgc3RyaW5nKSB8fCAiVW5kZXIgJDUwMEsiOwogICAgICBjb25zdCBlbXBsb3llZXMgPSAoYW5zd2Vyc1szXSBhcyBzdHJpbmcpIHx8ICIxLTUiOwoKICAgICAgY29uc3QgYXNzZXNzbWVudFJlc3VsdDogQXNzZXNzbWVudFJlc3VsdCA9IHsKICAgICAgICBvdmVyYWxsU2NvcmUsCiAgICAgICAgY2F0ZWdvcmllcywKICAgICAgICBhbnN3ZXJzLAogICAgICAgIHVzZXJJbmZvLAogICAgICAgIGluZHVzdHJ5LAogICAgICAgIHJldmVudWUsCiAgICAgICAgZW1wbG95ZWVzLAogICAgICB9OwoKICAgICAgc2V0UmVzdWx0KGFzc2Vzc21lbnRSZXN1bHQpOwoKICAgICAgLy8gQ2FsbCB0aGUgQVBJIHRvIGdlbmVyYXRlIHRoZSByZXBvcnQKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKCIvYXBpL2dlbmVyYXRlLXJlcG9ydCIsIHsKICAgICAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICAgICAgaGVhZGVyczogeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iIH0sCiAgICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShhc3Nlc3NtZW50UmVzdWx0KSwKICAgICAgICB9KTsKCiAgICAgICAgaWYgKHJlc3BvbnNlLm9rKSB7CiAgICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzcG9uc2UuanNvbigpOwogICAgICAgICAgc2V0QWlSZXBvcnQoZGF0YS5yZXBvcnQgfHwgIiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAvLyBGYWxsYmFjazogZ2VuZXJhdGUgYSBiYXNpYyByZXBvcnQgY2xpZW50LXNpZGUKICAgICAgICAgIHNldEFpUmVwb3J0KCIiKTsKICAgICAgICB9CiAgICAgIH0gY2F0Y2ggewogICAgICAgIHNldEFpUmVwb3J0KCIiKTsKICAgICAgfQoKICAgICAgc2V0SXNHZW5lcmF0aW5nKGZhbHNlKTsKICAgICAgc2V0QXBwU3RhdGUoInJlcG9ydCIpOwogICAgfSwKICAgIFthbnN3ZXJzXQogICk7CgogIGNvbnN0IGNhblByb2NlZWQgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBjb25zdCBjdXJyZW50UXVlc3Rpb25zID0gc2NyZWVuc1tjdXJyZW50U2NyZWVuXT8ucXVlc3Rpb25zIHx8IFtdOwogICAgcmV0dXJuIGN1cnJlbnRRdWVzdGlvbnMuZXZlcnkoKHEpID0+IHsKICAgICAgY29uc3QgYW5zd2VyID0gYW5zd2Vyc1txLmlkXTsKICAgICAgaWYgKHEudHlwZSA9PT0gIm11bHRpLXNlbGVjdCIpIHsKICAgICAgICByZXR1cm4gQXJyYXkuaXNBcnJheShhbnN3ZXIpICYmIGFuc3dlci5sZW5ndGggPiAwOwogICAgICB9CiAgICAgIHJldHVybiBhbnN3ZXIgIT09IHVuZGVmaW5lZCAmJiBhbnN3ZXIgIT09ICIiOwogICAgfSk7CiAgfSwgW2N1cnJlbnRTY3JlZW4sIGFuc3dlcnNdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gZmxleCBmbGV4LWNvbCBiZy1bIzBhMGEwYV0iPgogICAgICA8SGVhZGVyIHByb2dyZXNzPXtwcm9ncmVzc30gc2hvd1Byb2dyZXNzPXthcHBTdGF0ZSA9PT0gInF1aXoifSAvPgoKICAgICAgPG1haW4gY2xhc3NOYW1lPSJmbGV4LTEgZmxleCBmbGV4LWNvbCI+CiAgICAgICAgPEFuaW1hdGVQcmVzZW5jZSBtb2RlPSJ3YWl0Ij4KICAgICAgICAgIHthcHBTdGF0ZSA9PT0gImhlcm8iICYmICgKICAgICAgICAgICAgPEhlcm9TY3JlZW4ga2V5PSJoZXJvIiBvblN0YXJ0PXtoYW5kbGVTdGFydH0gLz4KICAgICAgICAgICl9CgogICAgICAgICAge2FwcFN0YXRlID09PSAicXVpeiIgJiYgKAogICAgICAgICAgICA8UXVpelNjcmVlbgogICAgICAgICAgICAgIGtleT17YHF1aXotJHtjdXJyZW50U2NyZWVufWB9CiAgICAgICAgICAgICAgc2NyZWVuPXtzY3JlZW5zW2N1cnJlbnRTY3JlZW5dfQogICAgICAgICAgICAgIHNjcmVlbkluZGV4PXtjdXJyZW50U2NyZWVufQogICAgICAgICAgICAgIHRvdGFsU2NyZWVucz17dG90YWxTY3JlZW5zfQogICAgICAgICAgICAgIGFuc3dlcnM9e2Fuc3dlcnN9CiAgICAgICAgICAgICAgb25BbnN3ZXI9e2hhbmRsZUFuc3dlcn0KICAgICAgICAgICAgICBvbk5leHQ9e2hhbmRsZU5leHR9CiAgICAgICAgICAgICAgb25CYWNrPXtoYW5kbGVCYWNrfQogICAgICAgICAgICAgIGNhblByb2NlZWQ9e2NhblByb2NlZWQoKX0KICAgICAgICAgICAgLz4KICAgICAgICAgICl9CgogICAgICAgICAge2FwcFN0YXRlID09PSAiZW1haWwiICYmICgKICAgICAgICAgICAgPEVtYWlsQ2FwdHVyZSBrZXk9ImVtYWlsIiBvblN1Ym1pdD17aGFuZGxlRW1haWxTdWJtaXR9IG9uQmFjaz17KCkgPT4gc2V0QXBwU3RhdGUoInF1aXoiKX0gLz4KICAgICAgICAgICl9CgogICAgICAgICAge2FwcFN0YXRlID09PSAibG9hZGluZyIgJiYgKAogICAgICAgICAgICA8ZGl2IGtleT0ibG9hZGluZyIgY2xhc3NOYW1lPSJmbGV4LTEgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgdy0yMCBoLTIwIG14LWF1dG8gbWItNiI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHJvdW5kZWQtZnVsbCBib3JkZXItMiBib3JkZXItdGVhbC01MDAvMjAiIC8+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHJvdW5kZWQtZnVsbCBib3JkZXItMiBib3JkZXItdGVhbC01MDAgYm9yZGVyLXQtdHJhbnNwYXJlbnQgYW5pbWF0ZS1zcGluIiAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbGcgZm9udC1tZWRpdW0gdGV4dC13aGl0ZSI+QW5hbHl6aW5nIHlvdXIgcmVzcG9uc2VzLi4uPC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtZ3JheS01MDAgbXQtMiI+R2VuZXJhdGluZyB5b3VyIHBlcnNvbmFsaXplZCBBSSByZWFkaW5lc3MgcmVwb3J0PC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICl9CgogICAgICAgICAge2FwcFN0YXRlID09PSAicmVwb3J0IiAmJiByZXN1bHQgJiYgKAogICAgICAgICAgICA8UmVwb3J0U2NyZWVuIGtleT0icmVwb3J0IiByZXN1bHQ9e3Jlc3VsdH0gYWlSZXBvcnQ9e2FpUmVwb3J0fSAvPgogICAgICAgICAgKX0KICAgICAgICA8L0FuaW1hdGVQcmVzZW5jZT4KICAgICAgPC9tYWluPgoKICAgICAgPEZvb3RlciAvPgogICAgPC9kaXY+CiAgKTsKfQo="}
+/*
+ * AI Readiness Assessment - Main Page
+ * Design: Swiss Precision - Neo-Swiss minimalism, teal accent on true black
+ * Typography: Plus Jakarta Sans (headings), Space Grotesk (numbers)
+ */
+import { useState, useCallback } from "react";
+import { AnimatePresence } from "framer-motion";
+import { HeroScreen } from "@/components/HeroScreen";
+import { QuizScreen } from "@/components/QuizScreen";
+import { EmailCapture } from "@/components/EmailCapture";
+import { ReportScreen } from "@/components/ReportScreen";
+import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
+import {
+  screens,
+  calculateScores,
+  type AssessmentAnswers,
+  type UserInfo,
+  type AssessmentResult,
+} from "@/lib/assessment-data";
+
+type AppState = "hero" | "quiz" | "email" | "loading" | "report";
+
+export default function Home() {
+  const [appState, setAppState] = useState<AppState>("hero");
+  const [currentScreen, setCurrentScreen] = useState(0);
+  const [answers, setAnswers] = useState<AssessmentAnswers>({});
+  const [result, setResult] = useState<AssessmentResult | null>(null);
+  const [aiReport, setAiReport] = useState<string>("");
+  const [isGenerating, setIsGenerating] = useState(false);
+
+  const totalScreens = screens.length;
+  const progress = appState === "quiz" ? ((currentScreen + 1) / totalScreens) * 100 : 0;
+
+  const handleStart = useCallback(() => {
+    setAppState("quiz");
+    setCurrentScreen(0);
+  }, []);
+
+  const handleAnswer = useCallback(
+    (questionId: number, value: string | string[]) => {
+      setAnswers((prev) => ({ ...prev, [questionId]: value }));
+    },
+    []
+  );
+
+  const handleNext = useCallback(() => {
+    if (currentScreen < totalScreens - 1) {
+      setCurrentScreen((prev) => prev + 1);
+    } else {
+      setAppState("email");
+    }
+  }, [currentScreen, totalScreens]);
+
+  const handleBack = useCallback(() => {
+    if (currentScreen > 0) {
+      setCurrentScreen((prev) => prev - 1);
+    } else {
+      setAppState("hero");
+    }
+  }, [currentScreen]);
+
+  const handleEmailSubmit = useCallback(
+    async (userInfo: UserInfo) => {
+      setAppState("loading");
+      setIsGenerating(true);
+
+      const { overallScore, categories } = calculateScores(answers);
+      const industry = (answers[1] as string) || "Other";
+      const revenue = (answers[2] as string) || "Under $500K";
+      const employees = (answers[3] as string) || "1-5";
+
+      const assessmentResult: AssessmentResult = {
+        overallScore,
+        categories,
+        answers,
+        userInfo,
+        industry,
+        revenue,
+        employees,
+      };
+
+      setResult(assessmentResult);
+
+      // Call the API to generate the report
+      try {
+        const response = await fetch("/api/generate-report", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(assessmentResult),
+        });
+
+        if (response.ok) {
+          const data = await response.json();
+          setAiReport(data.report || "");
+        } else {
+          // Fallback: generate a basic report client-side
+          setAiReport("");
+        }
+      } catch {
+        setAiReport("");
+      }
+
+      setIsGenerating(false);
+      setAppState("report");
+    },
+    [answers]
+  );
+
+  const canProceed = useCallback(() => {
+    const currentQuestions = screens[currentScreen]?.questions || [];
+    return currentQuestions.every((q) => {
+      const answer = answers[q.id];
+      if (q.type === "multi-select") {
+        return Array.isArray(answer) && answer.length > 0;
+      }
+      return answer !== undefined && answer !== "";
+    });
+  }, [currentScreen, answers]);
+
+  return (
+    <div className="min-h-screen flex flex-col bg-[#0a0a0a]">
+      <Header progress={progress} showProgress={appState === "quiz"} />
+
+      <main className="flex-1 flex flex-col">
+        <AnimatePresence mode="wait">
+          {appState === "hero" && (
+            <HeroScreen key="hero" onStart={handleStart} />
+          )}
+
+          {appState === "quiz" && (
+            <QuizScreen
+              key={`quiz-${currentScreen}`}
+              screen={screens[currentScreen]}
+              screenIndex={currentScreen}
+              totalScreens={totalScreens}
+              answers={answers}
+              onAnswer={handleAnswer}
+              onNext={handleNext}
+              onBack={handleBack}
+              canProceed={canProceed()}
+            />
+          )}
+
+          {appState === "email" && (
+            <EmailCapture key="email" onSubmit={handleEmailSubmit} onBack={() => setAppState("quiz")} />
+          )}
+
+          {appState === "loading" && (
+            <div key="loading" className="flex-1 flex items-center justify-center">
+              <div className="text-center">
+                <div className="relative w-20 h-20 mx-auto mb-6">
+                  <div className="absolute inset-0 rounded-full border-2 border-teal-500/20" />
+                  <div className="absolute inset-0 rounded-full border-2 border-teal-500 border-t-transparent animate-spin" />
+                </div>
+                <p className="text-lg font-medium text-white">Analyzing your responses...</p>
+                <p className="text-sm text-gray-500 mt-2">Generating your personalized AI readiness report</p>
+              </div>
+            </div>
+          )}
+
+          {appState === "report" && result && (
+            <ReportScreen key="report" result={result} aiReport={aiReport} />
+          )}
+        </AnimatePresence>
+      </main>
+
+      <Footer />
+    </div>
+  );
+}

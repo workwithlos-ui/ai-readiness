@@ -1,1 +1,415 @@
-{"data":"Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIEFJIFJlYWRpbmVzcyBBc3Nlc3NtZW50IC0gRGF0YSBNb2RlbCAmIFNjb3JpbmcgRW5naW5lCi8vIERlc2lnbjogU3dpc3MgUHJlY2lzaW9uIC0gY2xlYW4sIGF1dGhvcml0YXRpdmUsIGRhdGEtZHJpdmVuCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKZXhwb3J0IGludGVyZmFjZSBPcHRpb24gewogIGxhYmVsOiBzdHJpbmc7CiAgdmFsdWU6IHN0cmluZzsKICBzY29yZTogbnVtYmVyOwp9CgpleHBvcnQgaW50ZXJmYWNlIFF1ZXN0aW9uIHsKICBpZDogbnVtYmVyOwogIHRleHQ6IHN0cmluZzsKICB0eXBlOiAic2luZ2xlIiB8ICJtdWx0aS1zZWxlY3QiIHwgImRyb3Bkb3duIjsKICBvcHRpb25zOiBPcHRpb25bXTsKICBjYXRlZ29yeTogImJhc2ljcyIgfCAib3BlcmF0aW9ucyIgfCAidGVjaG5vbG9neSIgfCAiZ3Jvd3RoIiB8ICJyZWFkaW5lc3MiOwp9CgpleHBvcnQgaW50ZXJmYWNlIFNjcmVlbiB7CiAgaWQ6IG51bWJlcjsKICB0aXRsZTogc3RyaW5nOwogIHN1YnRpdGxlOiBzdHJpbmc7CiAgcXVlc3Rpb25zOiBRdWVzdGlvbltdOwp9CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJJbmZvIHsKICBuYW1lOiBzdHJpbmc7CiAgZW1haWw6IHN0cmluZzsKICBjb21wYW55OiBzdHJpbmc7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgQXNzZXNzbWVudEFuc3dlcnMgewogIFtxdWVzdGlvbklkOiBudW1iZXJdOiBzdHJpbmcgfCBzdHJpbmdbXTsKfQoKZXhwb3J0IGludGVyZmFjZSBDYXRlZ29yeVNjb3JlIHsKICBuYW1lOiBzdHJpbmc7CiAgc2NvcmU6IG51bWJlcjsKICBtYXhTY29yZTogbnVtYmVyOwogIHBlcmNlbnRhZ2U6IG51bWJlcjsKICB3ZWlnaHQ6IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBBc3Nlc3NtZW50UmVzdWx0IHsKICBvdmVyYWxsU2NvcmU6IG51bWJlcjsKICBjYXRlZ29yaWVzOiBDYXRlZ29yeVNjb3JlW107CiAgYW5zd2VyczogQXNzZXNzbWVudEFuc3dlcnM7CiAgdXNlckluZm86IFVzZXJJbmZvOwogIGluZHVzdHJ5OiBzdHJpbmc7CiAgcmV2ZW51ZTogc3RyaW5nOwogIGVtcGxveWVlczogc3RyaW5nOwp9CgovLyBJbmR1c3RyeSBiZW5jaG1hcmtzIChhdmVyYWdlIHNjb3JlcyBvdXQgb2YgMTAwKQpleHBvcnQgY29uc3QgaW5kdXN0cnlCZW5jaG1hcmtzOiBSZWNvcmQ8c3RyaW5nLCBudW1iZXI+ID0gewogICJIb21lIFNlcnZpY2VzIjogMzIsCiAgIkRUQy9FY29tbWVyY2UiOiA1NSwKICAiUHJvZmVzc2lvbmFsIFNlcnZpY2VzIjogNDEsCiAgIkhlYWx0aGNhcmUiOiAzOCwKICAiUmVhbCBFc3RhdGUiOiAzNSwKICAiTWFya2V0aW5nL0FnZW5jeSI6IDUyLAogICJNYW51ZmFjdHVyaW5nIjogMjksCiAgIk90aGVyIjogNDAsCn07CgovLyBSZXZlbnVlIG11bHRpcGxpZXJzIGZvciBkb2xsYXIgZXN0aW1hdGVzCmV4cG9ydCBjb25zdCByZXZlbnVlTXVsdGlwbGllcnM6IFJlY29yZDxzdHJpbmcsIG51bWJlcj4gPSB7CiAgIlVuZGVyICQ1MDBLIjogMzUwMDAwLAogICIkNTAwSy0kMU0iOiA3NTAwMDAsCiAgIiQxTS0kM00iOiAyMDAwMDAwLAogICIkM00tJDVNIjogNDAwMDAwMCwKICAiJDVNLSQxME0iOiA3NTAwMDAwLAogICIkMTBNLSQyNU0iOiAxNzUwMDAwMCwKICAiJDI1TS0kNTBNIjogMzc1MDAwMDAsCiAgIiQ1ME0rIjogNzUwMDAwMDAsCn07CgpleHBvcnQgY29uc3Qgc2NyZWVuczogU2NyZWVuW10gPSBbCiAgewogICAgaWQ6IDEsCiAgICB0aXRsZTogIkJ1c2luZXNzIEJhc2ljcyIsCiAgICBzdWJ0aXRsZTogIlRlbGwgdXMgYWJvdXQgeW91ciBjb21wYW55IiwKICAgIHF1ZXN0aW9uczogWwogICAgICB7CiAgICAgICAgaWQ6IDEsCiAgICAgICAgdGV4dDogIldoYXQgaW5kdXN0cnkgYXJlIHlvdSBpbj8iLAogICAgICAgIHR5cGU6ICJkcm9wZG93biIsCiAgICAgICAgY2F0ZWdvcnk6ICJiYXNpY3MiLAogICAgICAgIG9wdGlvbnM6IFsKICAgICAgICAgIHsgbGFiZWw6ICJIb21lIFNlcnZpY2VzIiwgdmFsdWU6ICJIb21lIFNlcnZpY2VzIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICJEVEMvRWNvbW1lcmNlIiwgdmFsdWU6ICJEVEMvRWNvbW1lcmNlIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICJQcm9mZXNzaW9uYWwgU2VydmljZXMiLCB2YWx1ZTogIlByb2Zlc3Npb25hbCBTZXJ2aWNlcyIsIHNjb3JlOiAwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiSGVhbHRoY2FyZSIsIHZhbHVlOiAiSGVhbHRoY2FyZSIsIHNjb3JlOiAwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiUmVhbCBFc3RhdGUiLCB2YWx1ZTogIlJlYWwgRXN0YXRlIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICJNYXJrZXRpbmcvQWdlbmN5IiwgdmFsdWU6ICJNYXJrZXRpbmcvQWdlbmN5Iiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICJNYW51ZmFjdHVyaW5nIiwgdmFsdWU6ICJNYW51ZmFjdHVyaW5nIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICJPdGhlciIsIHZhbHVlOiAiT3RoZXIiLCBzY29yZTogMCB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogMiwKICAgICAgICB0ZXh0OiAiV2hhdCBpcyB5b3VyIGFubnVhbCByZXZlbnVlPyIsCiAgICAgICAgdHlwZTogImRyb3Bkb3duIiwKICAgICAgICBjYXRlZ29yeTogImJhc2ljcyIsCiAgICAgICAgb3B0aW9uczogWwogICAgICAgICAgeyBsYWJlbDogIlVuZGVyICQ1MDBLIiwgdmFsdWU6ICJVbmRlciAkNTAwSyIsIHNjb3JlOiAwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiJDUwMEsgLSAkMU0iLCB2YWx1ZTogIiQ1MDBLLSQxTSIsIHNjb3JlOiAwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiJDFNIC0gJDNNIiwgdmFsdWU6ICIkMU0tJDNNIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICIkM00gLSAkNU0iLCB2YWx1ZTogIiQzTS0kNU0iLCBzY29yZTogMCB9LAogICAgICAgICAgeyBsYWJlbDogIiQ1TSAtICQxME0iLCB2YWx1ZTogIiQ1TS0kMTBNIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICIkMTBNIC0gJDI1TSIsIHZhbHVlOiAiJDEwTS0kMjVNIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICIkMjVNIC0gJDUwTSIsIHZhbHVlOiAiJDI1TS0kNTBNIiwgc2NvcmU6IDAgfSwKICAgICAgICAgIHsgbGFiZWw6ICIkNTBNKyIsIHZhbHVlOiAiJDUwTSsiLCBzY29yZTogMCB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogMywKICAgICAgICB0ZXh0OiAiSG93IG1hbnkgZW1wbG95ZWVzIGRvIHlvdSBoYXZlPyIsCiAgICAgICAgdHlwZTogImRyb3Bkb3duIiwKICAgICAgICBjYXRlZ29yeTogImJhc2ljcyIsCiAgICAgICAgb3B0aW9uczogWwogICAgICAgICAgeyBsYWJlbDogIjEgLSA1IiwgdmFsdWU6ICIxLTUiLCBzY29yZTogMCB9LAogICAgICAgICAgeyBsYWJlbDogIjYgLSAxNSIsIHZhbHVlOiAiNi0xNSIsIHNjb3JlOiAwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiMTYgLSA1MCIsIHZhbHVlOiAiMTYtNTAiLCBzY29yZTogMCB9LAogICAgICAgICAgeyBsYWJlbDogIjUxIC0gMTAwIiwgdmFsdWU6ICI1MS0xMDAiLCBzY29yZTogMCB9LAogICAgICAgICAgeyBsYWJlbDogIjEwMCsiLCB2YWx1ZTogIjEwMCsiLCBzY29yZTogMCB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgaWQ6IDIsCiAgICB0aXRsZTogIk9wZXJhdGlvbnMiLAogICAgc3VidGl0bGU6ICJIb3cgeW91ciBidXNpbmVzcyBydW5zIGRheSB0byBkYXkiLAogICAgcXVlc3Rpb25zOiBbCiAgICAgIHsKICAgICAgICBpZDogNCwKICAgICAgICB0ZXh0OiAiSG93IGRvIHlvdSBjdXJyZW50bHkgaGFuZGxlIGluY29taW5nIGxlYWRzL2NhbGxzPyIsCiAgICAgICAgdHlwZTogInNpbmdsZSIsCiAgICAgICAgY2F0ZWdvcnk6ICJvcGVyYXRpb25zIiwKICAgICAgICBvcHRpb25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiQXV0b21hdGVkIHN5c3RlbSIsIHZhbHVlOiAiQXV0b21hdGVkIHN5c3RlbSIsIHNjb3JlOiAyIH0sCiAgICAgICAgICB7IGxhYmVsOiAiQmFzaWMgQ1JNIiwgdmFsdWU6ICJCYXNpYyBDUk0iLCBzY29yZTogNSB9LAogICAgICAgICAgeyBsYWJlbDogIk1hbnVhbC9waG9uZSIsIHZhbHVlOiAiTWFudWFsL3Bob25lIiwgc2NvcmU6IDggfSwKICAgICAgICAgIHsgbGFiZWw6ICJXZSBtaXNzIGEgbG90IG9mIHRoZW0iLCB2YWx1ZTogIldlIG1pc3MgYSBsb3Qgb2YgdGhlbSIsIHNjb3JlOiAxMCB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogNSwKICAgICAgICB0ZXh0OiAiV2hhdCBpcyB5b3VyIGF2ZXJhZ2UgcmVzcG9uc2UgdGltZSB0byBuZXcgbGVhZHM/IiwKICAgICAgICB0eXBlOiAic2luZ2xlIiwKICAgICAgICBjYXRlZ29yeTogIm9wZXJhdGlvbnMiLAogICAgICAgIG9wdGlvbnM6IFsKICAgICAgICAgIHsgbGFiZWw6ICJVbmRlciA1IG1pbnV0ZXMiLCB2YWx1ZTogIlVuZGVyIDUgbWludXRlcyIsIHNjb3JlOiAyIH0sCiAgICAgICAgICB7IGxhYmVsOiAiNSAtIDMwIG1pbnV0ZXMiLCB2YWx1ZTogIjUtMzAgbWludXRlcyIsIHNjb3JlOiA0IH0sCiAgICAgICAgICB7IGxhYmVsOiAiMzAgbWluIC0gMiBob3VycyIsIHZhbHVlOiAiMzAgbWluIC0gMiBob3VycyIsIHNjb3JlOiA2IH0sCiAgICAgICAgICB7IGxhYmVsOiAiMiAtIDI0IGhvdXJzIiwgdmFsdWU6ICIyLTI0IGhvdXJzIiwgc2NvcmU6IDggfSwKICAgICAgICAgIHsgbGFiZWw6ICJPdmVyIDI0IGhvdXJzIiwgdmFsdWU6ICJPdmVyIDI0IGhvdXJzIiwgc2NvcmU6IDEwIH0sCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIGlkOiA2LAogICAgICAgIHRleHQ6ICJIb3cgbWFueSBtYW51YWwvcmVwZXRpdGl2ZSBwcm9jZXNzZXMgZG9lcyB5b3VyIHRlYW0gZG8gZGFpbHk/IiwKICAgICAgICB0eXBlOiAic2luZ2xlIiwKICAgICAgICBjYXRlZ29yeTogIm9wZXJhdGlvbnMiLAogICAgICAgIG9wdGlvbnM6IFsKICAgICAgICAgIHsgbGFiZWw6ICIxIC0gMyIsIHZhbHVlOiAiMS0zIiwgc2NvcmU6IDIgfSwKICAgICAgICAgIHsgbGFiZWw6ICI0IC0gNyIsIHZhbHVlOiAiNC03Iiwgc2NvcmU6IDUgfSwKICAgICAgICAgIHsgbGFiZWw6ICI4IC0gMTUiLCB2YWx1ZTogIjgtMTUiLCBzY29yZTogOCB9LAogICAgICAgICAgeyBsYWJlbDogIjE1KyIsIHZhbHVlOiAiMTUrIiwgc2NvcmU6IDEwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiSSBkb24ndCBrbm93IiwgdmFsdWU6ICJJIGRvbid0IGtub3ciLCBzY29yZTogNyB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgaWQ6IDMsCiAgICB0aXRsZTogIlRlY2hub2xvZ3kiLAogICAgc3VidGl0bGU6ICJZb3VyIGN1cnJlbnQgdGVjaCBzdGFjayBhbmQgQUkgZXhwZXJpZW5jZSIsCiAgICBxdWVzdGlvbnM6IFsKICAgICAgewogICAgICAgIGlkOiA3LAogICAgICAgIHRleHQ6ICJXaGF0IHRvb2xzIGRvIHlvdSBjdXJyZW50bHkgdXNlPyIsCiAgICAgICAgdHlwZTogIm11bHRpLXNlbGVjdCIsCiAgICAgICAgY2F0ZWdvcnk6ICJ0ZWNobm9sb2d5IiwKICAgICAgICBvcHRpb25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiQ1JNIiwgdmFsdWU6ICJDUk0iLCBzY29yZTogLTEgfSwKICAgICAgICAgIHsgbGFiZWw6ICJFbWFpbCBtYXJrZXRpbmciLCB2YWx1ZTogIkVtYWlsIG1hcmtldGluZyIsIHNjb3JlOiAtMSB9LAogICAgICAgICAgeyBsYWJlbDogIlNvY2lhbCBtZWRpYSBzY2hlZHVsZXIiLCB2YWx1ZTogIlNvY2lhbCBtZWRpYSBzY2hlZHVsZXIiLCBzY29yZTogLTEgfSwKICAgICAgICAgIHsgbGFiZWw6ICJBY2NvdW50aW5nIHNvZnR3YXJlIiwgdmFsdWU6ICJBY2NvdW50aW5nIHNvZnR3YXJlIiwgc2NvcmU6IC0xIH0sCiAgICAgICAgICB7IGxhYmVsOiAiUHJvamVjdCBtYW5hZ2VtZW50IiwgdmFsdWU6ICJQcm9qZWN0IG1hbmFnZW1lbnQiLCBzY29yZTogLTEgfSwKICAgICAgICAgIHsgbGFiZWw6ICJBSSB0b29scyIsIHZhbHVlOiAiQUkgdG9vbHMiLCBzY29yZTogLTIgfSwKICAgICAgICAgIHsgbGFiZWw6ICJOb25lIG9mIHRoZSBhYm92ZSIsIHZhbHVlOiAiTm9uZSBvZiB0aGUgYWJvdmUiLCBzY29yZTogMTAgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWQ6IDgsCiAgICAgICAgdGV4dDogIkhhdmUgeW91IHRyaWVkIGltcGxlbWVudGluZyBBSSBiZWZvcmU/IiwKICAgICAgICB0eXBlOiAic2luZ2xlIiwKICAgICAgICBjYXRlZ29yeTogInRlY2hub2xvZ3kiLAogICAgICAgIG9wdGlvbnM6IFsKICAgICAgICAgIHsgbGFiZWw6ICJZZXMsIHN1Y2Nlc3NmdWxseSIsIHZhbHVlOiAiWWVzIHN1Y2Nlc3NmdWxseSIsIHNjb3JlOiAyIH0sCiAgICAgICAgICB7IGxhYmVsOiAiWWVzLCBidXQgaXQgZmFpbGVkIiwgdmFsdWU6ICJZZXMgYnV0IGl0IGZhaWxlZCIsIHNjb3JlOiA4IH0sCiAgICAgICAgICB7IGxhYmVsOiAiTm8sIGJ1dCBpbnRlcmVzdGVkIiwgdmFsdWU6ICJObyBidXQgaW50ZXJlc3RlZCIsIHNjb3JlOiA2IH0sCiAgICAgICAgICB7IGxhYmVsOiAiTm8sIGFuZCBub3QgaW50ZXJlc3RlZCIsIHZhbHVlOiAiTm8gYW5kIG5vdCBpbnRlcmVzdGVkIiwgc2NvcmU6IDMgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWQ6IDksCiAgICAgICAgdGV4dDogIldoYXQgaXMgeW91ciBiaWdnZXN0IG9wZXJhdGlvbmFsIGJvdHRsZW5lY2s/IiwKICAgICAgICB0eXBlOiAic2luZ2xlIiwKICAgICAgICBjYXRlZ29yeTogInRlY2hub2xvZ3kiLAogICAgICAgIG9wdGlvbnM6IFsKICAgICAgICAgIHsgbGFiZWw6ICJMZWFkIHJlc3BvbnNlIHRpbWUiLCB2YWx1ZTogIkxlYWQgcmVzcG9uc2UgdGltZSIsIHNjb3JlOiA5IH0sCiAgICAgICAgICB7IGxhYmVsOiAiQ29udGVudCBjcmVhdGlvbiIsIHZhbHVlOiAiQ29udGVudCBjcmVhdGlvbiIsIHNjb3JlOiA3IH0sCiAgICAgICAgICB7IGxhYmVsOiAiQ3VzdG9tZXIgZm9sbG93LXVwIiwgdmFsdWU6ICJDdXN0b21lciBmb2xsb3ctdXAiLCBzY29yZTogOCB9LAogICAgICAgICAgeyBsYWJlbDogIlNjaGVkdWxpbmcvYm9va2luZyIsIHZhbHVlOiAiU2NoZWR1bGluZy9ib29raW5nIiwgc2NvcmU6IDYgfSwKICAgICAgICAgIHsgbGFiZWw6ICJEYXRhIGVudHJ5L2FkbWluIiwgdmFsdWU6ICJEYXRhIGVudHJ5L2FkbWluIiwgc2NvcmU6IDggfSwKICAgICAgICAgIHsgbGFiZWw6ICJTYWxlcyBwcm9jZXNzIiwgdmFsdWU6ICJTYWxlcyBwcm9jZXNzIiwgc2NvcmU6IDkgfSwKICAgICAgICAgIHsgbGFiZWw6ICJPdGhlciIsIHZhbHVlOiAiT3RoZXIiLCBzY29yZTogNSB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCiAgewogICAgaWQ6IDQsCiAgICB0aXRsZTogIkdyb3d0aCIsCiAgICBzdWJ0aXRsZTogIllvdXIgYWNxdWlzaXRpb24gYW5kIHJldGVudGlvbiBtZXRyaWNzIiwKICAgIHF1ZXN0aW9uczogWwogICAgICB7CiAgICAgICAgaWQ6IDEwLAogICAgICAgIHRleHQ6ICJXaGF0IGlzIHlvdXIgY3VzdG9tZXIgYWNxdWlzaXRpb24gY29zdD8iLAogICAgICAgIHR5cGU6ICJzaW5nbGUiLAogICAgICAgIGNhdGVnb3J5OiAiZ3Jvd3RoIiwKICAgICAgICBvcHRpb25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiVW5kZXIgJDUwIiwgdmFsdWU6ICJVbmRlciAkNTAiLCBzY29yZTogMyB9LAogICAgICAgICAgeyBsYWJlbDogIiQ1MCAtICQyMDAiLCB2YWx1ZTogIiQ1MC0kMjAwIiwgc2NvcmU6IDUgfSwKICAgICAgICAgIHsgbGFiZWw6ICIkMjAwIC0gJDUwMCIsIHZhbHVlOiAiJDIwMC0kNTAwIiwgc2NvcmU6IDcgfSwKICAgICAgICAgIHsgbGFiZWw6ICIkNTAwIC0gJDEsMDAwIiwgdmFsdWU6ICIkNTAwLSQxLDAwMCIsIHNjb3JlOiA5IH0sCiAgICAgICAgICB7IGxhYmVsOiAiT3ZlciAkMSwwMDAiLCB2YWx1ZTogIk92ZXIgJDEsMDAwIiwgc2NvcmU6IDEwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiSSBkb24ndCBrbm93IiwgdmFsdWU6ICJJIGRvbid0IGtub3ciLCBzY29yZTogOCB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogMTEsCiAgICAgICAgdGV4dDogIldoYXQgaXMgeW91ciBtb250aGx5IGN1c3RvbWVyIGNodXJuIHJhdGU/IiwKICAgICAgICB0eXBlOiAic2luZ2xlIiwKICAgICAgICBjYXRlZ29yeTogImdyb3d0aCIsCiAgICAgICAgb3B0aW9uczogWwogICAgICAgICAgeyBsYWJlbDogIlVuZGVyIDIlIiwgdmFsdWU6ICJVbmRlciAyJSIsIHNjb3JlOiAyIH0sCiAgICAgICAgICB7IGxhYmVsOiAiMiAtIDUlIiwgdmFsdWU6ICIyLTUlIiwgc2NvcmU6IDUgfSwKICAgICAgICAgIHsgbGFiZWw6ICI1IC0gMTAlIiwgdmFsdWU6ICI1LTEwJSIsIHNjb3JlOiA4IH0sCiAgICAgICAgICB7IGxhYmVsOiAiT3ZlciAxMCUiLCB2YWx1ZTogIk92ZXIgMTAlIiwgc2NvcmU6IDEwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiSSBkb24ndCBrbm93IiwgdmFsdWU6ICJJIGRvbid0IGtub3ciLCBzY29yZTogNyB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogMTIsCiAgICAgICAgdGV4dDogIldoYXQgaXMgeW91ciBjdXJyZW50IGNsb3NlIHJhdGUgb24gbGVhZHM/IiwKICAgICAgICB0eXBlOiAic2luZ2xlIiwKICAgICAgICBjYXRlZ29yeTogImdyb3d0aCIsCiAgICAgICAgb3B0aW9uczogWwogICAgICAgICAgeyBsYWJlbDogIlVuZGVyIDEwJSIsIHZhbHVlOiAiVW5kZXIgMTAlIiwgc2NvcmU6IDEwIH0sCiAgICAgICAgICB7IGxhYmVsOiAiMTAgLSAyMCUiLCB2YWx1ZTogIjEwLTIwJSIsIHNjb3JlOiA3IH0sCiAgICAgICAgICB7IGxhYmVsOiAiMjAgLSAzNSUiLCB2YWx1ZTogIjIwLTM1JSIsIHNjb3JlOiA1IH0sCiAgICAgICAgICB7IGxhYmVsOiAiMzUgLSA1MCUiLCB2YWx1ZTogIjM1LTUwJSIsIHNjb3JlOiAzIH0sCiAgICAgICAgICB7IGxhYmVsOiAiT3ZlciA1MCUiLCB2YWx1ZTogIk92ZXIgNTAlIiwgc2NvcmU6IDEgfSwKICAgICAgICBdLAogICAgICB9LAogICAgXSwKICB9LAogIHsKICAgIGlkOiA1LAogICAgdGl0bGU6ICJSZWFkaW5lc3MiLAogICAgc3VidGl0bGU6ICJZb3VyIGNhcGFjaXR5IGFuZCB1cmdlbmN5IGZvciBBSSBhZG9wdGlvbiIsCiAgICBxdWVzdGlvbnM6IFsKICAgICAgewogICAgICAgIGlkOiAxMywKICAgICAgICB0ZXh0OiAiSG93IG11Y2ggdGltZSBkb2VzIHlvdXIgdGVhbSBzcGVuZCBvbiB0YXNrcyB0aGF0IGNvdWxkIGJlIGF1dG9tYXRlZD8iLAogICAgICAgIHR5cGU6ICJzaW5nbGUiLAogICAgICAgIGNhdGVnb3J5OiAicmVhZGluZXNzIiwKICAgICAgICBvcHRpb25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiTGVzcyB0aGFuIDUgaG91cnMvd2VlayIsIHZhbHVlOiAiTGVzcyB0aGFuIDUgaG91cnMvd2VlayIsIHNjb3JlOiAzIH0sCiAgICAgICAgICB7IGxhYmVsOiAiNSAtIDE1IGhvdXJzL3dlZWsiLCB2YWx1ZTogIjUtMTUgaG91cnMvd2VlayIsIHNjb3JlOiA2IH0sCiAgICAgICAgICB7IGxhYmVsOiAiMTUgLSAzMCBob3Vycy93ZWVrIiwgdmFsdWU6ICIxNS0zMCBob3Vycy93ZWVrIiwgc2NvcmU6IDggfSwKICAgICAgICAgIHsgbGFiZWw6ICIzMCsgaG91cnMvd2VlayIsIHZhbHVlOiAiMzArIGhvdXJzL3dlZWsiLCBzY29yZTogMTAgfSwKICAgICAgICBdLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWQ6IDE0LAogICAgICAgIHRleHQ6ICJXaGF0IHdvdWxkIGEgMjAlIGluY3JlYXNlIGluIGVmZmljaWVuY3kgbWVhbiBmb3IgeW91ciBib3R0b20gbGluZT8iLAogICAgICAgIHR5cGU6ICJzaW5nbGUiLAogICAgICAgIGNhdGVnb3J5OiAicmVhZGluZXNzIiwKICAgICAgICBvcHRpb25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiVW5kZXIgJDUwSy95ZWFyIiwgdmFsdWU6ICJVbmRlciAkNTBLL3llYXIiLCBzY29yZTogMyB9LAogICAgICAgICAgeyBsYWJlbDogIiQ1MEsgLSAkMTAwSyIsIHZhbHVlOiAiJDUwSy0kMTAwSyIsIHNjb3JlOiA1IH0sCiAgICAgICAgICB7IGxhYmVsOiAiJDEwMEsgLSAkMjUwSyIsIHZhbHVlOiAiJDEwMEstJDI1MEsiLCBzY29yZTogNyB9LAogICAgICAgICAgeyBsYWJlbDogIiQyNTBLIC0gJDUwMEsiLCB2YWx1ZTogIiQyNTBLLSQ1MDBLIiwgc2NvcmU6IDkgfSwKICAgICAgICAgIHsgbGFiZWw6ICJPdmVyICQ1MDBLIiwgdmFsdWU6ICJPdmVyICQ1MDBLIiwgc2NvcmU6IDEwIH0sCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIGlkOiAxNSwKICAgICAgICB0ZXh0OiAiSG93IHF1aWNrbHkgZG8geW91IHdhbnQgdG8gc2VlIHJlc3VsdHMgZnJvbSBBST8iLAogICAgICAgIHR5cGU6ICJzaW5nbGUiLAogICAgICAgIGNhdGVnb3J5OiAicmVhZGluZXNzIiwKICAgICAgICBvcHRpb25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiMzAgZGF5cyIsIHZhbHVlOiAiMzAgZGF5cyIsIHNjb3JlOiAxMCB9LAogICAgICAgICAgeyBsYWJlbDogIjYwIGRheXMiLCB2YWx1ZTogIjYwIGRheXMiLCBzY29yZTogOCB9LAogICAgICAgICAgeyBsYWJlbDogIjkwIGRheXMiLCB2YWx1ZTogIjkwIGRheXMiLCBzY29yZTogNiB9LAogICAgICAgICAgeyBsYWJlbDogIjYgbW9udGhzIiwgdmFsdWU6ICI2IG1vbnRocyIsIHNjb3JlOiA0IH0sCiAgICAgICAgICB7IGxhYmVsOiAiSSdtIGp1c3QgZXhwbG9yaW5nIiwgdmFsdWU6ICJJJ20ganVzdCBleHBsb3JpbmciLCBzY29yZTogMiB9LAogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCl07CgovLyBDYXRlZ29yeSB3ZWlnaHRzCmNvbnN0IGNhdGVnb3J5V2VpZ2h0czogUmVjb3JkPHN0cmluZywgbnVtYmVyPiA9IHsKICBvcGVyYXRpb25zOiAwLjMwLAogIHRlY2hub2xvZ3k6IDAuMjAsCiAgZ3Jvd3RoOiAwLjI1LAogIHJlYWRpbmVzczogMC4yNSwKfTsKCi8vIENhbGN1bGF0ZSBzY29yZSBmb3IgbXVsdGktc2VsZWN0IHF1ZXN0aW9uIDcKZnVuY3Rpb24gY2FsY3VsYXRlTXVsdGlTZWxlY3RTY29yZShzZWxlY3RlZDogc3RyaW5nW10sIG9wdGlvbnM6IE9wdGlvbltdKTogbnVtYmVyIHsKICBpZiAoc2VsZWN0ZWQuaW5jbHVkZXMoIk5vbmUgb2YgdGhlIGFib3ZlIikpIHJldHVybiAxMDsKICAvLyBNb3JlIHRvb2xzID0gbG93ZXIgc2NvcmUgKGxlc3Mgb3Bwb3J0dW5pdHkpLiBTY29yZSA9IDEwIC0gKHRvb2xzICogMS41KSwgbWluIDEKICBjb25zdCB0b29sQ291bnQgPSBzZWxlY3RlZC5sZW5ndGg7CiAgcmV0dXJuIE1hdGgubWF4KDEsIE1hdGgucm91bmQoMTAgLSB0b29sQ291bnQgKiAxLjUpKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGNhbGN1bGF0ZVNjb3JlcyhhbnN3ZXJzOiBBc3Nlc3NtZW50QW5zd2Vycyk6IHsKICBvdmVyYWxsU2NvcmU6IG51bWJlcjsKICBjYXRlZ29yaWVzOiBDYXRlZ29yeVNjb3JlW107Cn0gewogIGNvbnN0IGNhdGVnb3J5U2NvcmVzOiBSZWNvcmQ8c3RyaW5nLCB7IHRvdGFsOiBudW1iZXI7IG1heDogbnVtYmVyOyBjb3VudDogbnVtYmVyIH0+ID0gewogICAgb3BlcmF0aW9uczogeyB0b3RhbDogMCwgbWF4OiAwLCBjb3VudDogMCB9LAogICAgdGVjaG5vbG9neTogeyB0b3RhbDogMCwgbWF4OiAwLCBjb3VudDogMCB9LAogICAgZ3Jvd3RoOiB7IHRvdGFsOiAwLCBtYXg6IDAsIGNvdW50OiAwIH0sCiAgICByZWFkaW5lc3M6IHsgdG90YWw6IDAsIG1heDogMCwgY291bnQ6IDAgfSwKICB9OwoKICBmb3IgKGNvbnN0IHNjcmVlbiBvZiBzY3JlZW5zKSB7CiAgICBmb3IgKGNvbnN0IHF1ZXN0aW9uIG9mIHNjcmVlbi5xdWVzdGlvbnMpIHsKICAgICAgaWYgKHF1ZXN0aW9uLmNhdGVnb3J5ID09PSAiYmFzaWNzIikgY29udGludWU7CgogICAgICBjb25zdCBhbnN3ZXIgPSBhbnN3ZXJzW3F1ZXN0aW9uLmlkXTsKICAgICAgaWYgKCFhbnN3ZXIpIGNvbnRpbnVlOwoKICAgICAgbGV0IHNjb3JlID0gMDsKICAgICAgaWYgKHF1ZXN0aW9uLnR5cGUgPT09ICJtdWx0aS1zZWxlY3QiICYmIEFycmF5LmlzQXJyYXkoYW5zd2VyKSkgewogICAgICAgIHNjb3JlID0gY2FsY3VsYXRlTXVsdGlTZWxlY3RTY29yZShhbnN3ZXIsIHF1ZXN0aW9uLm9wdGlvbnMpOwogICAgICB9IGVsc2UgewogICAgICAgIGNvbnN0IHNlbGVjdGVkT3B0aW9uID0gcXVlc3Rpb24ub3B0aW9ucy5maW5kKChvKSA9PiBvLnZhbHVlID09PSBhbnN3ZXIpOwogICAgICAgIHNjb3JlID0gc2VsZWN0ZWRPcHRpb24/LnNjb3JlID8/IDA7CiAgICAgIH0KCiAgICAgIGNhdGVnb3J5U2NvcmVzW3F1ZXN0aW9uLmNhdGVnb3J5XS50b3RhbCArPSBzY29yZTsKICAgICAgY2F0ZWdvcnlTY29yZXNbcXVlc3Rpb24uY2F0ZWdvcnldLm1heCArPSAxMDsKICAgICAgY2F0ZWdvcnlTY29yZXNbcXVlc3Rpb24uY2F0ZWdvcnldLmNvdW50ICs9IDE7CiAgICB9CiAgfQoKICBjb25zdCBjYXRlZ29yaWVzOiBDYXRlZ29yeVNjb3JlW10gPSBPYmplY3QuZW50cmllcyhjYXRlZ29yeVNjb3JlcykubWFwKAogICAgKFtrZXksIHZhbF0pID0+IHsKICAgICAgY29uc3QgcGVyY2VudGFnZSA9IHZhbC5tYXggPiAwID8gKHZhbC50b3RhbCAvIHZhbC5tYXgpICogMTAwIDogMDsKICAgICAgcmV0dXJuIHsKICAgICAgICBuYW1lOiBrZXkuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyBrZXkuc2xpY2UoMSksCiAgICAgICAgc2NvcmU6IHZhbC50b3RhbCwKICAgICAgICBtYXhTY29yZTogdmFsLm1heCwKICAgICAgICBwZXJjZW50YWdlOiBNYXRoLnJvdW5kKHBlcmNlbnRhZ2UpLAogICAgICAgIHdlaWdodDogY2F0ZWdvcnlXZWlnaHRzW2tleV0sCiAgICAgIH07CiAgICB9CiAgKTsKCiAgLy8gV2VpZ2h0ZWQgb3ZlcmFsbCBzY29yZQogIGxldCB3ZWlnaHRlZFN1bSA9IDA7CiAgbGV0IHRvdGFsV2VpZ2h0ID0gMDsKICBmb3IgKGNvbnN0IGNhdCBvZiBjYXRlZ29yaWVzKSB7CiAgICB3ZWlnaHRlZFN1bSArPSAoY2F0LnBlcmNlbnRhZ2UgLyAxMDApICogY2F0LndlaWdodDsKICAgIHRvdGFsV2VpZ2h0ICs9IGNhdC53ZWlnaHQ7CiAgfQogIGNvbnN0IG92ZXJhbGxTY29yZSA9IE1hdGgucm91bmQoKHdlaWdodGVkU3VtIC8gdG90YWxXZWlnaHQpICogMTAwKTsKCiAgcmV0dXJuIHsgb3ZlcmFsbFNjb3JlLCBjYXRlZ29yaWVzIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZXRTY29yZUxhYmVsKHNjb3JlOiBudW1iZXIpOiBzdHJpbmcgewogIGlmIChzY29yZSA+PSA4MCkgcmV0dXJuICJDcml0aWNhbCI7CiAgaWYgKHNjb3JlID49IDYwKSByZXR1cm4gIkhpZ2giOwogIGlmIChzY29yZSA+PSA0MCkgcmV0dXJuICJNb2RlcmF0ZSI7CiAgaWYgKHNjb3JlID49IDIwKSByZXR1cm4gIkxvdyI7CiAgcmV0dXJuICJNaW5pbWFsIjsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldFNjb3JlQ29sb3Ioc2NvcmU6IG51bWJlcik6IHN0cmluZyB7CiAgaWYgKHNjb3JlID49IDgwKSByZXR1cm4gIiNlZjQ0NDQiOwogIGlmIChzY29yZSA+PSA2MCkgcmV0dXJuICIjZjk3MzE2IjsKICBpZiAoc2NvcmUgPj0gNDApIHJldHVybiAiI2VhYjMwOCI7CiAgaWYgKHNjb3JlID49IDIwKSByZXR1cm4gIiMyMmM1NWUiOwogIHJldHVybiAiIzA2YjZkNCI7Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZXRTY29yZURlc2NyaXB0aW9uKHNjb3JlOiBudW1iZXIpOiBzdHJpbmcgewogIGlmIChzY29yZSA+PSA4MCkgcmV0dXJuICJZb3VyIGJ1c2luZXNzIGhhcyBtYXNzaXZlIHVudGFwcGVkIEFJIHBvdGVudGlhbC4gSW1tZWRpYXRlIGFjdGlvbiBjb3VsZCB0cmFuc2Zvcm0geW91ciBvcGVyYXRpb25zLiI7CiAgaWYgKHNjb3JlID49IDYwKSByZXR1cm4gIlNpZ25pZmljYW50IG9wcG9ydHVuaXRpZXMgZXhpc3QgdG8gbGV2ZXJhZ2UgQUkgYWNyb3NzIHlvdXIgb3BlcmF0aW9ucy4gQSBzdHJ1Y3R1cmVkIGFwcHJvYWNoIHdpbGwgeWllbGQgc3Ryb25nIFJPSS4iOwogIGlmIChzY29yZSA+PSA0MCkgcmV0dXJuICJZb3VyIGJ1c2luZXNzIGhhcyBtb2RlcmF0ZSBBSSByZWFkaW5lc3MuIFRhcmdldGVkIGltcGxlbWVudGF0aW9ucyBpbiBrZXkgYXJlYXMgd2lsbCBkcml2ZSBtZWFuaW5nZnVsIHJlc3VsdHMuIjsKICBpZiAoc2NvcmUgPj0gMjApIHJldHVybiAiWW91IGhhdmUgc29tZSBmb3VuZGF0aW9ucyBpbiBwbGFjZS4gU3RyYXRlZ2ljIEFJIGFkb3B0aW9uIGluIHNwZWNpZmljIGFyZWFzIHdpbGwgZW5oYW5jZSB5b3VyIGNvbXBldGl0aXZlIGVkZ2UuIjsKICByZXR1cm4gIllvdXIgb3BlcmF0aW9ucyBhcmUgcmVsYXRpdmVseSBvcHRpbWl6ZWQuIEZvY3VzZWQgQUkgYXBwbGljYXRpb25zIGNhbiBzdGlsbCBkcml2ZSBpbmNyZW1lbnRhbCBpbXByb3ZlbWVudHMuIjsKfQo="}
+// ============================================================
+// AI Readiness Assessment - Data Model & Scoring Engine
+// Design: Swiss Precision - clean, authoritative, data-driven
+// ============================================================
+
+export interface Option {
+  label: string;
+  value: string;
+  score: number;
+}
+
+export interface Question {
+  id: number;
+  text: string;
+  type: "single" | "multi-select" | "dropdown";
+  options: Option[];
+  category: "basics" | "operations" | "technology" | "growth" | "readiness";
+}
+
+export interface Screen {
+  id: number;
+  title: string;
+  subtitle: string;
+  questions: Question[];
+}
+
+export interface UserInfo {
+  name: string;
+  email: string;
+  company: string;
+}
+
+export interface AssessmentAnswers {
+  [questionId: number]: string | string[];
+}
+
+export interface CategoryScore {
+  name: string;
+  score: number;
+  maxScore: number;
+  percentage: number;
+  weight: number;
+}
+
+export interface AssessmentResult {
+  overallScore: number;
+  categories: CategoryScore[];
+  answers: AssessmentAnswers;
+  userInfo: UserInfo;
+  industry: string;
+  revenue: string;
+  employees: string;
+}
+
+// Industry benchmarks (average scores out of 100)
+export const industryBenchmarks: Record<string, number> = {
+  "Home Services": 32,
+  "DTC/Ecommerce": 55,
+  "Professional Services": 41,
+  "Healthcare": 38,
+  "Real Estate": 35,
+  "Marketing/Agency": 52,
+  "Manufacturing": 29,
+  "Other": 40,
+};
+
+// Revenue multipliers for dollar estimates
+export const revenueMultipliers: Record<string, number> = {
+  "Under $500K": 350000,
+  "$500K-$1M": 750000,
+  "$1M-$3M": 2000000,
+  "$3M-$5M": 4000000,
+  "$5M-$10M": 7500000,
+  "$10M-$25M": 17500000,
+  "$25M-$50M": 37500000,
+  "$50M+": 75000000,
+};
+
+export const screens: Screen[] = [
+  {
+    id: 1,
+    title: "Business Basics",
+    subtitle: "Tell us about your company",
+    questions: [
+      {
+        id: 1,
+        text: "What industry are you in?",
+        type: "dropdown",
+        category: "basics",
+        options: [
+          { label: "Home Services", value: "Home Services", score: 0 },
+          { label: "DTC/Ecommerce", value: "DTC/Ecommerce", score: 0 },
+          { label: "Professional Services", value: "Professional Services", score: 0 },
+          { label: "Healthcare", value: "Healthcare", score: 0 },
+          { label: "Real Estate", value: "Real Estate", score: 0 },
+          { label: "Marketing/Agency", value: "Marketing/Agency", score: 0 },
+          { label: "Manufacturing", value: "Manufacturing", score: 0 },
+          { label: "Other", value: "Other", score: 0 },
+        ],
+      },
+      {
+        id: 2,
+        text: "What is your annual revenue?",
+        type: "dropdown",
+        category: "basics",
+        options: [
+          { label: "Under $500K", value: "Under $500K", score: 0 },
+          { label: "$500K - $1M", value: "$500K-$1M", score: 0 },
+          { label: "$1M - $3M", value: "$1M-$3M", score: 0 },
+          { label: "$3M - $5M", value: "$3M-$5M", score: 0 },
+          { label: "$5M - $10M", value: "$5M-$10M", score: 0 },
+          { label: "$10M - $25M", value: "$10M-$25M", score: 0 },
+          { label: "$25M - $50M", value: "$25M-$50M", score: 0 },
+          { label: "$50M+", value: "$50M+", score: 0 },
+        ],
+      },
+      {
+        id: 3,
+        text: "How many employees do you have?",
+        type: "dropdown",
+        category: "basics",
+        options: [
+          { label: "1 - 5", value: "1-5", score: 0 },
+          { label: "6 - 15", value: "6-15", score: 0 },
+          { label: "16 - 50", value: "16-50", score: 0 },
+          { label: "51 - 100", value: "51-100", score: 0 },
+          { label: "100+", value: "100+", score: 0 },
+        ],
+      },
+    ],
+  },
+  {
+    id: 2,
+    title: "Operations",
+    subtitle: "How your business runs day to day",
+    questions: [
+      {
+        id: 4,
+        text: "How do you currently handle incoming leads/calls?",
+        type: "single",
+        category: "operations",
+        options: [
+          { label: "Automated system", value: "Automated system", score: 2 },
+          { label: "Basic CRM", value: "Basic CRM", score: 5 },
+          { label: "Manual/phone", value: "Manual/phone", score: 8 },
+          { label: "We miss a lot of them", value: "We miss a lot of them", score: 10 },
+        ],
+      },
+      {
+        id: 5,
+        text: "What is your average response time to new leads?",
+        type: "single",
+        category: "operations",
+        options: [
+          { label: "Under 5 minutes", value: "Under 5 minutes", score: 2 },
+          { label: "5 - 30 minutes", value: "5-30 minutes", score: 4 },
+          { label: "30 min - 2 hours", value: "30 min - 2 hours", score: 6 },
+          { label: "2 - 24 hours", value: "2-24 hours", score: 8 },
+          { label: "Over 24 hours", value: "Over 24 hours", score: 10 },
+        ],
+      },
+      {
+        id: 6,
+        text: "How many manual/repetitive processes does your team do daily?",
+        type: "single",
+        category: "operations",
+        options: [
+          { label: "1 - 3", value: "1-3", score: 2 },
+          { label: "4 - 7", value: "4-7", score: 5 },
+          { label: "8 - 15", value: "8-15", score: 8 },
+          { label: "15+", value: "15+", score: 10 },
+          { label: "I don't know", value: "I don't know", score: 7 },
+        ],
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: "Technology",
+    subtitle: "Your current tech stack and AI experience",
+    questions: [
+      {
+        id: 7,
+        text: "What tools do you currently use?",
+        type: "multi-select",
+        category: "technology",
+        options: [
+          { label: "CRM", value: "CRM", score: -1 },
+          { label: "Email marketing", value: "Email marketing", score: -1 },
+          { label: "Social media scheduler", value: "Social media scheduler", score: -1 },
+          { label: "Accounting software", value: "Accounting software", score: -1 },
+          { label: "Project management", value: "Project management", score: -1 },
+          { label: "AI tools", value: "AI tools", score: -2 },
+          { label: "None of the above", value: "None of the above", score: 10 },
+        ],
+      },
+      {
+        id: 8,
+        text: "Have you tried implementing AI before?",
+        type: "single",
+        category: "technology",
+        options: [
+          { label: "Yes, successfully", value: "Yes successfully", score: 2 },
+          { label: "Yes, but it failed", value: "Yes but it failed", score: 8 },
+          { label: "No, but interested", value: "No but interested", score: 6 },
+          { label: "No, and not interested", value: "No and not interested", score: 3 },
+        ],
+      },
+      {
+        id: 9,
+        text: "What is your biggest operational bottleneck?",
+        type: "single",
+        category: "technology",
+        options: [
+          { label: "Lead response time", value: "Lead response time", score: 9 },
+          { label: "Content creation", value: "Content creation", score: 7 },
+          { label: "Customer follow-up", value: "Customer follow-up", score: 8 },
+          { label: "Scheduling/booking", value: "Scheduling/booking", score: 6 },
+          { label: "Data entry/admin", value: "Data entry/admin", score: 8 },
+          { label: "Sales process", value: "Sales process", score: 9 },
+          { label: "Other", value: "Other", score: 5 },
+        ],
+      },
+    ],
+  },
+  {
+    id: 4,
+    title: "Growth",
+    subtitle: "Your acquisition and retention metrics",
+    questions: [
+      {
+        id: 10,
+        text: "What is your customer acquisition cost?",
+        type: "single",
+        category: "growth",
+        options: [
+          { label: "Under $50", value: "Under $50", score: 3 },
+          { label: "$50 - $200", value: "$50-$200", score: 5 },
+          { label: "$200 - $500", value: "$200-$500", score: 7 },
+          { label: "$500 - $1,000", value: "$500-$1,000", score: 9 },
+          { label: "Over $1,000", value: "Over $1,000", score: 10 },
+          { label: "I don't know", value: "I don't know", score: 8 },
+        ],
+      },
+      {
+        id: 11,
+        text: "What is your monthly customer churn rate?",
+        type: "single",
+        category: "growth",
+        options: [
+          { label: "Under 2%", value: "Under 2%", score: 2 },
+          { label: "2 - 5%", value: "2-5%", score: 5 },
+          { label: "5 - 10%", value: "5-10%", score: 8 },
+          { label: "Over 10%", value: "Over 10%", score: 10 },
+          { label: "I don't know", value: "I don't know", score: 7 },
+        ],
+      },
+      {
+        id: 12,
+        text: "What is your current close rate on leads?",
+        type: "single",
+        category: "growth",
+        options: [
+          { label: "Under 10%", value: "Under 10%", score: 10 },
+          { label: "10 - 20%", value: "10-20%", score: 7 },
+          { label: "20 - 35%", value: "20-35%", score: 5 },
+          { label: "35 - 50%", value: "35-50%", score: 3 },
+          { label: "Over 50%", value: "Over 50%", score: 1 },
+        ],
+      },
+    ],
+  },
+  {
+    id: 5,
+    title: "Readiness",
+    subtitle: "Your capacity and urgency for AI adoption",
+    questions: [
+      {
+        id: 13,
+        text: "How much time does your team spend on tasks that could be automated?",
+        type: "single",
+        category: "readiness",
+        options: [
+          { label: "Less than 5 hours/week", value: "Less than 5 hours/week", score: 3 },
+          { label: "5 - 15 hours/week", value: "5-15 hours/week", score: 6 },
+          { label: "15 - 30 hours/week", value: "15-30 hours/week", score: 8 },
+          { label: "30+ hours/week", value: "30+ hours/week", score: 10 },
+        ],
+      },
+      {
+        id: 14,
+        text: "What would a 20% increase in efficiency mean for your bottom line?",
+        type: "single",
+        category: "readiness",
+        options: [
+          { label: "Under $50K/year", value: "Under $50K/year", score: 3 },
+          { label: "$50K - $100K", value: "$50K-$100K", score: 5 },
+          { label: "$100K - $250K", value: "$100K-$250K", score: 7 },
+          { label: "$250K - $500K", value: "$250K-$500K", score: 9 },
+          { label: "Over $500K", value: "Over $500K", score: 10 },
+        ],
+      },
+      {
+        id: 15,
+        text: "How quickly do you want to see results from AI?",
+        type: "single",
+        category: "readiness",
+        options: [
+          { label: "30 days", value: "30 days", score: 10 },
+          { label: "60 days", value: "60 days", score: 8 },
+          { label: "90 days", value: "90 days", score: 6 },
+          { label: "6 months", value: "6 months", score: 4 },
+          { label: "I'm just exploring", value: "I'm just exploring", score: 2 },
+        ],
+      },
+    ],
+  },
+];
+
+// Category weights
+const categoryWeights: Record<string, number> = {
+  operations: 0.30,
+  technology: 0.20,
+  growth: 0.25,
+  readiness: 0.25,
+};
+
+// Calculate score for multi-select question 7
+function calculateMultiSelectScore(selected: string[], options: Option[]): number {
+  if (selected.includes("None of the above")) return 10;
+  // More tools = lower score (less opportunity). Score = 10 - (tools * 1.5), min 1
+  const toolCount = selected.length;
+  return Math.max(1, Math.round(10 - toolCount * 1.5));
+}
+
+export function calculateScores(answers: AssessmentAnswers): {
+  overallScore: number;
+  categories: CategoryScore[];
+} {
+  const categoryScores: Record<string, { total: number; max: number; count: number }> = {
+    operations: { total: 0, max: 0, count: 0 },
+    technology: { total: 0, max: 0, count: 0 },
+    growth: { total: 0, max: 0, count: 0 },
+    readiness: { total: 0, max: 0, count: 0 },
+  };
+
+  for (const screen of screens) {
+    for (const question of screen.questions) {
+      if (question.category === "basics") continue;
+
+      const answer = answers[question.id];
+      if (!answer) continue;
+
+      let score = 0;
+      if (question.type === "multi-select" && Array.isArray(answer)) {
+        score = calculateMultiSelectScore(answer, question.options);
+      } else {
+        const selectedOption = question.options.find((o) => o.value === answer);
+        score = selectedOption?.score ?? 0;
+      }
+
+      categoryScores[question.category].total += score;
+      categoryScores[question.category].max += 10;
+      categoryScores[question.category].count += 1;
+    }
+  }
+
+  const categories: CategoryScore[] = Object.entries(categoryScores).map(
+    ([key, val]) => {
+      const percentage = val.max > 0 ? (val.total / val.max) * 100 : 0;
+      return {
+        name: key.charAt(0).toUpperCase() + key.slice(1),
+        score: val.total,
+        maxScore: val.max,
+        percentage: Math.round(percentage),
+        weight: categoryWeights[key],
+      };
+    }
+  );
+
+  // Weighted overall score
+  let weightedSum = 0;
+  let totalWeight = 0;
+  for (const cat of categories) {
+    weightedSum += (cat.percentage / 100) * cat.weight;
+    totalWeight += cat.weight;
+  }
+  const overallScore = Math.round((weightedSum / totalWeight) * 100);
+
+  return { overallScore, categories };
+}
+
+export function getScoreLabel(score: number): string {
+  if (score >= 80) return "Critical";
+  if (score >= 60) return "High";
+  if (score >= 40) return "Moderate";
+  if (score >= 20) return "Low";
+  return "Minimal";
+}
+
+export function getScoreColor(score: number): string {
+  if (score >= 80) return "#ef4444";
+  if (score >= 60) return "#f97316";
+  if (score >= 40) return "#eab308";
+  if (score >= 20) return "#22c55e";
+  return "#06b6d4";
+}
+
+export function getScoreDescription(score: number): string {
+  if (score >= 80) return "Your business has massive untapped AI potential. Immediate action could transform your operations.";
+  if (score >= 60) return "Significant opportunities exist to leverage AI across your operations. A structured approach will yield strong ROI.";
+  if (score >= 40) return "Your business has moderate AI readiness. Targeted implementations in key areas will drive meaningful results.";
+  if (score >= 20) return "You have some foundations in place. Strategic AI adoption in specific areas will enhance your competitive edge.";
+  return "Your operations are relatively optimized. Focused AI applications can still drive incremental improvements.";
+}

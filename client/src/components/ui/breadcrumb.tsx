@@ -1,1 +1,109 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgeyBTbG90IH0gZnJvbSAiQHJhZGl4LXVpL3JlYWN0LXNsb3QiOwppbXBvcnQgeyBDaGV2cm9uUmlnaHQsIE1vcmVIb3Jpem9udGFsIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKZnVuY3Rpb24gQnJlYWRjcnVtYih7IC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJuYXYiPikgewogIHJldHVybiA8bmF2IGFyaWEtbGFiZWw9ImJyZWFkY3J1bWIiIGRhdGEtc2xvdD0iYnJlYWRjcnVtYiIgey4uLnByb3BzfSAvPjsKfQoKZnVuY3Rpb24gQnJlYWRjcnVtYkxpc3QoeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJvbCI+KSB7CiAgcmV0dXJuICgKICAgIDxvbAogICAgICBkYXRhLXNsb3Q9ImJyZWFkY3J1bWItbGlzdCIKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAidGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGZsZXggZmxleC13cmFwIGl0ZW1zLWNlbnRlciBnYXAtMS41IHRleHQtc20gYnJlYWstd29yZHMgc206Z2FwLTIuNSIsCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKZnVuY3Rpb24gQnJlYWRjcnVtYkl0ZW0oeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJsaSI+KSB7CiAgcmV0dXJuICgKICAgIDxsaQogICAgICBkYXRhLXNsb3Q9ImJyZWFkY3J1bWItaXRlbSIKICAgICAgY2xhc3NOYW1lPXtjbigiaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUiLCBjbGFzc05hbWUpfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICk7Cn0KCmZ1bmN0aW9uIEJyZWFkY3J1bWJMaW5rKHsKICBhc0NoaWxkLAogIGNsYXNzTmFtZSwKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczwiYSI+ICYgewogIGFzQ2hpbGQ/OiBib29sZWFuOwp9KSB7CiAgY29uc3QgQ29tcCA9IGFzQ2hpbGQgPyBTbG90IDogImEiOwoKICByZXR1cm4gKAogICAgPENvbXAKICAgICAgZGF0YS1zbG90PSJicmVhZGNydW1iLWxpbmsiCiAgICAgIGNsYXNzTmFtZT17Y24oImhvdmVyOnRleHQtZm9yZWdyb3VuZCB0cmFuc2l0aW9uLWNvbG9ycyIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKZnVuY3Rpb24gQnJlYWRjcnVtYlBhZ2UoeyBjbGFzc05hbWUsIC4uLnByb3BzIH06IFJlYWN0LkNvbXBvbmVudFByb3BzPCJzcGFuIj4pIHsKICByZXR1cm4gKAogICAgPHNwYW4KICAgICAgZGF0YS1zbG90PSJicmVhZGNydW1iLXBhZ2UiCiAgICAgIHJvbGU9ImxpbmsiCiAgICAgIGFyaWEtZGlzYWJsZWQ9InRydWUiCiAgICAgIGFyaWEtY3VycmVudD0icGFnZSIKICAgICAgY2xhc3NOYW1lPXtjbigidGV4dC1mb3JlZ3JvdW5kIGZvbnQtbm9ybWFsIiwgY2xhc3NOYW1lKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBCcmVhZGNydW1iU2VwYXJhdG9yKHsKICBjaGlsZHJlbiwKICBjbGFzc05hbWUsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImxpIj4pIHsKICByZXR1cm4gKAogICAgPGxpCiAgICAgIGRhdGEtc2xvdD0iYnJlYWRjcnVtYi1zZXBhcmF0b3IiCiAgICAgIHJvbGU9InByZXNlbnRhdGlvbiIKICAgICAgYXJpYS1oaWRkZW49InRydWUiCiAgICAgIGNsYXNzTmFtZT17Y24oIlsmPnN2Z106c2l6ZS0zLjUiLCBjbGFzc05hbWUpfQogICAgICB7Li4ucHJvcHN9CiAgICA+CiAgICAgIHtjaGlsZHJlbiA/PyA8Q2hldnJvblJpZ2h0IC8+fQogICAgPC9saT4KICApOwp9CgpmdW5jdGlvbiBCcmVhZGNydW1iRWxsaXBzaXMoewogIGNsYXNzTmFtZSwKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczwic3BhbiI+KSB7CiAgcmV0dXJuICgKICAgIDxzcGFuCiAgICAgIGRhdGEtc2xvdD0iYnJlYWRjcnVtYi1lbGxpcHNpcyIKICAgICAgcm9sZT0icHJlc2VudGF0aW9uIgogICAgICBhcmlhLWhpZGRlbj0idHJ1ZSIKICAgICAgY2xhc3NOYW1lPXtjbigiZmxleCBzaXplLTkgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIiwgY2xhc3NOYW1lKX0KICAgICAgey4uLnByb3BzfQogICAgPgogICAgICA8TW9yZUhvcml6b250YWwgY2xhc3NOYW1lPSJzaXplLTQiIC8+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0ic3Itb25seSI+TW9yZTwvc3Bhbj4KICAgIDwvc3Bhbj4KICApOwp9CgpleHBvcnQgewogIEJyZWFkY3J1bWIsCiAgQnJlYWRjcnVtYkxpc3QsCiAgQnJlYWRjcnVtYkl0ZW0sCiAgQnJlYWRjcnVtYkxpbmssCiAgQnJlYWRjcnVtYlBhZ2UsCiAgQnJlYWRjcnVtYlNlcGFyYXRvciwKICBCcmVhZGNydW1iRWxsaXBzaXMsCn07Cg=="}
+import * as React from "react";
+import { Slot } from "@radix-ui/react-slot";
+import { ChevronRight, MoreHorizontal } from "lucide-react";
+
+import { cn } from "@/lib/utils";
+
+function Breadcrumb({ ...props }: React.ComponentProps<"nav">) {
+  return <nav aria-label="breadcrumb" data-slot="breadcrumb" {...props} />;
+}
+
+function BreadcrumbList({ className, ...props }: React.ComponentProps<"ol">) {
+  return (
+    <ol
+      data-slot="breadcrumb-list"
+      className={cn(
+        "text-muted-foreground flex flex-wrap items-center gap-1.5 text-sm break-words sm:gap-2.5",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function BreadcrumbItem({ className, ...props }: React.ComponentProps<"li">) {
+  return (
+    <li
+      data-slot="breadcrumb-item"
+      className={cn("inline-flex items-center gap-1.5", className)}
+      {...props}
+    />
+  );
+}
+
+function BreadcrumbLink({
+  asChild,
+  className,
+  ...props
+}: React.ComponentProps<"a"> & {
+  asChild?: boolean;
+}) {
+  const Comp = asChild ? Slot : "a";
+
+  return (
+    <Comp
+      data-slot="breadcrumb-link"
+      className={cn("hover:text-foreground transition-colors", className)}
+      {...props}
+    />
+  );
+}
+
+function BreadcrumbPage({ className, ...props }: React.ComponentProps<"span">) {
+  return (
+    <span
+      data-slot="breadcrumb-page"
+      role="link"
+      aria-disabled="true"
+      aria-current="page"
+      className={cn("text-foreground font-normal", className)}
+      {...props}
+    />
+  );
+}
+
+function BreadcrumbSeparator({
+  children,
+  className,
+  ...props
+}: React.ComponentProps<"li">) {
+  return (
+    <li
+      data-slot="breadcrumb-separator"
+      role="presentation"
+      aria-hidden="true"
+      className={cn("[&>svg]:size-3.5", className)}
+      {...props}
+    >
+      {children ?? <ChevronRight />}
+    </li>
+  );
+}
+
+function BreadcrumbEllipsis({
+  className,
+  ...props
+}: React.ComponentProps<"span">) {
+  return (
+    <span
+      data-slot="breadcrumb-ellipsis"
+      role="presentation"
+      aria-hidden="true"
+      className={cn("flex size-9 items-center justify-center", className)}
+      {...props}
+    >
+      <MoreHorizontal className="size-4" />
+      <span className="sr-only">More</span>
+    </span>
+  );
+}
+
+export {
+  Breadcrumb,
+  BreadcrumbList,
+  BreadcrumbItem,
+  BreadcrumbLink,
+  BreadcrumbPage,
+  BreadcrumbSeparator,
+  BreadcrumbEllipsis,
+};

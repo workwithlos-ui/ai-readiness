@@ -1,1 +1,23 @@
-{"data":"aW1wb3J0IHsgdXNlVGhlbWUgfSBmcm9tICJuZXh0LXRoZW1lcyI7CmltcG9ydCB7IFRvYXN0ZXIgYXMgU29ubmVyLCB0eXBlIFRvYXN0ZXJQcm9wcyB9IGZyb20gInNvbm5lciI7Cgpjb25zdCBUb2FzdGVyID0gKHsgLi4ucHJvcHMgfTogVG9hc3RlclByb3BzKSA9PiB7CiAgY29uc3QgeyB0aGVtZSA9ICJzeXN0ZW0iIH0gPSB1c2VUaGVtZSgpOwoKICByZXR1cm4gKAogICAgPFNvbm5lcgogICAgICB0aGVtZT17dGhlbWUgYXMgVG9hc3RlclByb3BzWyJ0aGVtZSJdfQogICAgICBjbGFzc05hbWU9InRvYXN0ZXIgZ3JvdXAiCiAgICAgIHN0eWxlPXsKICAgICAgICB7CiAgICAgICAgICAiLS1ub3JtYWwtYmciOiAidmFyKC0tcG9wb3ZlcikiLAogICAgICAgICAgIi0tbm9ybWFsLXRleHQiOiAidmFyKC0tcG9wb3Zlci1mb3JlZ3JvdW5kKSIsCiAgICAgICAgICAiLS1ub3JtYWwtYm9yZGVyIjogInZhcigtLWJvcmRlcikiLAogICAgICAgIH0gYXMgUmVhY3QuQ1NTUHJvcGVydGllcwogICAgICB9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfTsKCmV4cG9ydCB7IFRvYXN0ZXIgfTsK"}
+import { useTheme } from "next-themes";
+import { Toaster as Sonner, type ToasterProps } from "sonner";
+
+const Toaster = ({ ...props }: ToasterProps) => {
+  const { theme = "system" } = useTheme();
+
+  return (
+    <Sonner
+      theme={theme as ToasterProps["theme"]}
+      className="toaster group"
+      style={
+        {
+          "--normal-bg": "var(--popover)",
+          "--normal-text": "var(--popover-foreground)",
+          "--normal-border": "var(--border)",
+        } as React.CSSProperties
+      }
+      {...props}
+    />
+  );
+};
+
+export { Toaster };

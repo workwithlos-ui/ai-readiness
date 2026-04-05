@@ -1,1 +1,20 @@
-{"data":"aW1wb3J0IHsgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwoKdHlwZSBub29wID0gKC4uLmFyZ3M6IGFueVtdKSA9PiBhbnk7CgovKioKICogdXNlUGVyc2lzdEZuIGluc3RlYWQgb2YgdXNlQ2FsbGJhY2sgdG8gcmVkdWNlIGNvZ25pdGl2ZSBsb2FkCiAqLwpleHBvcnQgZnVuY3Rpb24gdXNlUGVyc2lzdEZuPFQgZXh0ZW5kcyBub29wPihmbjogVCkgewogIGNvbnN0IGZuUmVmID0gdXNlUmVmPFQ+KGZuKTsKICBmblJlZi5jdXJyZW50ID0gZm47CgogIGNvbnN0IHBlcnNpc3RGbiA9IHVzZVJlZjxUPihudWxsKTsKICBpZiAoIXBlcnNpc3RGbi5jdXJyZW50KSB7CiAgICBwZXJzaXN0Rm4uY3VycmVudCA9IGZ1bmN0aW9uICh0aGlzOiB1bmtub3duLCAuLi5hcmdzKSB7CiAgICAgIHJldHVybiBmblJlZi5jdXJyZW50IS5hcHBseSh0aGlzLCBhcmdzKTsKICAgIH0gYXMgVDsKICB9CgogIHJldHVybiBwZXJzaXN0Rm4uY3VycmVudCE7Cn0K"}
+import { useRef } from "react";
+
+type noop = (...args: any[]) => any;
+
+/**
+ * usePersistFn instead of useCallback to reduce cognitive load
+ */
+export function usePersistFn<T extends noop>(fn: T) {
+  const fnRef = useRef<T>(fn);
+  fnRef.current = fn;
+
+  const persistFn = useRef<T>(null);
+  if (!persistFn.current) {
+    persistFn.current = function (this: unknown, ...args) {
+      return fnRef.current!.apply(this, args);
+    } as T;
+  }
+
+  return persistFn.current!;
+}

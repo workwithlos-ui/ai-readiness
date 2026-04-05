@@ -1,1 +1,117 @@
-{"data":"IyBBSSBSZWFkaW5lc3MgQXNzZXNzbWVudCAtIERlc2lnbiBCcmFpbnN0b3JtCgojIyBUYXJnZXQ6IExlYWQgZ2VuZXJhdGlvbiBkaWFnbm9zdGljIHRvb2wgZm9yIGJ1c2luZXNzIG93bmVycwojIyBBZXN0aGV0aWM6ICJNY0tpbnNleSBidWlsdCBpdCIgLSBwcmVtaXVtLCBhdXRob3JpdGF0aXZlLCBkYXRhLWRyaXZlbgoKLS0tCgo8cmVzcG9uc2U+CjxpZGVhPgoKIyMjIElkZWEgMTogIkRhcmsgQ29tbWFuZCBDZW50ZXIiCgoqKkRlc2lnbiBNb3ZlbWVudCoqOiBDeWJlcnB1bmstbWVldHMtQmxvb21iZXJnIFRlcm1pbmFsLiBBIGRhdGEtZGVuc2UsIGRhcmsgaW50ZXJmYWNlIHRoYXQgZmVlbHMgbGlrZSB5b3UncmUgYWNjZXNzaW5nIGNsYXNzaWZpZWQgaW50ZWxsaWdlbmNlIGFib3V0IHlvdXIgYnVzaW5lc3MuCgoqKkNvcmUgUHJpbmNpcGxlcyoqOgoxLiBJbmZvcm1hdGlvbiBkZW5zaXR5IHdpdGggY2xhcml0eSAtIGV2ZXJ5IHBpeGVsIGVhcm5zIGl0cyBwbGFjZQoyLiBNb25vY2hyb21hdGljIGRhcmsgd2l0aCBzdXJnaWNhbCBhY2NlbnQgbGlnaHRpbmcgKGN5YW4vdGVhbCkKMy4gR3JpZC1iYXNlZCBhc3ltbWV0cmljIGxheW91dHMgdGhhdCBmZWVsIHRlY2huaWNhbCBhbmQgYXV0aG9yaXRhdGl2ZQo0LiBEYXRhIHZpc3VhbGl6YXRpb24gYXMgYXJ0IC0gZ2F1Z2VzLCBtZXRlcnMsIGFuZCBjaGFydHMgYXJlIHRoZSBoZXJvIGVsZW1lbnRzCgoqKkNvbG9yIFBoaWxvc29waHkqKjogTmVhci1ibGFjayAoIzBhMGEwYSkgYmFzZSB3aXRoIGN5YW4gKCMwNmI2ZDQpIGFzIHRoZSBwcmltYXJ5IHNpZ25hbCBjb2xvci4gVGVhbCBncmFkaWVudHMgZm9yIGRlcHRoLiBXaGl0ZSAoI2UyZThmMCkgZm9yIHByaW1hcnkgdGV4dCwgbXV0ZWQgZ3JheSAoIzY0NzQ4YikgZm9yIHNlY29uZGFyeS4gVGhlIGRhcmtuZXNzIGNyZWF0ZXMgZm9jdXM7IHRoZSBjeWFuIGNyZWF0ZXMgdXJnZW5jeSBhbmQgZnV0dXJpc20uCgoqKkxheW91dCBQYXJhZGlnbSoqOiBGdWxsLXZpZXdwb3J0IHNjcmVlbnMgd2l0aCBjZW50ZXJlZCBjb250ZW50IGNhcmRzLiBFYWNoIHF1ZXN0aW9uIHNjcmVlbiBpcyBhICJtaXNzaW9uIGJyaWVmaW5nIiAtIGNsZWFuIGNhcmQgb24gZGFyayB2b2lkLiBSZXN1bHRzIHBhZ2UgdXNlcyBhIGRhc2hib2FyZC1zdHlsZSBncmlkIHdpdGggbXVsdGlwbGUgZGF0YSBwYW5lbHMuCgoqKlNpZ25hdHVyZSBFbGVtZW50cyoqOgoxLiBHbG93aW5nIGN5YW4gYm9yZGVyIGFjY2VudHMgdGhhdCBwdWxzZSBzdWJ0bHkgb24gYWN0aXZlIGVsZW1lbnRzCjIuIEZyb3N0ZWQgZ2xhc3MgKGJhY2tkcm9wLWJsdXIpIHBhbmVscyBmbG9hdGluZyBvbiB0aGUgZGFyayBiYWNrZ3JvdW5kCjMuIEFuaW1hdGVkIHNjb3JlIGdhdWdlIHdpdGggU1ZHIGFyYyB0aGF0IGZpbGxzIGRyYW1hdGljYWxseSBvbiByZXZlYWwKCioqSW50ZXJhY3Rpb24gUGhpbG9zb3BoeSoqOiBFYWNoIGFuc3dlciBzZWxlY3Rpb24gdHJpZ2dlcnMgYSBzYXRpc2Z5aW5nIG1pY3JvLWFuaW1hdGlvbiAtIGNhcmRzIGxpZnQgYW5kIGdsb3cgd2hlbiBzZWxlY3RlZC4gVHJhbnNpdGlvbnMgYmV0d2VlbiBzY3JlZW5zIHVzZSBhIHNtb290aCBzbGlkZSB3aXRoIHNsaWdodCBzY2FsZS4gVGhlIGV4cGVyaWVuY2UgZmVlbHMgbGlrZSBvcGVyYXRpbmcgYSBoaWdoLWVuZCBpbnN0cnVtZW50IHBhbmVsLgoKKipBbmltYXRpb24qKjogU3RhZ2dlcmVkIGZhZGUtaW4gZm9yIHF1ZXN0aW9uIGNhcmRzICgxMDBtcyBkZWxheSBiZXR3ZWVuIGVhY2gpLiBTY29yZSBnYXVnZSBhbmltYXRlcyBmcm9tIDAgdG8gZmluYWwgdmFsdWUgb3ZlciAyIHNlY29uZHMgd2l0aCBlYXNpbmcuIENhdGVnb3J5IGJhcnMgc2xpZGUgaW4gZnJvbSBsZWZ0IHdpdGggc2VxdWVudGlhbCBkZWxheXMuIFBhZ2UgdHJhbnNpdGlvbnMgdXNlIGZyYW1lci1tb3Rpb24gd2l0aCBvcGFjaXR5ICsgdHJhbnNsYXRlWS4KCioqVHlwb2dyYXBoeSBTeXN0ZW0qKjogCi0gRGlzcGxheTogIlNwYWNlIEdyb3Rlc2siICg3MDApIGZvciBoZWFkaW5ncyBhbmQgc2NvcmVzIC0gZ2VvbWV0cmljLCB0ZWNobmljYWwgZmVlbAotIEJvZHk6ICJJbnRlciIgKDQwMC81MDApIGZvciBxdWVzdGlvbnMgYW5kIGRlc2NyaXB0aW9ucyAtIG1heGltdW0gcmVhZGFiaWxpdHkKLSBNb25vc3BhY2UgYWNjZW50cyBmb3Igc2NvcmUgbnVtYmVycyBhbmQgcGVyY2VudGFnZXMKCjwvaWRlYT4KPHByb2JhYmlsaXR5PjAuMDQ8L3Byb2JhYmlsaXR5Pgo8L3Jlc3BvbnNlPgoKPHJlc3BvbnNlPgo8aWRlYT4KCiMjIyBJZGVhIDI6ICJTd2lzcyBQcmVjaXNpb24iCgoqKkRlc2lnbiBNb3ZlbWVudCoqOiBOZW8tU3dpc3MgLyBJbnRlcm5hdGlvbmFsIFR5cG9ncmFwaGljIFN0eWxlIG1lZXRzIGZpbnRlY2guIFRoaW5rIExpbmVhci5hcHAgY3Jvc3NlZCB3aXRoIGEgTWNLaW5zZXkgc3RyYXRlZ3kgZGVjay4gVWx0cmEtY2xlYW4sIGNvbmZpZGVudCwgbWluaW1hbC4KCioqQ29yZSBQcmluY2lwbGVzKio6CjEuIFJhZGljYWwgc2ltcGxpY2l0eSAtIHJlbW92ZSBldmVyeXRoaW5nIHRoYXQgZG9lc24ndCBzZXJ2ZSB0aGUgdXNlcgoyLiBUeXBvZ3JhcGh5IGFzIHRoZSBwcmltYXJ5IGRlc2lnbiBlbGVtZW50IChub3QgZGVjb3JhdGlvbikKMy4gR2VuZXJvdXMgd2hpdGVzcGFjZSBvbiBkYXJrIGNhbnZhcyBjcmVhdGVzIHByZW1pdW0gcGVyY2VwdGlvbgo0LiBTdWJ0bGUgZGVwdGggdGhyb3VnaCBsYXllcmVkIHN1cmZhY2VzLCBub3QgZ3JhZGllbnRzCgoqKkNvbG9yIFBoaWxvc29waHkqKjogVHJ1ZSBibGFjayAoIzBhMGEwYSkgYmFja2dyb3VuZC4gVGVhbCAoIzBkOTQ4OCkgYXMgdGhlIHNpbmd1bGFyIGFjY2VudCAtIHVzZWQgc3BhcmluZ2x5IGZvciBDVEFzLCBwcm9ncmVzcywgYW5kIGRhdGEgaGlnaGxpZ2h0cy4gV2FybSB3aGl0ZSAoI2YxZjVmOSkgZm9yIGhlYWRpbmdzLCBjb29sIGdyYXkgKCM5NGEzYjgpIGZvciBib2R5IHRleHQuIFRoZSByZXN0cmFpbnQgaW4gY29sb3IgdXNhZ2Ugc2lnbmFscyBjb25maWRlbmNlIGFuZCBhdXRob3JpdHkuCgoqKkxheW91dCBQYXJhZGlnbSoqOiBWZXJ0aWNhbGx5IGNlbnRlcmVkIHNpbmdsZS1jb2x1bW4gZm9yIHF1aXogZmxvdyAobWF4LXdpZHRoIDY0MHB4KS4gUmVzdWx0cyBwYWdlIGJyZWFrcyBpbnRvIGEgc3RydWN0dXJlZCByZXBvcnQgbGF5b3V0IHdpdGggY2xlYXIgc2VjdGlvbnMgc2VwYXJhdGVkIGJ5IHN1YnRsZSBkaXZpZGVycy4gTGVmdC1hbGlnbmVkIHRleHQgd2l0aCBtYXRoZW1hdGljYWwgc3BhY2luZyByYXRpb3MuCgoqKlNpZ25hdHVyZSBFbGVtZW50cyoqOgoxLiBPdmVyc2l6ZWQgc2NvcmUgbnVtYmVyICgxMjBweCspIHdpdGggdGhpbiBjaXJjdWxhciBwcm9ncmVzcyByaW5nCjIuIEhvcml6b250YWwgY2F0ZWdvcnkgYmFycyB3aXRoIHByZWNpc2UgcGVyY2VudGFnZSBsYWJlbHMKMy4gU3VidGxlIGRvdC1ncmlkIGJhY2tncm91bmQgcGF0dGVybiAodmVyeSBmYWludCkgc3VnZ2VzdGluZyBhbmFseXRpY2FsIHByZWNpc2lvbgoKKipJbnRlcmFjdGlvbiBQaGlsb3NvcGh5Kio6IE1pbmltYWwgYnV0IGludGVudGlvbmFsLiBBbnN3ZXIgY2FyZHMgaGF2ZSBhIGNsZWFuIGJvcmRlciBoaWdobGlnaHQgb24gaG92ZXIsIHNvbGlkIGZpbGwgb24gc2VsZWN0aW9uLiBObyBib3VuY2luZyBvciBwbGF5ZnVsIGFuaW1hdGlvbnMgLSBldmVyeXRoaW5nIG1vdmVzIHdpdGggcHVycG9zZS4gVHJhbnNpdGlvbnMgYXJlIHF1aWNrIGZhZGVzICgyMDBtcykgdGhhdCBmZWVsIGluc3RhbnQgYW5kIHByb2Zlc3Npb25hbC4KCioqQW5pbWF0aW9uKio6IENsZWFuIG9wYWNpdHkgdHJhbnNpdGlvbnMgYmV0d2VlbiBzY3JlZW5zLiBTY29yZSBjb3VudGVyIGFuaW1hdGVzIG51bWVyaWNhbGx5IChjb3VudGluZyB1cCkuIFByb2dyZXNzIGJhciBhdCB0b3AgaXMgYSB0aGluIGxpbmUgdGhhdCBncm93cyBzbW9vdGhseS4gQ2F0ZWdvcnkgYmFycyBhbmltYXRlIHdpZHRoIG9uIHNjcm9sbC1pbnRvLXZpZXcuIEFsbCBlYXNpbmcgaXMgY3ViaWMtYmV6aWVyKDAuNCwgMCwgMC4yLCAxKS4KCioqVHlwb2dyYXBoeSBTeXN0ZW0qKjoKLSBEaXNwbGF5OiAiUGx1cyBKYWthcnRhIFNhbnMiICg3MDAvODAwKSBmb3IgaGVhZGluZ3MgLSBtb2Rlcm4sIGdlb21ldHJpYywgcHJlbWl1bQotIEJvZHk6ICJQbHVzIEpha2FydGEgU2FucyIgKDQwMC81MDApIGZvciBldmVyeXRoaW5nIGVsc2UgLSB1bmlmaWVkIHR5cGUgZmFtaWx5Ci0gU2NvcmUgbnVtYmVycyBpbiAiU3BhY2UgR3JvdGVzayIgKDcwMCkgZm9yIHRlY2huaWNhbCBjb250cmFzdAoKPC9pZGVhPgo8cHJvYmFiaWxpdHk+MC4wNjwvcHJvYmFiaWxpdHk+CjwvcmVzcG9uc2U+Cgo8cmVzcG9uc2U+CjxpZGVhPgoKIyMjIElkZWEgMzogIk9ic2lkaWFuIEludGVsbGlnZW5jZSIKCioqRGVzaWduIE1vdmVtZW50Kio6IERhcmsgbHV4dXJ5IG1lZXRzIGRhdGEgc2NpZW5jZS4gSW5zcGlyZWQgYnkgU3RyaXBlJ3MgZG9jdW1lbnRhdGlvbiBhZXN0aGV0aWMgY3Jvc3NlZCB3aXRoIGEgQmFpbiAmIENvbXBhbnkgZGVsaXZlcmFibGUuIExheWVyZWQgZGFyayBzdXJmYWNlcyB3aXRoIHdhcm0gYWNjZW50IHRvbmVzLgoKKipDb3JlIFByaW5jaXBsZXMqKjoKMS4gTGF5ZXJlZCBkZXB0aCAtIG11bHRpcGxlIHN1cmZhY2UgbGV2ZWxzIGNyZWF0ZSB2aXN1YWwgaGllcmFyY2h5IG9uIGRhcmsgY2FudmFzCjIuIFdhcm0gdGVhbCBhY2NlbnRzIGFnYWluc3QgY29vbCBkYXJrcyBjcmVhdGUgc29waGlzdGljYXRlZCBjb250cmFzdAozLiBDb250ZW50LWZpcnN0IGRlc2lnbiB3aGVyZSBVSSBjaHJvbWUgZGlzYXBwZWFycwo0LiBQcm9ncmVzc2l2ZSBkaXNjbG9zdXJlIC0gaW5mb3JtYXRpb24gcmV2ZWFscyBpdHNlbGYgYXMgeW91IHNjcm9sbAoKKipDb2xvciBQaGlsb3NvcGh5Kio6IExheWVyZWQgZGFya3MgLSBiYXNlICgjMDUwNTA1KSwgc3VyZmFjZSAoIzBmMGYwZiksIGVsZXZhdGVkICgjMWExYTFhKSwgY2FyZCAoIzIyMjIyMikuIFRlYWwgYWNjZW50IHNwZWN0cnVtIGZyb20gZGFyayAoIzEzNGU0YSkgdG8gYnJpZ2h0ICgjMmRkNGJmKS4gVGhpcyBjcmVhdGVzIGEgc2Vuc2Ugb2YgcGh5c2ljYWwgZGVwdGgsIGxpa2UgbG9va2luZyBpbnRvIGxheWVycyBvZiBkYXJrIGdsYXNzLgoKKipMYXlvdXQgUGFyYWRpZ20qKjogQXN5bW1ldHJpYyBoZXJvIHdpdGggbGVmdC1hbGlnbmVkIGNvbnRlbnQuIFF1aXogdXNlcyBhIHdpZGUgY2FyZCAobWF4LXdpZHRoIDcyMHB4KSB3aXRoIGdlbmVyb3VzIGludGVybmFsIHBhZGRpbmcuIFJlc3VsdHMgcGFnZSB1c2VzIGEgbWFnYXppbmUtc3R5bGUgbGF5b3V0IHdpdGggYWx0ZXJuYXRpbmcgZnVsbC13aWR0aCBhbmQgdHdvLWNvbHVtbiBzZWN0aW9ucy4gU2VjdGlvbnMgaGF2ZSBzdWJ0bGUgdG9wIGJvcmRlcnMgaW4gdGVhbC4KCioqU2lnbmF0dXJlIEVsZW1lbnRzKio6CjEuIEdyYWRpZW50IG1lc2ggYmFja2dyb3VuZCAodmVyeSBzdWJ0bGUsIGRhcmsgdGVhbC10by10cmFuc3BhcmVudCkgaW4gaGVybwoyLiBTY29yZSBkaXNwbGF5ZWQgaW4gYSBsYXJnZSBjaXJjdWxhciBnYXVnZSB3aXRoIGFuaW1hdGVkIGdyYWRpZW50IHN0cm9rZQozLiBSZXZlbnVlIGxlYWsgY2FyZHMgd2l0aCByZWQvYW1iZXIgd2FybmluZyBpbmRpY2F0b3JzCgoqKkludGVyYWN0aW9uIFBoaWxvc29waHkqKjogSG92ZXIgc3RhdGVzIHJldmVhbCBhZGRpdGlvbmFsIGRlcHRoIChjYXJkcyBsaWZ0IHdpdGggc2hhZG93KS4gU2VsZWN0ZWQgYW5zd2VycyBnZXQgYSB0ZWFsIGxlZnQtYm9yZGVyIGFjY2VudC4gU21vb3RoIHBhZ2UgdHJhbnNpdGlvbnMgd2l0aCBjb250ZW50IHNsaWRpbmcgdXAgZnJvbSBiZWxvdy4gVGhlIHdob2xlIGV4cGVyaWVuY2UgZmVlbHMgbGlrZSBwZWVsaW5nIGJhY2sgbGF5ZXJzIG9mIGluc2lnaHQuCgoqKkFuaW1hdGlvbioqOiBIZXJvIHRleHQgZmFkZXMgaW4gd2l0aCA1MHB4IHVwd2FyZCB0cmF2ZWwuIFF1aXogY2FyZHMgc3RhZ2dlciBpbiBmcm9tIGJvdHRvbS4gU2NvcmUgZ2F1Z2UgZHJhd3MgaXRzIGFyYyBvdmVyIDEuNXMuIFJlcG9ydCBzZWN0aW9ucyBhbmltYXRlIG9uIHNjcm9sbCBpbnRlcnNlY3Rpb24uIE1pY3JvLWludGVyYWN0aW9ucyBvbiBhbGwgaW50ZXJhY3RpdmUgZWxlbWVudHMgKHNjYWxlIDEuMDIgb24gaG92ZXIpLgoKKipUeXBvZ3JhcGh5IFN5c3RlbSoqOgotIERpc3BsYXk6ICJJbnN0cnVtZW50IFNhbnMiICg3MDApIGZvciBoZWFkaW5ncyAtIHNoYXJwLCBtb2Rlcm4sIGVkaXRvcmlhbAotIEJvZHk6ICJETSBTYW5zIiAoNDAwLzUwMCkgZm9yIGJvZHkgdGV4dCAtIHdhcm0sIHJlYWRhYmxlLCBwcm9mZXNzaW9uYWwgIAotIEFjY2VudDogIkpldEJyYWlucyBNb25vIiBmb3IgbnVtYmVycywgc2NvcmVzLCBhbmQgZGF0YSBwb2ludHMKCjwvaWRlYT4KPHByb2JhYmlsaXR5PjAuMDg8L3Byb2JhYmlsaXR5Pgo8L3Jlc3BvbnNlPgoKLS0tCgojIyBTRUxFQ1RFRDogSWRlYSAyIC0gIlN3aXNzIFByZWNpc2lvbiIKClRoaXMgYXBwcm9hY2ggYmVzdCBtYXRjaGVzIHRoZSAiTWNLaW5zZXkgYnVpbHQgaXQiIHJlcXVpcmVtZW50LiBUaGUgcmFkaWNhbCBzaW1wbGljaXR5LCBjb25maWRlbnQgdHlwb2dyYXBoeSwgYW5kIHJlc3RyYWluZWQgY29sb3IgcGFsZXR0ZSB3aWxsIGNyZWF0ZSB0aGUgbW9zdCBhdXRob3JpdGF0aXZlLCBjb252ZXJzaW9uLW9wdGltaXplZCBleHBlcmllbmNlLiBUaGUgc2luZ2xlIHRlYWwgYWNjZW50IG9uIHRydWUgYmxhY2sgY3JlYXRlcyBpbnN0YW50IHByZW1pdW0gcGVyY2VwdGlvbiB3aXRob3V0IHZpc3VhbCBub2lzZS4gVGhlIGNsZWFuIGNhcmQtYmFzZWQgcXVpeiBmbG93IGFuZCBzdHJ1Y3R1cmVkIHJlcG9ydCBsYXlvdXQgd2lsbCBmZWVsIHByb2Zlc3Npb25hbCBhbmQgdHJ1c3R3b3J0aHkgLSBleGFjdGx5IHdoYXQgYSBidXNpbmVzcyBvd25lciBleHBlY3RzIGZyb20gYSBkaWFnbm9zdGljIHRvb2wuCg=="}
+# AI Readiness Assessment - Design Brainstorm
+
+## Target: Lead generation diagnostic tool for business owners
+## Aesthetic: "McKinsey built it" - premium, authoritative, data-driven
+
+---
+
+<response>
+<idea>
+
+### Idea 1: "Dark Command Center"
+
+**Design Movement**: Cyberpunk-meets-Bloomberg Terminal. A data-dense, dark interface that feels like you're accessing classified intelligence about your business.
+
+**Core Principles**:
+1. Information density with clarity - every pixel earns its place
+2. Monochromatic dark with surgical accent lighting (cyan/teal)
+3. Grid-based asymmetric layouts that feel technical and authoritative
+4. Data visualization as art - gauges, meters, and charts are the hero elements
+
+**Color Philosophy**: Near-black (#0a0a0a) base with cyan (#06b6d4) as the primary signal color. Teal gradients for depth. White (#e2e8f0) for primary text, muted gray (#64748b) for secondary. The darkness creates focus; the cyan creates urgency and futurism.
+
+**Layout Paradigm**: Full-viewport screens with centered content cards. Each question screen is a "mission briefing" - clean card on dark void. Results page uses a dashboard-style grid with multiple data panels.
+
+**Signature Elements**:
+1. Glowing cyan border accents that pulse subtly on active elements
+2. Frosted glass (backdrop-blur) panels floating on the dark background
+3. Animated score gauge with SVG arc that fills dramatically on reveal
+
+**Interaction Philosophy**: Each answer selection triggers a satisfying micro-animation - cards lift and glow when selected. Transitions between screens use a smooth slide with slight scale. The experience feels like operating a high-end instrument panel.
+
+**Animation**: Staggered fade-in for question cards (100ms delay between each). Score gauge animates from 0 to final value over 2 seconds with easing. Category bars slide in from left with sequential delays. Page transitions use framer-motion with opacity + translateY.
+
+**Typography System**: 
+- Display: "Space Grotesk" (700) for headings and scores - geometric, technical feel
+- Body: "Inter" (400/500) for questions and descriptions - maximum readability
+- Monospace accents for score numbers and percentages
+
+</idea>
+<probability>0.04</probability>
+</response>
+
+<response>
+<idea>
+
+### Idea 2: "Swiss Precision"
+
+**Design Movement**: Neo-Swiss / International Typographic Style meets fintech. Think Linear.app crossed with a McKinsey strategy deck. Ultra-clean, confident, minimal.
+
+**Core Principles**:
+1. Radical simplicity - remove everything that doesn't serve the user
+2. Typography as the primary design element (not decoration)
+3. Generous whitespace on dark canvas creates premium perception
+4. Subtle depth through layered surfaces, not gradients
+
+**Color Philosophy**: True black (#0a0a0a) background. Teal (#0d9488) as the singular accent - used sparingly for CTAs, progress, and data highlights. Warm white (#f1f5f9) for headings, cool gray (#94a3b8) for body text. The restraint in color usage signals confidence and authority.
+
+**Layout Paradigm**: Vertically centered single-column for quiz flow (max-width 640px). Results page breaks into a structured report layout with clear sections separated by subtle dividers. Left-aligned text with mathematical spacing ratios.
+
+**Signature Elements**:
+1. Oversized score number (120px+) with thin circular progress ring
+2. Horizontal category bars with precise percentage labels
+3. Subtle dot-grid background pattern (very faint) suggesting analytical precision
+
+**Interaction Philosophy**: Minimal but intentional. Answer cards have a clean border highlight on hover, solid fill on selection. No bouncing or playful animations - everything moves with purpose. Transitions are quick fades (200ms) that feel instant and professional.
+
+**Animation**: Clean opacity transitions between screens. Score counter animates numerically (counting up). Progress bar at top is a thin line that grows smoothly. Category bars animate width on scroll-into-view. All easing is cubic-bezier(0.4, 0, 0.2, 1).
+
+**Typography System**:
+- Display: "Plus Jakarta Sans" (700/800) for headings - modern, geometric, premium
+- Body: "Plus Jakarta Sans" (400/500) for everything else - unified type family
+- Score numbers in "Space Grotesk" (700) for technical contrast
+
+</idea>
+<probability>0.06</probability>
+</response>
+
+<response>
+<idea>
+
+### Idea 3: "Obsidian Intelligence"
+
+**Design Movement**: Dark luxury meets data science. Inspired by Stripe's documentation aesthetic crossed with a Bain & Company deliverable. Layered dark surfaces with warm accent tones.
+
+**Core Principles**:
+1. Layered depth - multiple surface levels create visual hierarchy on dark canvas
+2. Warm teal accents against cool darks create sophisticated contrast
+3. Content-first design where UI chrome disappears
+4. Progressive disclosure - information reveals itself as you scroll
+
+**Color Philosophy**: Layered darks - base (#050505), surface (#0f0f0f), elevated (#1a1a1a), card (#222222). Teal accent spectrum from dark (#134e4a) to bright (#2dd4bf). This creates a sense of physical depth, like looking into layers of dark glass.
+
+**Layout Paradigm**: Asymmetric hero with left-aligned content. Quiz uses a wide card (max-width 720px) with generous internal padding. Results page uses a magazine-style layout with alternating full-width and two-column sections. Sections have subtle top borders in teal.
+
+**Signature Elements**:
+1. Gradient mesh background (very subtle, dark teal-to-transparent) in hero
+2. Score displayed in a large circular gauge with animated gradient stroke
+3. Revenue leak cards with red/amber warning indicators
+
+**Interaction Philosophy**: Hover states reveal additional depth (cards lift with shadow). Selected answers get a teal left-border accent. Smooth page transitions with content sliding up from below. The whole experience feels like peeling back layers of insight.
+
+**Animation**: Hero text fades in with 50px upward travel. Quiz cards stagger in from bottom. Score gauge draws its arc over 1.5s. Report sections animate on scroll intersection. Micro-interactions on all interactive elements (scale 1.02 on hover).
+
+**Typography System**:
+- Display: "Instrument Sans" (700) for headings - sharp, modern, editorial
+- Body: "DM Sans" (400/500) for body text - warm, readable, professional  
+- Accent: "JetBrains Mono" for numbers, scores, and data points
+
+</idea>
+<probability>0.08</probability>
+</response>
+
+---
+
+## SELECTED: Idea 2 - "Swiss Precision"
+
+This approach best matches the "McKinsey built it" requirement. The radical simplicity, confident typography, and restrained color palette will create the most authoritative, conversion-optimized experience. The single teal accent on true black creates instant premium perception without visual noise. The clean card-based quiz flow and structured report layout will feel professional and trustworthy - exactly what a business owner expects from a diagnostic tool.

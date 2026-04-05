@@ -1,1 +1,32 @@
-{"data":"aW1wb3J0IHsgVG9hc3RlciB9IGZyb20gIkAvY29tcG9uZW50cy91aS9zb25uZXIiOwppbXBvcnQgeyBUb29sdGlwUHJvdmlkZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvdG9vbHRpcCI7CmltcG9ydCBOb3RGb3VuZCBmcm9tICJAL3BhZ2VzL05vdEZvdW5kIjsKaW1wb3J0IHsgUm91dGUsIFN3aXRjaCB9IGZyb20gIndvdXRlciI7CmltcG9ydCBFcnJvckJvdW5kYXJ5IGZyb20gIi4vY29tcG9uZW50cy9FcnJvckJvdW5kYXJ5IjsKaW1wb3J0IHsgVGhlbWVQcm92aWRlciB9IGZyb20gIi4vY29udGV4dHMvVGhlbWVDb250ZXh0IjsKaW1wb3J0IEhvbWUgZnJvbSAiLi9wYWdlcy9Ib21lIjsKCmZ1bmN0aW9uIFJvdXRlcigpIHsKICByZXR1cm4gKAogICAgPFN3aXRjaD4KICAgICAgPFJvdXRlIHBhdGg9eyIvIn0gY29tcG9uZW50PXtIb21lfSAvPgogICAgICA8Um91dGUgcGF0aD17Ii80MDQifSBjb21wb25lbnQ9e05vdEZvdW5kfSAvPgogICAgICA8Um91dGUgY29tcG9uZW50PXtOb3RGb3VuZH0gLz4KICAgIDwvU3dpdGNoPgogICk7Cn0KCmZ1bmN0aW9uIEFwcCgpIHsKICByZXR1cm4gKAogICAgPEVycm9yQm91bmRhcnk+CiAgICAgIDxUaGVtZVByb3ZpZGVyIGRlZmF1bHRUaGVtZT0iZGFyayI+CiAgICAgICAgPFRvb2x0aXBQcm92aWRlcj4KICAgICAgICAgIDxUb2FzdGVyIC8+CiAgICAgICAgICA8Um91dGVyIC8+CiAgICAgICAgPC9Ub29sdGlwUHJvdmlkZXI+CiAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgIDwvRXJyb3JCb3VuZGFyeT4KICApOwp9CgpleHBvcnQgZGVmYXVsdCBBcHA7Cg=="}
+import { Toaster } from "@/components/ui/sonner";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import NotFound from "@/pages/NotFound";
+import { Route, Switch } from "wouter";
+import ErrorBoundary from "./components/ErrorBoundary";
+import { ThemeProvider } from "./contexts/ThemeContext";
+import Home from "./pages/Home";
+
+function Router() {
+  return (
+    <Switch>
+      <Route path={"/"} component={Home} />
+      <Route path={"/404"} component={NotFound} />
+      <Route component={NotFound} />
+    </Switch>
+  );
+}
+
+function App() {
+  return (
+    <ErrorBoundary>
+      <ThemeProvider defaultTheme="dark">
+        <TooltipProvider>
+          <Toaster />
+          <Router />
+        </TooltipProvider>
+      </ThemeProvider>
+    </ErrorBoundary>
+  );
+}
+
+export default App;

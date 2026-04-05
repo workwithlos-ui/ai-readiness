@@ -1,1 +1,75 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgeyBPVFBJbnB1dCwgT1RQSW5wdXRDb250ZXh0IH0gZnJvbSAiaW5wdXQtb3RwIjsKaW1wb3J0IHsgTWludXNJY29uIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKZnVuY3Rpb24gSW5wdXRPVFAoewogIGNsYXNzTmFtZSwKICBjb250YWluZXJDbGFzc05hbWUsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIE9UUElucHV0PiAmIHsKICBjb250YWluZXJDbGFzc05hbWU/OiBzdHJpbmc7Cn0pIHsKICByZXR1cm4gKAogICAgPE9UUElucHV0CiAgICAgIGRhdGEtc2xvdD0iaW5wdXQtb3RwIgogICAgICBjb250YWluZXJDbGFzc05hbWU9e2NuKAogICAgICAgICJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBoYXMtZGlzYWJsZWQ6b3BhY2l0eS01MCIsCiAgICAgICAgY29udGFpbmVyQ2xhc3NOYW1lCiAgICAgICl9CiAgICAgIGNsYXNzTmFtZT17Y24oImRpc2FibGVkOmN1cnNvci1ub3QtYWxsb3dlZCIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKZnVuY3Rpb24gSW5wdXRPVFBHcm91cCh7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8ImRpdiI+KSB7CiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgZGF0YS1zbG90PSJpbnB1dC1vdHAtZ3JvdXAiCiAgICAgIGNsYXNzTmFtZT17Y24oImZsZXggaXRlbXMtY2VudGVyIiwgY2xhc3NOYW1lKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBJbnB1dE9UUFNsb3QoewogIGluZGV4LAogIGNsYXNzTmFtZSwKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczwiZGl2Ij4gJiB7CiAgaW5kZXg6IG51bWJlcjsKfSkgewogIGNvbnN0IGlucHV0T1RQQ29udGV4dCA9IFJlYWN0LnVzZUNvbnRleHQoT1RQSW5wdXRDb250ZXh0KTsKICBjb25zdCB7IGNoYXIsIGhhc0Zha2VDYXJldCwgaXNBY3RpdmUgfSA9IGlucHV0T1RQQ29udGV4dD8uc2xvdHNbaW5kZXhdID8/IHt9OwoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBkYXRhLXNsb3Q9ImlucHV0LW90cC1zbG90IgogICAgICBkYXRhLWFjdGl2ZT17aXNBY3RpdmV9CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImRhdGEtW2FjdGl2ZT10cnVlXTpib3JkZXItcmluZyBkYXRhLVthY3RpdmU9dHJ1ZV06cmluZy1yaW5nLzUwIGRhdGEtW2FjdGl2ZT10cnVlXTphcmlhLWludmFsaWQ6cmluZy1kZXN0cnVjdGl2ZS8yMCBkYXJrOmRhdGEtW2FjdGl2ZT10cnVlXTphcmlhLWludmFsaWQ6cmluZy1kZXN0cnVjdGl2ZS80MCBhcmlhLWludmFsaWQ6Ym9yZGVyLWRlc3RydWN0aXZlIGRhdGEtW2FjdGl2ZT10cnVlXTphcmlhLWludmFsaWQ6Ym9yZGVyLWRlc3RydWN0aXZlIGRhcms6YmctaW5wdXQvMzAgYm9yZGVyLWlucHV0IHJlbGF0aXZlIGZsZXggaC05IHctOSBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgYm9yZGVyLXkgYm9yZGVyLXIgdGV4dC1zbSBzaGFkb3cteHMgdHJhbnNpdGlvbi1hbGwgb3V0bGluZS1ub25lIGZpcnN0OnJvdW5kZWQtbC1tZCBmaXJzdDpib3JkZXItbCBsYXN0OnJvdW5kZWQtci1tZCBkYXRhLVthY3RpdmU9dHJ1ZV06ei0xMCBkYXRhLVthY3RpdmU9dHJ1ZV06cmluZy1bM3B4XSIsCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICAgIHsuLi5wcm9wc30KICAgID4KICAgICAge2NoYXJ9CiAgICAgIHtoYXNGYWtlQ2FyZXQgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwb2ludGVyLWV2ZW50cy1ub25lIGFic29sdXRlIGluc2V0LTAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFuaW1hdGUtY2FyZXQtYmxpbmsgYmctZm9yZWdyb3VuZCBoLTQgdy1weCBkdXJhdGlvbi0xMDAwIiAvPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gSW5wdXRPVFBTZXBhcmF0b3IoeyAuLi5wcm9wcyB9OiBSZWFjdC5Db21wb25lbnRQcm9wczwiZGl2Ij4pIHsKICByZXR1cm4gKAogICAgPGRpdiBkYXRhLXNsb3Q9ImlucHV0LW90cC1zZXBhcmF0b3IiIHJvbGU9InNlcGFyYXRvciIgey4uLnByb3BzfT4KICAgICAgPE1pbnVzSWNvbiAvPgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IHsgSW5wdXRPVFAsIElucHV0T1RQR3JvdXAsIElucHV0T1RQU2xvdCwgSW5wdXRPVFBTZXBhcmF0b3IgfTsK"}
+import * as React from "react";
+import { OTPInput, OTPInputContext } from "input-otp";
+import { MinusIcon } from "lucide-react";
+
+import { cn } from "@/lib/utils";
+
+function InputOTP({
+  className,
+  containerClassName,
+  ...props
+}: React.ComponentProps<typeof OTPInput> & {
+  containerClassName?: string;
+}) {
+  return (
+    <OTPInput
+      data-slot="input-otp"
+      containerClassName={cn(
+        "flex items-center gap-2 has-disabled:opacity-50",
+        containerClassName
+      )}
+      className={cn("disabled:cursor-not-allowed", className)}
+      {...props}
+    />
+  );
+}
+
+function InputOTPGroup({ className, ...props }: React.ComponentProps<"div">) {
+  return (
+    <div
+      data-slot="input-otp-group"
+      className={cn("flex items-center", className)}
+      {...props}
+    />
+  );
+}
+
+function InputOTPSlot({
+  index,
+  className,
+  ...props
+}: React.ComponentProps<"div"> & {
+  index: number;
+}) {
+  const inputOTPContext = React.useContext(OTPInputContext);
+  const { char, hasFakeCaret, isActive } = inputOTPContext?.slots[index] ?? {};
+
+  return (
+    <div
+      data-slot="input-otp-slot"
+      data-active={isActive}
+      className={cn(
+        "data-[active=true]:border-ring data-[active=true]:ring-ring/50 data-[active=true]:aria-invalid:ring-destructive/20 dark:data-[active=true]:aria-invalid:ring-destructive/40 aria-invalid:border-destructive data-[active=true]:aria-invalid:border-destructive dark:bg-input/30 border-input relative flex h-9 w-9 items-center justify-center border-y border-r text-sm shadow-xs transition-all outline-none first:rounded-l-md first:border-l last:rounded-r-md data-[active=true]:z-10 data-[active=true]:ring-[3px]",
+        className
+      )}
+      {...props}
+    >
+      {char}
+      {hasFakeCaret && (
+        <div className="pointer-events-none absolute inset-0 flex items-center justify-center">
+          <div className="animate-caret-blink bg-foreground h-4 w-px duration-1000" />
+        </div>
+      )}
+    </div>
+  );
+}
+
+function InputOTPSeparator({ ...props }: React.ComponentProps<"div">) {
+  return (
+    <div data-slot="input-otp-separator" role="separator" {...props}>
+      <MinusIcon />
+    </div>
+  );
+}
+
+export { InputOTP, InputOTPGroup, InputOTPSlot, InputOTPSeparator };

@@ -1,1 +1,28 @@
-{"data":"ZGlmZiAtLWdpdCBhL2VzbS9pbmRleC5qcyBiL2VzbS9pbmRleC5qcwppbmRleCBjODNiYzYzYTJjMTA0MzFmYjYyZTI1YjdkNDkwNjU2YTM3OTZmMzAxLi5iY2FlNTEzY2MyMGE0YmU2YzM4ZGMxMTZlMGI4ZDliYWNkYTYyYjViIDEwMDY0NAotLS0gYS9lc20vaW5kZXguanMKKysrIGIvZXNtL2luZGV4LmpzCkBAIC0zMzgsNiArMzM4LDIzIEBAIGNvbnN0IFN3aXRjaCA9ICh7IGNoaWxkcmVuLCBsb2NhdGlvbiB9KSA9PiB7CiAgIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpOwogICBjb25zdCBbb3JpZ2luYWxMb2NhdGlvbl0gPSB1c2VMb2NhdGlvbkZyb21Sb3V0ZXIocm91dGVyKTsKIAorICAvLyBDb2xsZWN0IGFsbCByb3V0ZSBwYXRocyB0byB3aW5kb3cgb2JqZWN0CisgIGlmICh0eXBlb2Ygd2luZG93ICE9PSAndW5kZWZpbmVkJykgeworICAgIGlmICghd2luZG93Ll9fV09VVEVSX1JPVVRFU19fKSB7CisgICAgICB3aW5kb3cuX19XT1VURVJfUk9VVEVTX18gPSBbXTsKKyAgICB9CisKKyAgICBjb25zdCBhbGxDaGlsZHJlbiA9IGZsYXR0ZW5DaGlsZHJlbihjaGlsZHJlbik7CisgICAgYWxsQ2hpbGRyZW4uZm9yRWFjaCgoZWxlbWVudCkgPT4geworICAgICAgaWYgKGlzVmFsaWRFbGVtZW50KGVsZW1lbnQpICYmIGVsZW1lbnQucHJvcHMucGF0aCkgeworICAgICAgICBjb25zdCBwYXRoID0gZWxlbWVudC5wcm9wcy5wYXRoOworICAgICAgICBpZiAoIXdpbmRvdy5fX1dPVVRFUl9ST1VURVNfXy5pbmNsdWRlcyhwYXRoKSkgeworICAgICAgICAgIHdpbmRvdy5fX1dPVVRFUl9ST1VURVNfXy5wdXNoKHBhdGgpOworICAgICAgICB9CisgICAgICB9CisgICAgfSk7CisgIH0KKwogICBmb3IgKGNvbnN0IGVsZW1lbnQgb2YgZmxhdHRlbkNoaWxkcmVuKGNoaWxkcmVuKSkgewogICAgIGxldCBtYXRjaCA9IDA7CiAK"}
+diff --git a/esm/index.js b/esm/index.js
+index c83bc63a2c10431fb62e25b7d490656a3796f301..bcae513cc20a4be6c38dc116e0b8d9bacda62b5b 100644
+--- a/esm/index.js
++++ b/esm/index.js
+@@ -338,6 +338,23 @@ const Switch = ({ children, location }) => {
+   const router = useRouter();
+   const [originalLocation] = useLocationFromRouter(router);
+ 
++  // Collect all route paths to window object
++  if (typeof window !== 'undefined') {
++    if (!window.__WOUTER_ROUTES__) {
++      window.__WOUTER_ROUTES__ = [];
++    }
++
++    const allChildren = flattenChildren(children);
++    allChildren.forEach((element) => {
++      if (isValidElement(element) && element.props.path) {
++        const path = element.props.path;
++        if (!window.__WOUTER_ROUTES__.includes(path)) {
++          window.__WOUTER_ROUTES__.push(path);
++        }
++      }
++    });
++  }
++
+   for (const element of flattenChildren(children)) {
+     let match = 0;
+ 

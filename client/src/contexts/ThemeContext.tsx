@@ -1,1 +1,64 @@
-{"data":"aW1wb3J0IFJlYWN0LCB7IGNyZWF0ZUNvbnRleHQsIHVzZUNvbnRleHQsIHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7Cgp0eXBlIFRoZW1lID0gImxpZ2h0IiB8ICJkYXJrIjsKCmludGVyZmFjZSBUaGVtZUNvbnRleHRUeXBlIHsKICB0aGVtZTogVGhlbWU7CiAgdG9nZ2xlVGhlbWU/OiAoKSA9PiB2b2lkOwogIHN3aXRjaGFibGU6IGJvb2xlYW47Cn0KCmNvbnN0IFRoZW1lQ29udGV4dCA9IGNyZWF0ZUNvbnRleHQ8VGhlbWVDb250ZXh0VHlwZSB8IHVuZGVmaW5lZD4odW5kZWZpbmVkKTsKCmludGVyZmFjZSBUaGVtZVByb3ZpZGVyUHJvcHMgewogIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7CiAgZGVmYXVsdFRoZW1lPzogVGhlbWU7CiAgc3dpdGNoYWJsZT86IGJvb2xlYW47Cn0KCmV4cG9ydCBmdW5jdGlvbiBUaGVtZVByb3ZpZGVyKHsKICBjaGlsZHJlbiwKICBkZWZhdWx0VGhlbWUgPSAibGlnaHQiLAogIHN3aXRjaGFibGUgPSBmYWxzZSwKfTogVGhlbWVQcm92aWRlclByb3BzKSB7CiAgY29uc3QgW3RoZW1lLCBzZXRUaGVtZV0gPSB1c2VTdGF0ZTxUaGVtZT4oKCkgPT4gewogICAgaWYgKHN3aXRjaGFibGUpIHsKICAgICAgY29uc3Qgc3RvcmVkID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oInRoZW1lIik7CiAgICAgIHJldHVybiAoc3RvcmVkIGFzIFRoZW1lKSB8fCBkZWZhdWx0VGhlbWU7CiAgICB9CiAgICByZXR1cm4gZGVmYXVsdFRoZW1lOwogIH0pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3Qgcm9vdCA9IGRvY3VtZW50LmRvY3VtZW50RWxlbWVudDsKICAgIGlmICh0aGVtZSA9PT0gImRhcmsiKSB7CiAgICAgIHJvb3QuY2xhc3NMaXN0LmFkZCgiZGFyayIpOwogICAgfSBlbHNlIHsKICAgICAgcm9vdC5jbGFzc0xpc3QucmVtb3ZlKCJkYXJrIik7CiAgICB9CgogICAgaWYgKHN3aXRjaGFibGUpIHsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oInRoZW1lIiwgdGhlbWUpOwogICAgfQogIH0sIFt0aGVtZSwgc3dpdGNoYWJsZV0pOwoKICBjb25zdCB0b2dnbGVUaGVtZSA9IHN3aXRjaGFibGUKICAgID8gKCkgPT4gewogICAgICAgIHNldFRoZW1lKHByZXYgPT4gKHByZXYgPT09ICJsaWdodCIgPyAiZGFyayIgOiAibGlnaHQiKSk7CiAgICAgIH0KICAgIDogdW5kZWZpbmVkOwoKICByZXR1cm4gKAogICAgPFRoZW1lQ29udGV4dC5Qcm92aWRlciB2YWx1ZT17eyB0aGVtZSwgdG9nZ2xlVGhlbWUsIHN3aXRjaGFibGUgfX0+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvVGhlbWVDb250ZXh0LlByb3ZpZGVyPgogICk7Cn0KCmV4cG9ydCBmdW5jdGlvbiB1c2VUaGVtZSgpIHsKICBjb25zdCBjb250ZXh0ID0gdXNlQ29udGV4dChUaGVtZUNvbnRleHQpOwogIGlmICghY29udGV4dCkgewogICAgdGhyb3cgbmV3IEVycm9yKCJ1c2VUaGVtZSBtdXN0IGJlIHVzZWQgd2l0aGluIFRoZW1lUHJvdmlkZXIiKTsKICB9CiAgcmV0dXJuIGNvbnRleHQ7Cn0K"}
+import React, { createContext, useContext, useEffect, useState } from "react";
+
+type Theme = "light" | "dark";
+
+interface ThemeContextType {
+  theme: Theme;
+  toggleTheme?: () => void;
+  switchable: boolean;
+}
+
+const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
+
+interface ThemeProviderProps {
+  children: React.ReactNode;
+  defaultTheme?: Theme;
+  switchable?: boolean;
+}
+
+export function ThemeProvider({
+  children,
+  defaultTheme = "light",
+  switchable = false,
+}: ThemeProviderProps) {
+  const [theme, setTheme] = useState<Theme>(() => {
+    if (switchable) {
+      const stored = localStorage.getItem("theme");
+      return (stored as Theme) || defaultTheme;
+    }
+    return defaultTheme;
+  });
+
+  useEffect(() => {
+    const root = document.documentElement;
+    if (theme === "dark") {
+      root.classList.add("dark");
+    } else {
+      root.classList.remove("dark");
+    }
+
+    if (switchable) {
+      localStorage.setItem("theme", theme);
+    }
+  }, [theme, switchable]);
+
+  const toggleTheme = switchable
+    ? () => {
+        setTheme(prev => (prev === "light" ? "dark" : "light"));
+      }
+    : undefined;
+
+  return (
+    <ThemeContext.Provider value={{ theme, toggleTheme, switchable }}>
+      {children}
+    </ThemeContext.Provider>
+  );
+}
+
+export function useTheme() {
+  const context = useContext(ThemeContext);
+  if (!context) {
+    throw new Error("useTheme must be used within ThemeProvider");
+  }
+  return context;
+}

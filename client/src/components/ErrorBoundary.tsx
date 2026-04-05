@@ -1,1 +1,62 @@
-{"data":"aW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CmltcG9ydCB7IEFsZXJ0VHJpYW5nbGUsIFJvdGF0ZUNjdyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IENvbXBvbmVudCwgUmVhY3ROb2RlIH0gZnJvbSAicmVhY3QiOwoKaW50ZXJmYWNlIFByb3BzIHsKICBjaGlsZHJlbjogUmVhY3ROb2RlOwp9CgppbnRlcmZhY2UgU3RhdGUgewogIGhhc0Vycm9yOiBib29sZWFuOwogIGVycm9yOiBFcnJvciB8IG51bGw7Cn0KCmNsYXNzIEVycm9yQm91bmRhcnkgZXh0ZW5kcyBDb21wb25lbnQ8UHJvcHMsIFN0YXRlPiB7CiAgY29uc3RydWN0b3IocHJvcHM6IFByb3BzKSB7CiAgICBzdXBlcihwcm9wcyk7CiAgICB0aGlzLnN0YXRlID0geyBoYXNFcnJvcjogZmFsc2UsIGVycm9yOiBudWxsIH07CiAgfQoKICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbUVycm9yKGVycm9yOiBFcnJvcik6IFN0YXRlIHsKICAgIHJldHVybiB7IGhhc0Vycm9yOiB0cnVlLCBlcnJvciB9OwogIH0KCiAgcmVuZGVyKCkgewogICAgaWYgKHRoaXMuc3RhdGUuaGFzRXJyb3IpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgbWluLWgtc2NyZWVuIHAtOCBiZy1iYWNrZ3JvdW5kIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciB3LWZ1bGwgbWF4LXctMnhsIHAtOCI+CiAgICAgICAgICAgIDxBbGVydFRyaWFuZ2xlCiAgICAgICAgICAgICAgc2l6ZT17NDh9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LWRlc3RydWN0aXZlIG1iLTYgZmxleC1zaHJpbmstMCIKICAgICAgICAgICAgLz4KCiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgbWItNCI+QW4gdW5leHBlY3RlZCBlcnJvciBvY2N1cnJlZC48L2gyPgoKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InAtNCB3LWZ1bGwgcm91bmRlZCBiZy1tdXRlZCBvdmVyZmxvdy1hdXRvIG1iLTYiPgogICAgICAgICAgICAgIDxwcmUgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCB3aGl0ZXNwYWNlLWJyZWFrLXNwYWNlcyI+CiAgICAgICAgICAgICAgICB7dGhpcy5zdGF0ZS5lcnJvcj8uc3RhY2t9CiAgICAgICAgICAgICAgPC9wcmU+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKX0KICAgICAgICAgICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICAgICAgICAgImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTQgcHktMiByb3VuZGVkLWxnIiwKICAgICAgICAgICAgICAgICJiZy1wcmltYXJ5IHRleHQtcHJpbWFyeS1mb3JlZ3JvdW5kIiwKICAgICAgICAgICAgICAgICJob3ZlcjpvcGFjaXR5LTkwIGN1cnNvci1wb2ludGVyIgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8Um90YXRlQ2N3IHNpemU9ezE2fSAvPgogICAgICAgICAgICAgIFJlbG9hZCBQYWdlCiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICk7CiAgICB9CgogICAgcmV0dXJuIHRoaXMucHJvcHMuY2hpbGRyZW47CiAgfQp9CgpleHBvcnQgZGVmYXVsdCBFcnJvckJvdW5kYXJ5Owo="}
+import { cn } from "@/lib/utils";
+import { AlertTriangle, RotateCcw } from "lucide-react";
+import { Component, ReactNode } from "react";
+
+interface Props {
+  children: ReactNode;
+}
+
+interface State {
+  hasError: boolean;
+  error: Error | null;
+}
+
+class ErrorBoundary extends Component<Props, State> {
+  constructor(props: Props) {
+    super(props);
+    this.state = { hasError: false, error: null };
+  }
+
+  static getDerivedStateFromError(error: Error): State {
+    return { hasError: true, error };
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div className="flex items-center justify-center min-h-screen p-8 bg-background">
+          <div className="flex flex-col items-center w-full max-w-2xl p-8">
+            <AlertTriangle
+              size={48}
+              className="text-destructive mb-6 flex-shrink-0"
+            />
+
+            <h2 className="text-xl mb-4">An unexpected error occurred.</h2>
+
+            <div className="p-4 w-full rounded bg-muted overflow-auto mb-6">
+              <pre className="text-sm text-muted-foreground whitespace-break-spaces">
+                {this.state.error?.stack}
+              </pre>
+            </div>
+
+            <button
+              onClick={() => window.location.reload()}
+              className={cn(
+                "flex items-center gap-2 px-4 py-2 rounded-lg",
+                "bg-primary text-primary-foreground",
+                "hover:opacity-90 cursor-pointer"
+              )}
+            >
+              <RotateCcw size={16} />
+              Reload Page
+            </button>
+          </div>
+        </div>
+      );
+    }
+
+    return this.props.children;
+  }
+}
+
+export default ErrorBoundary;

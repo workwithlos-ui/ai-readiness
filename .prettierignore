@@ -1,1 +1,5 @@
-{"data":"ZGlzdApub2RlX21vZHVsZXMKLmdpdAoqLm1pbi5qcwoqLm1pbi5jc3MK"}
+dist
+node_modules
+.git
+*.min.js
+*.min.css

@@ -1,1 +1,274 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgKiBhcyBNZW51YmFyUHJpbWl0aXZlIGZyb20gIkByYWRpeC11aS9yZWFjdC1tZW51YmFyIjsKaW1wb3J0IHsgQ2hlY2tJY29uLCBDaGV2cm9uUmlnaHRJY29uLCBDaXJjbGVJY29uIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKZnVuY3Rpb24gTWVudWJhcih7CiAgY2xhc3NOYW1lLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBNZW51YmFyUHJpbWl0aXZlLlJvb3Q+KSB7CiAgcmV0dXJuICgKICAgIDxNZW51YmFyUHJpbWl0aXZlLlJvb3QKICAgICAgZGF0YS1zbG90PSJtZW51YmFyIgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJiZy1iYWNrZ3JvdW5kIGZsZXggaC05IGl0ZW1zLWNlbnRlciBnYXAtMSByb3VuZGVkLW1kIGJvcmRlciBwLTEgc2hhZG93LXhzIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBNZW51YmFyTWVudSh7CiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIE1lbnViYXJQcmltaXRpdmUuTWVudT4pIHsKICByZXR1cm4gPE1lbnViYXJQcmltaXRpdmUuTWVudSBkYXRhLXNsb3Q9Im1lbnViYXItbWVudSIgey4uLnByb3BzfSAvPjsKfQoKZnVuY3Rpb24gTWVudWJhckdyb3VwKHsKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczx0eXBlb2YgTWVudWJhclByaW1pdGl2ZS5Hcm91cD4pIHsKICByZXR1cm4gPE1lbnViYXJQcmltaXRpdmUuR3JvdXAgZGF0YS1zbG90PSJtZW51YmFyLWdyb3VwIiB7Li4ucHJvcHN9IC8+Owp9CgpmdW5jdGlvbiBNZW51YmFyUG9ydGFsKHsKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczx0eXBlb2YgTWVudWJhclByaW1pdGl2ZS5Qb3J0YWw+KSB7CiAgcmV0dXJuIDxNZW51YmFyUHJpbWl0aXZlLlBvcnRhbCBkYXRhLXNsb3Q9Im1lbnViYXItcG9ydGFsIiB7Li4ucHJvcHN9IC8+Owp9CgpmdW5jdGlvbiBNZW51YmFyUmFkaW9Hcm91cCh7CiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIE1lbnViYXJQcmltaXRpdmUuUmFkaW9Hcm91cD4pIHsKICByZXR1cm4gKAogICAgPE1lbnViYXJQcmltaXRpdmUuUmFkaW9Hcm91cCBkYXRhLXNsb3Q9Im1lbnViYXItcmFkaW8tZ3JvdXAiIHsuLi5wcm9wc30gLz4KICApOwp9CgpmdW5jdGlvbiBNZW51YmFyVHJpZ2dlcih7CiAgY2xhc3NOYW1lLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBNZW51YmFyUHJpbWl0aXZlLlRyaWdnZXI+KSB7CiAgcmV0dXJuICgKICAgIDxNZW51YmFyUHJpbWl0aXZlLlRyaWdnZXIKICAgICAgZGF0YS1zbG90PSJtZW51YmFyLXRyaWdnZXIiCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImZvY3VzOmJnLWFjY2VudCBmb2N1czp0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIGRhdGEtW3N0YXRlPW9wZW5dOmJnLWFjY2VudCBkYXRhLVtzdGF0ZT1vcGVuXTp0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIGZsZXggaXRlbXMtY2VudGVyIHJvdW5kZWQtc20gcHgtMiBweS0xIHRleHQtc20gZm9udC1tZWRpdW0gb3V0bGluZS1oaWRkZW4gc2VsZWN0LW5vbmUiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICB7Li4ucHJvcHN9CiAgICAvPgogICk7Cn0KCmZ1bmN0aW9uIE1lbnViYXJDb250ZW50KHsKICBjbGFzc05hbWUsCiAgYWxpZ24gPSAic3RhcnQiLAogIGFsaWduT2Zmc2V0ID0gLTQsCiAgc2lkZU9mZnNldCA9IDgsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIE1lbnViYXJQcmltaXRpdmUuQ29udGVudD4pIHsKICByZXR1cm4gKAogICAgPE1lbnViYXJQb3J0YWw+CiAgICAgIDxNZW51YmFyUHJpbWl0aXZlLkNvbnRlbnQKICAgICAgICBkYXRhLXNsb3Q9Im1lbnViYXItY29udGVudCIKICAgICAgICBhbGlnbj17YWxpZ259CiAgICAgICAgYWxpZ25PZmZzZXQ9e2FsaWduT2Zmc2V0fQogICAgICAgIHNpZGVPZmZzZXQ9e3NpZGVPZmZzZXR9CiAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICJiZy1wb3BvdmVyIHRleHQtcG9wb3Zlci1mb3JlZ3JvdW5kIGRhdGEtW3N0YXRlPW9wZW5dOmFuaW1hdGUtaW4gZGF0YS1bc3RhdGU9Y2xvc2VkXTpmYWRlLW91dC0wIGRhdGEtW3N0YXRlPW9wZW5dOmZhZGUtaW4tMCBkYXRhLVtzdGF0ZT1jbG9zZWRdOnpvb20tb3V0LTk1IGRhdGEtW3N0YXRlPW9wZW5dOnpvb20taW4tOTUgZGF0YS1bc2lkZT1ib3R0b21dOnNsaWRlLWluLWZyb20tdG9wLTIgZGF0YS1bc2lkZT1sZWZ0XTpzbGlkZS1pbi1mcm9tLXJpZ2h0LTIgZGF0YS1bc2lkZT1yaWdodF06c2xpZGUtaW4tZnJvbS1sZWZ0LTIgZGF0YS1bc2lkZT10b3BdOnNsaWRlLWluLWZyb20tYm90dG9tLTIgei01MCBtaW4tdy1bMTJyZW1dIG9yaWdpbi0oLS1yYWRpeC1tZW51YmFyLWNvbnRlbnQtdHJhbnNmb3JtLW9yaWdpbikgb3ZlcmZsb3ctaGlkZGVuIHJvdW5kZWQtbWQgYm9yZGVyIHAtMSBzaGFkb3ctbWQiLAogICAgICAgICAgY2xhc3NOYW1lCiAgICAgICAgKX0KICAgICAgICB7Li4ucHJvcHN9CiAgICAgIC8+CiAgICA8L01lbnViYXJQb3J0YWw+CiAgKTsKfQoKZnVuY3Rpb24gTWVudWJhckl0ZW0oewogIGNsYXNzTmFtZSwKICBpbnNldCwKICB2YXJpYW50ID0gImRlZmF1bHQiLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBNZW51YmFyUHJpbWl0aXZlLkl0ZW0+ICYgewogIGluc2V0PzogYm9vbGVhbjsKICB2YXJpYW50PzogImRlZmF1bHQiIHwgImRlc3RydWN0aXZlIjsKfSkgewogIHJldHVybiAoCiAgICA8TWVudWJhclByaW1pdGl2ZS5JdGVtCiAgICAgIGRhdGEtc2xvdD0ibWVudWJhci1pdGVtIgogICAgICBkYXRhLWluc2V0PXtpbnNldH0KICAgICAgZGF0YS12YXJpYW50PXt2YXJpYW50fQogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJmb2N1czpiZy1hY2NlbnQgZm9jdXM6dGV4dC1hY2NlbnQtZm9yZWdyb3VuZCBkYXRhLVt2YXJpYW50PWRlc3RydWN0aXZlXTp0ZXh0LWRlc3RydWN0aXZlIGRhdGEtW3ZhcmlhbnQ9ZGVzdHJ1Y3RpdmVdOmZvY3VzOmJnLWRlc3RydWN0aXZlLzEwIGRhcms6ZGF0YS1bdmFyaWFudD1kZXN0cnVjdGl2ZV06Zm9jdXM6YmctZGVzdHJ1Y3RpdmUvMjAgZGF0YS1bdmFyaWFudD1kZXN0cnVjdGl2ZV06Zm9jdXM6dGV4dC1kZXN0cnVjdGl2ZSBkYXRhLVt2YXJpYW50PWRlc3RydWN0aXZlXToqOltzdmddOiF0ZXh0LWRlc3RydWN0aXZlIFsmX3N2Zzpub3QoW2NsYXNzKj0ndGV4dC0nXSldOnRleHQtbXV0ZWQtZm9yZWdyb3VuZCByZWxhdGl2ZSBmbGV4IGN1cnNvci1kZWZhdWx0IGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLXNtIHB4LTIgcHktMS41IHRleHQtc20gb3V0bGluZS1oaWRkZW4gc2VsZWN0LW5vbmUgZGF0YS1bZGlzYWJsZWRdOnBvaW50ZXItZXZlbnRzLW5vbmUgZGF0YS1bZGlzYWJsZWRdOm9wYWNpdHktNTAgZGF0YS1baW5zZXRdOnBsLTggWyZfc3ZnXTpwb2ludGVyLWV2ZW50cy1ub25lIFsmX3N2Z106c2hyaW5rLTAgWyZfc3ZnOm5vdChbY2xhc3MqPSdzaXplLSddKV06c2l6ZS00IiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBNZW51YmFyQ2hlY2tib3hJdGVtKHsKICBjbGFzc05hbWUsCiAgY2hpbGRyZW4sCiAgY2hlY2tlZCwKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczx0eXBlb2YgTWVudWJhclByaW1pdGl2ZS5DaGVja2JveEl0ZW0+KSB7CiAgcmV0dXJuICgKICAgIDxNZW51YmFyUHJpbWl0aXZlLkNoZWNrYm94SXRlbQogICAgICBkYXRhLXNsb3Q9Im1lbnViYXItY2hlY2tib3gtaXRlbSIKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAiZm9jdXM6YmctYWNjZW50IGZvY3VzOnRleHQtYWNjZW50LWZvcmVncm91bmQgcmVsYXRpdmUgZmxleCBjdXJzb3ItZGVmYXVsdCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC14cyBweS0xLjUgcHItMiBwbC04IHRleHQtc20gb3V0bGluZS1oaWRkZW4gc2VsZWN0LW5vbmUgZGF0YS1bZGlzYWJsZWRdOnBvaW50ZXItZXZlbnRzLW5vbmUgZGF0YS1bZGlzYWJsZWRdOm9wYWNpdHktNTAgWyZfc3ZnXTpwb2ludGVyLWV2ZW50cy1ub25lIFsmX3N2Z106c2hyaW5rLTAgWyZfc3ZnOm5vdChbY2xhc3MqPSdzaXplLSddKV06c2l6ZS00IiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgY2hlY2tlZD17Y2hlY2tlZH0KICAgICAgey4uLnByb3BzfQogICAgPgogICAgICA8c3BhbiBjbGFzc05hbWU9InBvaW50ZXItZXZlbnRzLW5vbmUgYWJzb2x1dGUgbGVmdC0yIGZsZXggc2l6ZS0zLjUgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICA8TWVudWJhclByaW1pdGl2ZS5JdGVtSW5kaWNhdG9yPgogICAgICAgICAgPENoZWNrSWNvbiBjbGFzc05hbWU9InNpemUtNCIgLz4KICAgICAgICA8L01lbnViYXJQcmltaXRpdmUuSXRlbUluZGljYXRvcj4KICAgICAgPC9zcGFuPgogICAgICB7Y2hpbGRyZW59CiAgICA8L01lbnViYXJQcmltaXRpdmUuQ2hlY2tib3hJdGVtPgogICk7Cn0KCmZ1bmN0aW9uIE1lbnViYXJSYWRpb0l0ZW0oewogIGNsYXNzTmFtZSwKICBjaGlsZHJlbiwKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczx0eXBlb2YgTWVudWJhclByaW1pdGl2ZS5SYWRpb0l0ZW0+KSB7CiAgcmV0dXJuICgKICAgIDxNZW51YmFyUHJpbWl0aXZlLlJhZGlvSXRlbQogICAgICBkYXRhLXNsb3Q9Im1lbnViYXItcmFkaW8taXRlbSIKICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAiZm9jdXM6YmctYWNjZW50IGZvY3VzOnRleHQtYWNjZW50LWZvcmVncm91bmQgcmVsYXRpdmUgZmxleCBjdXJzb3ItZGVmYXVsdCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC14cyBweS0xLjUgcHItMiBwbC04IHRleHQtc20gb3V0bGluZS1oaWRkZW4gc2VsZWN0LW5vbmUgZGF0YS1bZGlzYWJsZWRdOnBvaW50ZXItZXZlbnRzLW5vbmUgZGF0YS1bZGlzYWJsZWRdOm9wYWNpdHktNTAgWyZfc3ZnXTpwb2ludGVyLWV2ZW50cy1ub25lIFsmX3N2Z106c2hyaW5rLTAgWyZfc3ZnOm5vdChbY2xhc3MqPSdzaXplLSddKV06c2l6ZS00IiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgPgogICAgICA8c3BhbiBjbGFzc05hbWU9InBvaW50ZXItZXZlbnRzLW5vbmUgYWJzb2x1dGUgbGVmdC0yIGZsZXggc2l6ZS0zLjUgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICA8TWVudWJhclByaW1pdGl2ZS5JdGVtSW5kaWNhdG9yPgogICAgICAgICAgPENpcmNsZUljb24gY2xhc3NOYW1lPSJzaXplLTIgZmlsbC1jdXJyZW50IiAvPgogICAgICAgIDwvTWVudWJhclByaW1pdGl2ZS5JdGVtSW5kaWNhdG9yPgogICAgICA8L3NwYW4+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvTWVudWJhclByaW1pdGl2ZS5SYWRpb0l0ZW0+CiAgKTsKfQoKZnVuY3Rpb24gTWVudWJhckxhYmVsKHsKICBjbGFzc05hbWUsCiAgaW5zZXQsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIE1lbnViYXJQcmltaXRpdmUuTGFiZWw+ICYgewogIGluc2V0PzogYm9vbGVhbjsKfSkgewogIHJldHVybiAoCiAgICA8TWVudWJhclByaW1pdGl2ZS5MYWJlbAogICAgICBkYXRhLXNsb3Q9Im1lbnViYXItbGFiZWwiCiAgICAgIGRhdGEtaW5zZXQ9e2luc2V0fQogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJweC0yIHB5LTEuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIGRhdGEtW2luc2V0XTpwbC04IiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBNZW51YmFyU2VwYXJhdG9yKHsKICBjbGFzc05hbWUsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8dHlwZW9mIE1lbnViYXJQcmltaXRpdmUuU2VwYXJhdG9yPikgewogIHJldHVybiAoCiAgICA8TWVudWJhclByaW1pdGl2ZS5TZXBhcmF0b3IKICAgICAgZGF0YS1zbG90PSJtZW51YmFyLXNlcGFyYXRvciIKICAgICAgY2xhc3NOYW1lPXtjbigiYmctYm9yZGVyIC1teC0xIG15LTEgaC1weCIsIGNsYXNzTmFtZSl9CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfQoKZnVuY3Rpb24gTWVudWJhclNob3J0Y3V0KHsKICBjbGFzc05hbWUsCiAgLi4ucHJvcHMKfTogUmVhY3QuQ29tcG9uZW50UHJvcHM8InNwYW4iPikgewogIHJldHVybiAoCiAgICA8c3BhbgogICAgICBkYXRhLXNsb3Q9Im1lbnViYXItc2hvcnRjdXQiCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgInRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtbC1hdXRvIHRleHQteHMgdHJhY2tpbmctd2lkZXN0IiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpmdW5jdGlvbiBNZW51YmFyU3ViKHsKICAuLi5wcm9wcwp9OiBSZWFjdC5Db21wb25lbnRQcm9wczx0eXBlb2YgTWVudWJhclByaW1pdGl2ZS5TdWI+KSB7CiAgcmV0dXJuIDxNZW51YmFyUHJpbWl0aXZlLlN1YiBkYXRhLXNsb3Q9Im1lbnViYXItc3ViIiB7Li4ucHJvcHN9IC8+Owp9CgpmdW5jdGlvbiBNZW51YmFyU3ViVHJpZ2dlcih7CiAgY2xhc3NOYW1lLAogIGluc2V0LAogIGNoaWxkcmVuLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBNZW51YmFyUHJpbWl0aXZlLlN1YlRyaWdnZXI+ICYgewogIGluc2V0PzogYm9vbGVhbjsKfSkgewogIHJldHVybiAoCiAgICA8TWVudWJhclByaW1pdGl2ZS5TdWJUcmlnZ2VyCiAgICAgIGRhdGEtc2xvdD0ibWVudWJhci1zdWItdHJpZ2dlciIKICAgICAgZGF0YS1pbnNldD17aW5zZXR9CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImZvY3VzOmJnLWFjY2VudCBmb2N1czp0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIGRhdGEtW3N0YXRlPW9wZW5dOmJnLWFjY2VudCBkYXRhLVtzdGF0ZT1vcGVuXTp0ZXh0LWFjY2VudC1mb3JlZ3JvdW5kIGZsZXggY3Vyc29yLWRlZmF1bHQgaXRlbXMtY2VudGVyIHJvdW5kZWQtc20gcHgtMiBweS0xLjUgdGV4dC1zbSBvdXRsaW5lLW5vbmUgc2VsZWN0LW5vbmUgZGF0YS1baW5zZXRdOnBsLTgiLAogICAgICAgIGNsYXNzTmFtZQogICAgICApfQogICAgICB7Li4ucHJvcHN9CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgICAgPENoZXZyb25SaWdodEljb24gY2xhc3NOYW1lPSJtbC1hdXRvIGgtNCB3LTQiIC8+CiAgICA8L01lbnViYXJQcmltaXRpdmUuU3ViVHJpZ2dlcj4KICApOwp9CgpmdW5jdGlvbiBNZW51YmFyU3ViQ29udGVudCh7CiAgY2xhc3NOYW1lLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBNZW51YmFyUHJpbWl0aXZlLlN1YkNvbnRlbnQ+KSB7CiAgcmV0dXJuICgKICAgIDxNZW51YmFyUHJpbWl0aXZlLlN1YkNvbnRlbnQKICAgICAgZGF0YS1zbG90PSJtZW51YmFyLXN1Yi1jb250ZW50IgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJiZy1wb3BvdmVyIHRleHQtcG9wb3Zlci1mb3JlZ3JvdW5kIGRhdGEtW3N0YXRlPW9wZW5dOmFuaW1hdGUtaW4gZGF0YS1bc3RhdGU9Y2xvc2VkXTphbmltYXRlLW91dCBkYXRhLVtzdGF0ZT1jbG9zZWRdOmZhZGUtb3V0LTAgZGF0YS1bc3RhdGU9b3Blbl06ZmFkZS1pbi0wIGRhdGEtW3N0YXRlPWNsb3NlZF06em9vbS1vdXQtOTUgZGF0YS1bc3RhdGU9b3Blbl06em9vbS1pbi05NSBkYXRhLVtzaWRlPWJvdHRvbV06c2xpZGUtaW4tZnJvbS10b3AtMiBkYXRhLVtzaWRlPWxlZnRdOnNsaWRlLWluLWZyb20tcmlnaHQtMiBkYXRhLVtzaWRlPXJpZ2h0XTpzbGlkZS1pbi1mcm9tLWxlZnQtMiBkYXRhLVtzaWRlPXRvcF06c2xpZGUtaW4tZnJvbS1ib3R0b20tMiB6LTUwIG1pbi13LVs4cmVtXSBvcmlnaW4tKC0tcmFkaXgtbWVudWJhci1jb250ZW50LXRyYW5zZm9ybS1vcmlnaW4pIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLW1kIGJvcmRlciBwLTEgc2hhZG93LWxnIiwKICAgICAgICBjbGFzc05hbWUKICAgICAgKX0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9CgpleHBvcnQgewogIE1lbnViYXIsCiAgTWVudWJhclBvcnRhbCwKICBNZW51YmFyTWVudSwKICBNZW51YmFyVHJpZ2dlciwKICBNZW51YmFyQ29udGVudCwKICBNZW51YmFyR3JvdXAsCiAgTWVudWJhclNlcGFyYXRvciwKICBNZW51YmFyTGFiZWwsCiAgTWVudWJhckl0ZW0sCiAgTWVudWJhclNob3J0Y3V0LAogIE1lbnViYXJDaGVja2JveEl0ZW0sCiAgTWVudWJhclJhZGlvR3JvdXAsCiAgTWVudWJhclJhZGlvSXRlbSwKICBNZW51YmFyU3ViLAogIE1lbnViYXJTdWJUcmlnZ2VyLAogIE1lbnViYXJTdWJDb250ZW50LAp9Owo="}
+import * as React from "react";
+import * as MenubarPrimitive from "@radix-ui/react-menubar";
+import { CheckIcon, ChevronRightIcon, CircleIcon } from "lucide-react";
+
+import { cn } from "@/lib/utils";
+
+function Menubar({
+  className,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Root>) {
+  return (
+    <MenubarPrimitive.Root
+      data-slot="menubar"
+      className={cn(
+        "bg-background flex h-9 items-center gap-1 rounded-md border p-1 shadow-xs",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function MenubarMenu({
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Menu>) {
+  return <MenubarPrimitive.Menu data-slot="menubar-menu" {...props} />;
+}
+
+function MenubarGroup({
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Group>) {
+  return <MenubarPrimitive.Group data-slot="menubar-group" {...props} />;
+}
+
+function MenubarPortal({
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Portal>) {
+  return <MenubarPrimitive.Portal data-slot="menubar-portal" {...props} />;
+}
+
+function MenubarRadioGroup({
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.RadioGroup>) {
+  return (
+    <MenubarPrimitive.RadioGroup data-slot="menubar-radio-group" {...props} />
+  );
+}
+
+function MenubarTrigger({
+  className,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Trigger>) {
+  return (
+    <MenubarPrimitive.Trigger
+      data-slot="menubar-trigger"
+      className={cn(
+        "focus:bg-accent focus:text-accent-foreground data-[state=open]:bg-accent data-[state=open]:text-accent-foreground flex items-center rounded-sm px-2 py-1 text-sm font-medium outline-hidden select-none",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function MenubarContent({
+  className,
+  align = "start",
+  alignOffset = -4,
+  sideOffset = 8,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Content>) {
+  return (
+    <MenubarPortal>
+      <MenubarPrimitive.Content
+        data-slot="menubar-content"
+        align={align}
+        alignOffset={alignOffset}
+        sideOffset={sideOffset}
+        className={cn(
+          "bg-popover text-popover-foreground data-[state=open]:animate-in data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2 z-50 min-w-[12rem] origin-(--radix-menubar-content-transform-origin) overflow-hidden rounded-md border p-1 shadow-md",
+          className
+        )}
+        {...props}
+      />
+    </MenubarPortal>
+  );
+}
+
+function MenubarItem({
+  className,
+  inset,
+  variant = "default",
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Item> & {
+  inset?: boolean;
+  variant?: "default" | "destructive";
+}) {
+  return (
+    <MenubarPrimitive.Item
+      data-slot="menubar-item"
+      data-inset={inset}
+      data-variant={variant}
+      className={cn(
+        "focus:bg-accent focus:text-accent-foreground data-[variant=destructive]:text-destructive data-[variant=destructive]:focus:bg-destructive/10 dark:data-[variant=destructive]:focus:bg-destructive/20 data-[variant=destructive]:focus:text-destructive data-[variant=destructive]:*:[svg]:!text-destructive [&_svg:not([class*='text-'])]:text-muted-foreground relative flex cursor-default items-center gap-2 rounded-sm px-2 py-1.5 text-sm outline-hidden select-none data-[disabled]:pointer-events-none data-[disabled]:opacity-50 data-[inset]:pl-8 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function MenubarCheckboxItem({
+  className,
+  children,
+  checked,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.CheckboxItem>) {
+  return (
+    <MenubarPrimitive.CheckboxItem
+      data-slot="menubar-checkbox-item"
+      className={cn(
+        "focus:bg-accent focus:text-accent-foreground relative flex cursor-default items-center gap-2 rounded-xs py-1.5 pr-2 pl-8 text-sm outline-hidden select-none data-[disabled]:pointer-events-none data-[disabled]:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+        className
+      )}
+      checked={checked}
+      {...props}
+    >
+      <span className="pointer-events-none absolute left-2 flex size-3.5 items-center justify-center">
+        <MenubarPrimitive.ItemIndicator>
+          <CheckIcon className="size-4" />
+        </MenubarPrimitive.ItemIndicator>
+      </span>
+      {children}
+    </MenubarPrimitive.CheckboxItem>
+  );
+}
+
+function MenubarRadioItem({
+  className,
+  children,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.RadioItem>) {
+  return (
+    <MenubarPrimitive.RadioItem
+      data-slot="menubar-radio-item"
+      className={cn(
+        "focus:bg-accent focus:text-accent-foreground relative flex cursor-default items-center gap-2 rounded-xs py-1.5 pr-2 pl-8 text-sm outline-hidden select-none data-[disabled]:pointer-events-none data-[disabled]:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+        className
+      )}
+      {...props}
+    >
+      <span className="pointer-events-none absolute left-2 flex size-3.5 items-center justify-center">
+        <MenubarPrimitive.ItemIndicator>
+          <CircleIcon className="size-2 fill-current" />
+        </MenubarPrimitive.ItemIndicator>
+      </span>
+      {children}
+    </MenubarPrimitive.RadioItem>
+  );
+}
+
+function MenubarLabel({
+  className,
+  inset,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Label> & {
+  inset?: boolean;
+}) {
+  return (
+    <MenubarPrimitive.Label
+      data-slot="menubar-label"
+      data-inset={inset}
+      className={cn(
+        "px-2 py-1.5 text-sm font-medium data-[inset]:pl-8",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function MenubarSeparator({
+  className,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Separator>) {
+  return (
+    <MenubarPrimitive.Separator
+      data-slot="menubar-separator"
+      className={cn("bg-border -mx-1 my-1 h-px", className)}
+      {...props}
+    />
+  );
+}
+
+function MenubarShortcut({
+  className,
+  ...props
+}: React.ComponentProps<"span">) {
+  return (
+    <span
+      data-slot="menubar-shortcut"
+      className={cn(
+        "text-muted-foreground ml-auto text-xs tracking-widest",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+function MenubarSub({
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.Sub>) {
+  return <MenubarPrimitive.Sub data-slot="menubar-sub" {...props} />;
+}
+
+function MenubarSubTrigger({
+  className,
+  inset,
+  children,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.SubTrigger> & {
+  inset?: boolean;
+}) {
+  return (
+    <MenubarPrimitive.SubTrigger
+      data-slot="menubar-sub-trigger"
+      data-inset={inset}
+      className={cn(
+        "focus:bg-accent focus:text-accent-foreground data-[state=open]:bg-accent data-[state=open]:text-accent-foreground flex cursor-default items-center rounded-sm px-2 py-1.5 text-sm outline-none select-none data-[inset]:pl-8",
+        className
+      )}
+      {...props}
+    >
+      {children}
+      <ChevronRightIcon className="ml-auto h-4 w-4" />
+    </MenubarPrimitive.SubTrigger>
+  );
+}
+
+function MenubarSubContent({
+  className,
+  ...props
+}: React.ComponentProps<typeof MenubarPrimitive.SubContent>) {
+  return (
+    <MenubarPrimitive.SubContent
+      data-slot="menubar-sub-content"
+      className={cn(
+        "bg-popover text-popover-foreground data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2 z-50 min-w-[8rem] origin-(--radix-menubar-content-transform-origin) overflow-hidden rounded-md border p-1 shadow-lg",
+        className
+      )}
+      {...props}
+    />
+  );
+}
+
+export {
+  Menubar,
+  MenubarPortal,
+  MenubarMenu,
+  MenubarTrigger,
+  MenubarContent,
+  MenubarGroup,
+  MenubarSeparator,
+  MenubarLabel,
+  MenubarItem,
+  MenubarShortcut,
+  MenubarCheckboxItem,
+  MenubarRadioGroup,
+  MenubarRadioItem,
+  MenubarSub,
+  MenubarSubTrigger,
+  MenubarSubContent,
+};

@@ -1,1 +1,107 @@
-{"data":"LyoKICogSGVybyBTY3JlZW4gLSBMYW5kaW5nIHBhZ2UgZm9yIHRoZSBBSSBSZWFkaW5lc3MgQXNzZXNzbWVudAogKiBTd2lzcyBQcmVjaXNpb246IENsZWFuIHR5cG9ncmFwaHksIGdlbmVyb3VzIHdoaXRlc3BhY2UsIHNpbmdsZSB0ZWFsIGFjY2VudAogKi8KaW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IEFycm93UmlnaHQsIENsb2NrLCBCYXJDaGFydDMsIFphcCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7Cgpjb25zdCBIRVJPX0JHID0gImh0dHBzOi8vZDJ4c3hwaDhrcHhqMGYuY2xvdWRmcm9udC5uZXQvOTExOTA1ODQvNlFlQ3B4R2tMdzJ0TEdWTExKVjdjdS9oZXJvLWJnLW1kcHpORFphZUFHcEZ1TXN5VHkzVFQud2VicCI7CgppbnRlcmZhY2UgSGVyb1NjcmVlblByb3BzIHsKICBvblN0YXJ0OiAoKSA9PiB2b2lkOwp9CgpleHBvcnQgZnVuY3Rpb24gSGVyb1NjcmVlbih7IG9uU3RhcnQgfTogSGVyb1NjcmVlblByb3BzKSB7CiAgcmV0dXJuICgKICAgIDxtb3Rpb24uZGl2CiAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCB9fQogICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEgfX0KICAgICAgZXhpdD17eyBvcGFjaXR5OiAwIH19CiAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMyB9fQogICAgICBjbGFzc05hbWU9ImZsZXgtMSBmbGV4IGZsZXgtY29sIgogICAgPgogICAgICB7LyogSGVybyBTZWN0aW9uICovfQogICAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIGZsZXgtMSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBweS0yMCBzbTpweS0yOCBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgIHsvKiBCYWNrZ3JvdW5kIGltYWdlICovfQogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBvcGFjaXR5LTQwIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgYmFja2dyb3VuZEltYWdlOiBgdXJsKCR7SEVST19CR30pYCwKICAgICAgICAgICAgYmFja2dyb3VuZFNpemU6ICJjb3ZlciIsCiAgICAgICAgICAgIGJhY2tncm91bmRQb3NpdGlvbjogImNlbnRlciIsCiAgICAgICAgICB9fQogICAgICAgIC8+CiAgICAgICAgey8qIEdyYWRpZW50IG92ZXJsYXkgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctZ3JhZGllbnQtdG8tYiBmcm9tLVsjMGEwYTBhXSB2aWEtWyMwYTBhMGFdLzYwIHRvLVsjMGEwYTBhXSIgLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIHotMTAgbWF4LXctMnhsIG14LWF1dG8gcHgtNCBzbTpweC02IHRleHQtY2VudGVyIj4KICAgICAgICAgIHsvKiBCYWRnZSAqL30KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMTAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuMSwgZHVyYXRpb246IDAuNSB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC0zIHB5LTEuNSByb3VuZGVkLWZ1bGwgYmctdGVhbC01MDAvMTAgYm9yZGVyIGJvcmRlci10ZWFsLTUwMC8yMCBtYi04IgogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xLjUgaC0xLjUgcm91bmRlZC1mdWxsIGJnLXRlYWwtNDAwIGFuaW1hdGUtcHVsc2UiIC8+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LXRlYWwtNDAwIHRyYWNraW5nLXdpZGUgdXBwZXJjYXNlIj5GcmVlIERpYWdub3N0aWMgVG9vbDwvc3Bhbj4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgICB7LyogSGVhZGluZyAqL30KICAgICAgICAgIDxtb3Rpb24uaDEKICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkZWxheTogMC4yLCBkdXJhdGlvbjogMC42IH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC00eGwgc206dGV4dC01eGwgbGc6dGV4dC02eGwgZm9udC1leHRyYWJvbGQgdGV4dC13aGl0ZSBsZWFkaW5nLVsxLjFdIHRyYWNraW5nLXRpZ2h0IG1iLTUiCiAgICAgICAgICA+CiAgICAgICAgICAgIEFJIFJlYWRpbmVzcwogICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXRlYWwtNDAwIj5Bc3Nlc3NtZW50PC9zcGFuPgogICAgICAgICAgPC9tb3Rpb24uaDE+CgogICAgICAgICAgey8qIFN1YnRpdGxlICovfQogICAgICAgICAgPG1vdGlvbi5wCiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuMywgZHVyYXRpb246IDAuNiB9fQogICAgICAgICAgICBjbGFzc05hbWU9InRleHQtYmFzZSBzbTp0ZXh0LWxnIHRleHQtZ3JheS00MDAgbWF4LXctbGcgbXgtYXV0byBtYi0xMCBsZWFkaW5nLXJlbGF4ZWQiCiAgICAgICAgICA+CiAgICAgICAgICAgIERpc2NvdmVyIHlvdXIgQUkgaW1wbGVtZW50YXRpb24gc2NvcmUgaW4gMyBtaW51dGVzLiBHZXQgYSBwZXJzb25hbGl6ZWQgcmVwb3J0IHdpdGggcmV2ZW51ZSBvcHBvcnR1bml0aWVzIGFuZCBhIDkwLWRheSByb2FkbWFwLgogICAgICAgICAgPC9tb3Rpb24ucD4KCiAgICAgICAgICB7LyogQ1RBIEJ1dHRvbiAqL30KICAgICAgICAgIDxtb3Rpb24uYnV0dG9uCiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuNCwgZHVyYXRpb246IDAuNiB9fQogICAgICAgICAgICBvbkNsaWNrPXtvblN0YXJ0fQogICAgICAgICAgICBjbGFzc05hbWU9Imdyb3VwIGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMi41IHB4LTcgcHktMy41IGJnLXRlYWwtNTAwIGhvdmVyOmJnLXRlYWwtNDAwIHRleHQtWyMwYTBhMGFdIGZvbnQtc2VtaWJvbGQgdGV4dC1zbSByb3VuZGVkLWxnIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCBzaGFkb3ctbGcgc2hhZG93LXRlYWwtNTAwLzIwIGhvdmVyOnNoYWRvdy10ZWFsLTQwMC8zMCIKICAgICAgICAgID4KICAgICAgICAgICAgU3RhcnQgWW91ciBBc3Nlc3NtZW50CiAgICAgICAgICAgIDxBcnJvd1JpZ2h0IGNsYXNzTmFtZT0idy00IGgtNCBncm91cC1ob3Zlcjp0cmFuc2xhdGUteC0wLjUgdHJhbnNpdGlvbi10cmFuc2Zvcm0iIC8+CiAgICAgICAgICA8L21vdGlvbi5idXR0b24+CgogICAgICAgICAgey8qIFRydXN0IGluZGljYXRvcnMgKi99CiAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuNiwgZHVyYXRpb246IDAuNiB9fQogICAgICAgICAgICBjbGFzc05hbWU9Im10LTEyIGZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC02IHNtOmdhcC04IgogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1ncmF5LTUwMCI+CiAgICAgICAgICAgICAgPENsb2NrIGNsYXNzTmFtZT0idy0zLjUgaC0zLjUgdGV4dC10ZWFsLTUwMC82MCIgLz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMiPjMgbWludXRlczwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LWdyYXktNTAwIj4KICAgICAgICAgICAgICA8QmFyQ2hhcnQzIGNsYXNzTmFtZT0idy0zLjUgaC0zLjUgdGV4dC10ZWFsLTUwMC82MCIgLz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMiPlBlcnNvbmFsaXplZCByZXBvcnQ8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1ncmF5LTUwMCI+CiAgICAgICAgICAgICAgPFphcCBjbGFzc05hbWU9InctMy41IGgtMy41IHRleHQtdGVhbC01MDAvNjAiIC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIj5BY3Rpb25hYmxlIGluc2lnaHRzPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgogICAgPC9tb3Rpb24uZGl2PgogICk7Cn0K"}
+/*
+ * Hero Screen - Landing page for the AI Readiness Assessment
+ * Swiss Precision: Clean typography, generous whitespace, single teal accent
+ */
+import { motion } from "framer-motion";
+import { ArrowRight, Clock, BarChart3, Zap } from "lucide-react";
+
+const HERO_BG = "https://d2xsxph8kpxj0f.cloudfront.net/91190584/6QeCpxGkLw2tLGVLLJV7cu/hero-bg-mdpzNDZaeAGpFuMsyTy3TT.webp";
+
+interface HeroScreenProps {
+  onStart: () => void;
+}
+
+export function HeroScreen({ onStart }: HeroScreenProps) {
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.3 }}
+      className="flex-1 flex flex-col"
+    >
+      {/* Hero Section */}
+      <section className="relative flex-1 flex items-center justify-center py-20 sm:py-28 overflow-hidden">
+        {/* Background image */}
+        <div
+          className="absolute inset-0 opacity-40"
+          style={{
+            backgroundImage: `url(${HERO_BG})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}
+        />
+        {/* Gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a] via-[#0a0a0a]/60 to-[#0a0a0a]" />
+
+        <div className="relative z-10 max-w-2xl mx-auto px-4 sm:px-6 text-center">
+          {/* Badge */}
+          <motion.div
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.1, duration: 0.5 }}
+            className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-teal-500/10 border border-teal-500/20 mb-8"
+          >
+            <div className="w-1.5 h-1.5 rounded-full bg-teal-400 animate-pulse" />
+            <span className="text-xs font-medium text-teal-400 tracking-wide uppercase">Free Diagnostic Tool</span>
+          </motion.div>
+
+          {/* Heading */}
+          <motion.h1
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2, duration: 0.6 }}
+            className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white leading-[1.1] tracking-tight mb-5"
+          >
+            AI Readiness
+            <br />
+            <span className="text-teal-400">Assessment</span>
+          </motion.h1>
+
+          {/* Subtitle */}
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3, duration: 0.6 }}
+            className="text-base sm:text-lg text-gray-400 max-w-lg mx-auto mb-10 leading-relaxed"
+          >
+            Discover your AI implementation score in 3 minutes. Get a personalized report with revenue opportunities and a 90-day roadmap.
+          </motion.p>
+
+          {/* CTA Button */}
+          <motion.button
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.4, duration: 0.6 }}
+            onClick={onStart}
+            className="group inline-flex items-center gap-2.5 px-7 py-3.5 bg-teal-500 hover:bg-teal-400 text-[#0a0a0a] font-semibold text-sm rounded-lg transition-all duration-200 shadow-lg shadow-teal-500/20 hover:shadow-teal-400/30"
+          >
+            Start Your Assessment
+            <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
+          </motion.button>
+
+          {/* Trust indicators */}
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.6, duration: 0.6 }}
+            className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-8"
+          >
+            <div className="flex items-center gap-2 text-gray-500">
+              <Clock className="w-3.5 h-3.5 text-teal-500/60" />
+              <span className="text-xs">3 minutes</span>
+            </div>
+            <div className="flex items-center gap-2 text-gray-500">
+              <BarChart3 className="w-3.5 h-3.5 text-teal-500/60" />
+              <span className="text-xs">Personalized report</span>
+            </div>
+            <div className="flex items-center gap-2 text-gray-500">
+              <Zap className="w-3.5 h-3.5 text-teal-500/60" />
+              <span className="text-xs">Actionable insights</span>
+            </div>
+          </motion.div>
+        </div>
+      </section>
+    </motion.div>
+  );
+}

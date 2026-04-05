@@ -1,1 +1,155 @@
-{"data":"LyoqCiAqIEdPT0dMRSBNQVBTIEZST05URU5EIElOVEVHUkFUSU9OIC0gRVNTRU5USUFMIEdVSURFCiAqCiAqIFVTQUdFIEZST00gUEFSRU5UIENPTVBPTkVOVDoKICogPT09PT09CiAqCiAqIGNvbnN0IG1hcFJlZiA9IHVzZVJlZjxnb29nbGUubWFwcy5NYXAgfCBudWxsPihudWxsKTsKICoKICogPE1hcFZpZXcKICogICBpbml0aWFsQ2VudGVyPXt7IGxhdDogNDAuNzEyOCwgbG5nOiAtNzQuMDA2MCB9fQogKiAgIGluaXRpYWxab29tPXsxNX0KICogICBvbk1hcFJlYWR5PXsobWFwKSA9PiB7CiAqICAgICBtYXBSZWYuY3VycmVudCA9IG1hcDsgLy8gU3RvcmUgdG8gY29udHJvbCBtYXAgZnJvbSBwYXJlbnQgYW55dGltZSwgZ29vZ2xlIG1hcCBpdHNlbGYgaXMgaW4gY2hhcmdlIG9mIHRoZSByZS1yZW5kZXJpbmcsIG5vdCByZWFjdCBzdGF0ZS4KICogPC9NYXBWaWV3PgogKgogKiA9PT09PT0KICogQXZhaWxhYmxlIExpYnJhcmllcyBhbmQgQ29yZSBGZWF0dXJlczoKICogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiDwn5ONIE1BUktFUiAoZnJvbSBgbWFya2VyYCBsaWJyYXJ5KQogKiAtIEF0dGFjaGVzIHRvIG1hcCB1c2luZyB7IG1hcCwgcG9zaXRpb24gfQogKiBuZXcgZ29vZ2xlLm1hcHMubWFya2VyLkFkdmFuY2VkTWFya2VyRWxlbWVudCh7CiAqICAgbWFwLAogKiAgIHBvc2l0aW9uOiB7IGxhdDogMzcuNzc0OSwgbG5nOiAtMTIyLjQxOTQgfSwKICogICB0aXRsZTogIlNhbiBGcmFuY2lzY28iLAogKiB9KTsKICoKICogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiDwn4+iIFBMQUNFUyAoZnJvbSBgcGxhY2VzYCBsaWJyYXJ5KQogKiAtIERvZXMgbm90IGF0dGFjaCBkaXJlY3RseSB0byBtYXA7IHVzZSBkYXRhIHdpdGggeW91ciBtYXAgbWFudWFsbHkuCiAqIGNvbnN0IHBsYWNlID0gbmV3IGdvb2dsZS5tYXBzLnBsYWNlcy5QbGFjZSh7IGlkOiBQTEFDRV9JRCB9KTsKICogYXdhaXQgcGxhY2UuZmV0Y2hGaWVsZHMoeyBmaWVsZHM6IFsiZGlzcGxheU5hbWUiLCAibG9jYXRpb24iXSB9KTsKICogbWFwLnNldENlbnRlcihwbGFjZS5sb2NhdGlvbik7CiAqIG5ldyBnb29nbGUubWFwcy5tYXJrZXIuQWR2YW5jZWRNYXJrZXJFbGVtZW50KHsgbWFwLCBwb3NpdGlvbjogcGxhY2UubG9jYXRpb24gfSk7CiAqCiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICog8J+nrSBHRU9DT0RFUiAoZnJvbSBgZ2VvY29kaW5nYCBsaWJyYXJ5KQogKiAtIFN0YW5kYWxvbmUgc2VydmljZTsgbWFudWFsbHkgYXBwbHkgcmVzdWx0cyB0byBtYXAuCiAqIGNvbnN0IGdlb2NvZGVyID0gbmV3IGdvb2dsZS5tYXBzLkdlb2NvZGVyKCk7CiAqIGdlb2NvZGVyLmdlb2NvZGUoeyBhZGRyZXNzOiAiTmV3IFlvcmsiIH0sIChyZXN1bHRzLCBzdGF0dXMpID0+IHsKICogICBpZiAoc3RhdHVzID09PSAiT0siICYmIHJlc3VsdHNbMF0pIHsKICogICAgIG1hcC5zZXRDZW50ZXIocmVzdWx0c1swXS5nZW9tZXRyeS5sb2NhdGlvbik7CiAqICAgICBuZXcgZ29vZ2xlLm1hcHMubWFya2VyLkFkdmFuY2VkTWFya2VyRWxlbWVudCh7CiAqICAgICAgIG1hcCwKICogICAgICAgcG9zaXRpb246IHJlc3VsdHNbMF0uZ2VvbWV0cnkubG9jYXRpb24sCiAqICAgICB9KTsKICogICB9CiAqIH0pOwogKgogKiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAqIPCfk5AgR0VPTUVUUlkgKGZyb20gYGdlb21ldHJ5YCBsaWJyYXJ5KQogKiAtIFB1cmUgdXRpbGl0eSBmdW5jdGlvbnM7IG5vdCBhdHRhY2hlZCB0byBtYXAuCiAqIGNvbnN0IGRpc3QgPSBnb29nbGUubWFwcy5nZW9tZXRyeS5zcGhlcmljYWwuY29tcHV0ZURpc3RhbmNlQmV0d2VlbihwMSwgcDIpOwogKgogKiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAqIPCfm6PvuI8gUk9VVEVTIChmcm9tIGByb3V0ZXNgIGxpYnJhcnkpCiAqIC0gQ29tYmluZXMgRGlyZWN0aW9uc1NlcnZpY2UgKHN0YW5kYWxvbmUpICsgRGlyZWN0aW9uc1JlbmRlcmVyIChtYXAtYXR0YWNoZWQpCiAqIGNvbnN0IGRpcmVjdGlvbnNTZXJ2aWNlID0gbmV3IGdvb2dsZS5tYXBzLkRpcmVjdGlvbnNTZXJ2aWNlKCk7CiAqIGNvbnN0IGRpcmVjdGlvbnNSZW5kZXJlciA9IG5ldyBnb29nbGUubWFwcy5EaXJlY3Rpb25zUmVuZGVyZXIoeyBtYXAgfSk7CiAqIGRpcmVjdGlvbnNTZXJ2aWNlLnJvdXRlKAogKiAgIHsgb3JpZ2luLCBkZXN0aW5hdGlvbiwgdHJhdmVsTW9kZTogIkRSSVZJTkciIH0sCiAqICAgKHJlcywgc3RhdHVzKSA9PiBzdGF0dXMgPT09ICJPSyIgJiYgZGlyZWN0aW9uc1JlbmRlcmVyLnNldERpcmVjdGlvbnMocmVzKQogKiApOwogKgogKiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAqIPCfjKbvuI8gTUFQIExBWUVSUyAoYXR0YWNoIGRpcmVjdGx5IHRvIG1hcCkKICogLSBuZXcgZ29vZ2xlLm1hcHMuVHJhZmZpY0xheWVyKCkuc2V0TWFwKG1hcCk7CiAqIC0gbmV3IGdvb2dsZS5tYXBzLlRyYW5zaXRMYXllcigpLnNldE1hcChtYXApOwogKiAtIG5ldyBnb29nbGUubWFwcy5CaWN5Y2xpbmdMYXllcigpLnNldE1hcChtYXApOwogKgogKiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAqIOKchSBTVU1NQVJZCiAqIC0g4oCcbWFwLWF0dGFjaGVk4oCdIOKGkiBBZHZhbmNlZE1hcmtlckVsZW1lbnQsIERpcmVjdGlvbnNSZW5kZXJlciwgTGF5ZXJzLgogKiAtIOKAnHN0YW5kYWxvbmXigJ0g4oaSIEdlb2NvZGVyLCBEaXJlY3Rpb25zU2VydmljZSwgRGlzdGFuY2VNYXRyaXhTZXJ2aWNlLCBFbGV2YXRpb25TZXJ2aWNlLgogKiAtIOKAnGRhdGEtb25seeKAnSDihpIgUGxhY2UsIEdlb21ldHJ5IHV0aWxpdGllcy4KICovCgovLy8gPHJlZmVyZW5jZSB0eXBlcz0iQHR5cGVzL2dvb2dsZS5tYXBzIiAvPgoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVBlcnNpc3RGbiB9IGZyb20gIkAvaG9va3MvdXNlUGVyc2lzdEZuIjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgpkZWNsYXJlIGdsb2JhbCB7CiAgaW50ZXJmYWNlIFdpbmRvdyB7CiAgICBnb29nbGU/OiB0eXBlb2YgZ29vZ2xlOwogIH0KfQoKY29uc3QgQVBJX0tFWSA9IGltcG9ydC5tZXRhLmVudi5WSVRFX0ZST05URU5EX0ZPUkdFX0FQSV9LRVk7CmNvbnN0IEZPUkdFX0JBU0VfVVJMID0KICBpbXBvcnQubWV0YS5lbnYuVklURV9GUk9OVEVORF9GT1JHRV9BUElfVVJMIHx8CiAgImh0dHBzOi8vZm9yZ2UuYnV0dGVyZmx5LWVmZmVjdC5kZXYiOwpjb25zdCBNQVBTX1BST1hZX1VSTCA9IGAke0ZPUkdFX0JBU0VfVVJMfS92MS9tYXBzL3Byb3h5YDsKCmZ1bmN0aW9uIGxvYWRNYXBTY3JpcHQoKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgY29uc3Qgc2NyaXB0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7CiAgICBzY3JpcHQuc3JjID0gYCR7TUFQU19QUk9YWV9VUkx9L21hcHMvYXBpL2pzP2tleT0ke0FQSV9LRVl9JnY9d2Vla2x5JmxpYnJhcmllcz1tYXJrZXIscGxhY2VzLGdlb2NvZGluZyxnZW9tZXRyeWA7CiAgICBzY3JpcHQuYXN5bmMgPSB0cnVlOwogICAgc2NyaXB0LmNyb3NzT3JpZ2luID0gImFub255bW91cyI7CiAgICBzY3JpcHQub25sb2FkID0gKCkgPT4gewogICAgICByZXNvbHZlKG51bGwpOwogICAgICBzY3JpcHQucmVtb3ZlKCk7IC8vIENsZWFuIHVwIGltbWVkaWF0ZWx5CiAgICB9OwogICAgc2NyaXB0Lm9uZXJyb3IgPSAoKSA9PiB7CiAgICAgIGNvbnNvbGUuZXJyb3IoIkZhaWxlZCB0byBsb2FkIEdvb2dsZSBNYXBzIHNjcmlwdCIpOwogICAgfTsKICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQoc2NyaXB0KTsKICB9KTsKfQoKaW50ZXJmYWNlIE1hcFZpZXdQcm9wcyB7CiAgY2xhc3NOYW1lPzogc3RyaW5nOwogIGluaXRpYWxDZW50ZXI/OiBnb29nbGUubWFwcy5MYXRMbmdMaXRlcmFsOwogIGluaXRpYWxab29tPzogbnVtYmVyOwogIG9uTWFwUmVhZHk/OiAobWFwOiBnb29nbGUubWFwcy5NYXApID0+IHZvaWQ7Cn0KCmV4cG9ydCBmdW5jdGlvbiBNYXBWaWV3KHsKICBjbGFzc05hbWUsCiAgaW5pdGlhbENlbnRlciA9IHsgbGF0OiAzNy43NzQ5LCBsbmc6IC0xMjIuNDE5NCB9LAogIGluaXRpYWxab29tID0gMTIsCiAgb25NYXBSZWFkeSwKfTogTWFwVmlld1Byb3BzKSB7CiAgY29uc3QgbWFwQ29udGFpbmVyID0gdXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKICBjb25zdCBtYXAgPSB1c2VSZWY8Z29vZ2xlLm1hcHMuTWFwIHwgbnVsbD4obnVsbCk7CgogIGNvbnN0IGluaXQgPSB1c2VQZXJzaXN0Rm4oYXN5bmMgKCkgPT4gewogICAgYXdhaXQgbG9hZE1hcFNjcmlwdCgpOwogICAgaWYgKCFtYXBDb250YWluZXIuY3VycmVudCkgewogICAgICBjb25zb2xlLmVycm9yKCJNYXAgY29udGFpbmVyIG5vdCBmb3VuZCIpOwogICAgICByZXR1cm47CiAgICB9CiAgICBtYXAuY3VycmVudCA9IG5ldyB3aW5kb3cuZ29vZ2xlLm1hcHMuTWFwKG1hcENvbnRhaW5lci5jdXJyZW50LCB7CiAgICAgIHpvb206IGluaXRpYWxab29tLAogICAgICBjZW50ZXI6IGluaXRpYWxDZW50ZXIsCiAgICAgIG1hcFR5cGVDb250cm9sOiB0cnVlLAogICAgICBmdWxsc2NyZWVuQ29udHJvbDogdHJ1ZSwKICAgICAgem9vbUNvbnRyb2w6IHRydWUsCiAgICAgIHN0cmVldFZpZXdDb250cm9sOiB0cnVlLAogICAgICBtYXBJZDogIkRFTU9fTUFQX0lEIiwKICAgIH0pOwogICAgaWYgKG9uTWFwUmVhZHkpIHsKICAgICAgb25NYXBSZWFkeShtYXAuY3VycmVudCk7CiAgICB9CiAgfSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpbml0KCk7CiAgfSwgW2luaXRdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgcmVmPXttYXBDb250YWluZXJ9IGNsYXNzTmFtZT17Y24oInctZnVsbCBoLVs1MDBweF0iLCBjbGFzc05hbWUpfSAvPgogICk7Cn0K"}
+/**
+ * GOOGLE MAPS FRONTEND INTEGRATION - ESSENTIAL GUIDE
+ *
+ * USAGE FROM PARENT COMPONENT:
+ * ======
+ *
+ * const mapRef = useRef<google.maps.Map | null>(null);
+ *
+ * <MapView
+ *   initialCenter={{ lat: 40.7128, lng: -74.0060 }}
+ *   initialZoom={15}
+ *   onMapReady={(map) => {
+ *     mapRef.current = map; // Store to control map from parent anytime, google map itself is in charge of the re-rendering, not react state.
+ * </MapView>
+ *
+ * ======
+ * Available Libraries and Core Features:
+ * -------------------------------
+ * 📍 MARKER (from `marker` library)
+ * - Attaches to map using { map, position }
+ * new google.maps.marker.AdvancedMarkerElement({
+ *   map,
+ *   position: { lat: 37.7749, lng: -122.4194 },
+ *   title: "San Francisco",
+ * });
+ *
+ * -------------------------------
+ * 🏢 PLACES (from `places` library)
+ * - Does not attach directly to map; use data with your map manually.
+ * const place = new google.maps.places.Place({ id: PLACE_ID });
+ * await place.fetchFields({ fields: ["displayName", "location"] });
+ * map.setCenter(place.location);
+ * new google.maps.marker.AdvancedMarkerElement({ map, position: place.location });
+ *
+ * -------------------------------
+ * 🧭 GEOCODER (from `geocoding` library)
+ * - Standalone service; manually apply results to map.
+ * const geocoder = new google.maps.Geocoder();
+ * geocoder.geocode({ address: "New York" }, (results, status) => {
+ *   if (status === "OK" && results[0]) {
+ *     map.setCenter(results[0].geometry.location);
+ *     new google.maps.marker.AdvancedMarkerElement({
+ *       map,
+ *       position: results[0].geometry.location,
+ *     });
+ *   }
+ * });
+ *
+ * -------------------------------
+ * 📐 GEOMETRY (from `geometry` library)
+ * - Pure utility functions; not attached to map.
+ * const dist = google.maps.geometry.spherical.computeDistanceBetween(p1, p2);
+ *
+ * -------------------------------
+ * 🛣️ ROUTES (from `routes` library)
+ * - Combines DirectionsService (standalone) + DirectionsRenderer (map-attached)
+ * const directionsService = new google.maps.DirectionsService();
+ * const directionsRenderer = new google.maps.DirectionsRenderer({ map });
+ * directionsService.route(
+ *   { origin, destination, travelMode: "DRIVING" },
+ *   (res, status) => status === "OK" && directionsRenderer.setDirections(res)
+ * );
+ *
+ * -------------------------------
+ * 🌦️ MAP LAYERS (attach directly to map)
+ * - new google.maps.TrafficLayer().setMap(map);
+ * - new google.maps.TransitLayer().setMap(map);
+ * - new google.maps.BicyclingLayer().setMap(map);
+ *
+ * -------------------------------
+ * ✅ SUMMARY
+ * - “map-attached” → AdvancedMarkerElement, DirectionsRenderer, Layers.
+ * - “standalone” → Geocoder, DirectionsService, DistanceMatrixService, ElevationService.
+ * - “data-only” → Place, Geometry utilities.
+ */
+
+/// <reference types="@types/google.maps" />
+
+import { useEffect, useRef } from "react";
+import { usePersistFn } from "@/hooks/usePersistFn";
+import { cn } from "@/lib/utils";
+
+declare global {
+  interface Window {
+    google?: typeof google;
+  }
+}
+
+const API_KEY = import.meta.env.VITE_FRONTEND_FORGE_API_KEY;
+const FORGE_BASE_URL =
+  import.meta.env.VITE_FRONTEND_FORGE_API_URL ||
+  "https://forge.butterfly-effect.dev";
+const MAPS_PROXY_URL = `${FORGE_BASE_URL}/v1/maps/proxy`;
+
+function loadMapScript() {
+  return new Promise(resolve => {
+    const script = document.createElement("script");
+    script.src = `${MAPS_PROXY_URL}/maps/api/js?key=${API_KEY}&v=weekly&libraries=marker,places,geocoding,geometry`;
+    script.async = true;
+    script.crossOrigin = "anonymous";
+    script.onload = () => {
+      resolve(null);
+      script.remove(); // Clean up immediately
+    };
+    script.onerror = () => {
+      console.error("Failed to load Google Maps script");
+    };
+    document.head.appendChild(script);
+  });
+}
+
+interface MapViewProps {
+  className?: string;
+  initialCenter?: google.maps.LatLngLiteral;
+  initialZoom?: number;
+  onMapReady?: (map: google.maps.Map) => void;
+}
+
+export function MapView({
+  className,
+  initialCenter = { lat: 37.7749, lng: -122.4194 },
+  initialZoom = 12,
+  onMapReady,
+}: MapViewProps) {
+  const mapContainer = useRef<HTMLDivElement>(null);
+  const map = useRef<google.maps.Map | null>(null);
+
+  const init = usePersistFn(async () => {
+    await loadMapScript();
+    if (!mapContainer.current) {
+      console.error("Map container not found");
+      return;
+    }
+    map.current = new window.google.maps.Map(mapContainer.current, {
+      zoom: initialZoom,
+      center: initialCenter,
+      mapTypeControl: true,
+      fullscreenControl: true,
+      zoomControl: true,
+      streetViewControl: true,
+      mapId: "DEMO_MAP_ID",
+    });
+    if (onMapReady) {
+      onMapReady(map.current);
+    }
+  });
+
+  useEffect(() => {
+    init();
+  }, [init]);
+
+  return (
+    <div ref={mapContainer} className={cn("w-full h-[500px]", className)} />
+  );
+}

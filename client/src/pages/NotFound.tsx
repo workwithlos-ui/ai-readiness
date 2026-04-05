@@ -1,1 +1,49 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBBbGVydENpcmNsZSwgSG9tZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IHVzZUxvY2F0aW9uIH0gZnJvbSAid291dGVyIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE5vdEZvdW5kKCkgewogIGNvbnN0IFssIHNldExvY2F0aW9uXSA9IHVzZUxvY2F0aW9uKCk7CgogIGNvbnN0IGhhbmRsZUdvSG9tZSA9ICgpID0+IHsKICAgIHNldExvY2F0aW9uKCIvIik7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gdy1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGJnLWdyYWRpZW50LXRvLWJyIGZyb20tc2xhdGUtNTAgdG8tc2xhdGUtMTAwIj4KICAgICAgPENhcmQgY2xhc3NOYW1lPSJ3LWZ1bGwgbWF4LXctbGcgbXgtNCBzaGFkb3ctbGcgYm9yZGVyLTAgYmctd2hpdGUvODAgYmFja2Ryb3AtYmx1ci1zbSI+CiAgICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0icHQtOCBwYi04IHRleHQtY2VudGVyIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktY2VudGVyIG1iLTYiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLXJlZC0xMDAgcm91bmRlZC1mdWxsIGFuaW1hdGUtcHVsc2UiIC8+CiAgICAgICAgICAgICAgPEFsZXJ0Q2lyY2xlIGNsYXNzTmFtZT0icmVsYXRpdmUgaC0xNiB3LTE2IHRleHQtcmVkLTUwMCIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTR4bCBmb250LWJvbGQgdGV4dC1zbGF0ZS05MDAgbWItMiI+NDA0PC9oMT4KCiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgdGV4dC1zbGF0ZS03MDAgbWItNCI+CiAgICAgICAgICAgIFBhZ2UgTm90IEZvdW5kCiAgICAgICAgICA8L2gyPgoKICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbGF0ZS02MDAgbWItOCBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICBTb3JyeSwgdGhlIHBhZ2UgeW91IGFyZSBsb29raW5nIGZvciBkb2Vzbid0IGV4aXN0LgogICAgICAgICAgICA8YnIgLz4KICAgICAgICAgICAgSXQgbWF5IGhhdmUgYmVlbiBtb3ZlZCBvciBkZWxldGVkLgogICAgICAgICAgPC9wPgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIHNtOmZsZXgtcm93IGdhcC0zIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZUdvSG9tZX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImJnLWJsdWUtNjAwIGhvdmVyOmJnLWJsdWUtNzAwIHRleHQtd2hpdGUgcHgtNiBweS0yLjUgcm91bmRlZC1sZyB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0yMDAgc2hhZG93LW1kIGhvdmVyOnNoYWRvdy1sZyIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxIb21lIGNsYXNzTmFtZT0idy00IGgtNCBtci0yIiAvPgogICAgICAgICAgICAgIEdvIEhvbWUKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICA8L0NhcmQ+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { AlertCircle, Home } from "lucide-react";
+import { useLocation } from "wouter";
+
+export default function NotFound() {
+  const [, setLocation] = useLocation();
+
+  const handleGoHome = () => {
+    setLocation("/");
+  };
+
+  return (
+    <div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-br from-slate-50 to-slate-100">
+      <Card className="w-full max-w-lg mx-4 shadow-lg border-0 bg-white/80 backdrop-blur-sm">
+        <CardContent className="pt-8 pb-8 text-center">
+          <div className="flex justify-center mb-6">
+            <div className="relative">
+              <div className="absolute inset-0 bg-red-100 rounded-full animate-pulse" />
+              <AlertCircle className="relative h-16 w-16 text-red-500" />
+            </div>
+          </div>
+
+          <h1 className="text-4xl font-bold text-slate-900 mb-2">404</h1>
+
+          <h2 className="text-xl font-semibold text-slate-700 mb-4">
+            Page Not Found
+          </h2>
+
+          <p className="text-slate-600 mb-8 leading-relaxed">
+            Sorry, the page you are looking for doesn't exist.
+            <br />
+            It may have been moved or deleted.
+          </p>
+
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
+            <Button
+              onClick={handleGoHome}
+              className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 rounded-lg transition-all duration-200 shadow-md hover:shadow-lg"
+            >
+              <Home className="w-4 h-4 mr-2" />
+              Go Home
+            </Button>
+          </div>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}

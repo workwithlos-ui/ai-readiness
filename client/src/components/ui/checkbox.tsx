@@ -1,1 +1,30 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgKiBhcyBDaGVja2JveFByaW1pdGl2ZSBmcm9tICJAcmFkaXgtdWkvcmVhY3QtY2hlY2tib3giOwppbXBvcnQgeyBDaGVja0ljb24gfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgpmdW5jdGlvbiBDaGVja2JveCh7CiAgY2xhc3NOYW1lLAogIC4uLnByb3BzCn06IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBDaGVja2JveFByaW1pdGl2ZS5Sb290PikgewogIHJldHVybiAoCiAgICA8Q2hlY2tib3hQcmltaXRpdmUuUm9vdAogICAgICBkYXRhLXNsb3Q9ImNoZWNrYm94IgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJwZWVyIGJvcmRlci1pbnB1dCBkYXJrOmJnLWlucHV0LzMwIGRhdGEtW3N0YXRlPWNoZWNrZWRdOmJnLXByaW1hcnkgZGF0YS1bc3RhdGU9Y2hlY2tlZF06dGV4dC1wcmltYXJ5LWZvcmVncm91bmQgZGFyazpkYXRhLVtzdGF0ZT1jaGVja2VkXTpiZy1wcmltYXJ5IGRhdGEtW3N0YXRlPWNoZWNrZWRdOmJvcmRlci1wcmltYXJ5IGZvY3VzLXZpc2libGU6Ym9yZGVyLXJpbmcgZm9jdXMtdmlzaWJsZTpyaW5nLXJpbmcvNTAgYXJpYS1pbnZhbGlkOnJpbmctZGVzdHJ1Y3RpdmUvMjAgZGFyazphcmlhLWludmFsaWQ6cmluZy1kZXN0cnVjdGl2ZS80MCBhcmlhLWludmFsaWQ6Ym9yZGVyLWRlc3RydWN0aXZlIHNpemUtNCBzaHJpbmstMCByb3VuZGVkLVs0cHhdIGJvcmRlciBzaGFkb3cteHMgdHJhbnNpdGlvbi1zaGFkb3cgb3V0bGluZS1ub25lIGZvY3VzLXZpc2libGU6cmluZy1bM3B4XSBkaXNhYmxlZDpjdXJzb3Itbm90LWFsbG93ZWQgZGlzYWJsZWQ6b3BhY2l0eS01MCIsCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICAgIHsuLi5wcm9wc30KICAgID4KICAgICAgPENoZWNrYm94UHJpbWl0aXZlLkluZGljYXRvcgogICAgICAgIGRhdGEtc2xvdD0iY2hlY2tib3gtaW5kaWNhdG9yIgogICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdGV4dC1jdXJyZW50IHRyYW5zaXRpb24tbm9uZSIKICAgICAgPgogICAgICAgIDxDaGVja0ljb24gY2xhc3NOYW1lPSJzaXplLTMuNSIgLz4KICAgICAgPC9DaGVja2JveFByaW1pdGl2ZS5JbmRpY2F0b3I+CiAgICA8L0NoZWNrYm94UHJpbWl0aXZlLlJvb3Q+CiAgKTsKfQoKZXhwb3J0IHsgQ2hlY2tib3ggfTsK"}
+import * as React from "react";
+import * as CheckboxPrimitive from "@radix-ui/react-checkbox";
+import { CheckIcon } from "lucide-react";
+
+import { cn } from "@/lib/utils";
+
+function Checkbox({
+  className,
+  ...props
+}: React.ComponentProps<typeof CheckboxPrimitive.Root>) {
+  return (
+    <CheckboxPrimitive.Root
+      data-slot="checkbox"
+      className={cn(
+        "peer border-input dark:bg-input/30 data-[state=checked]:bg-primary data-[state=checked]:text-primary-foreground dark:data-[state=checked]:bg-primary data-[state=checked]:border-primary focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive size-4 shrink-0 rounded-[4px] border shadow-xs transition-shadow outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+        className
+      )}
+      {...props}
+    >
+      <CheckboxPrimitive.Indicator
+        data-slot="checkbox-indicator"
+        className="flex items-center justify-center text-current transition-none"
+      >
+        <CheckIcon className="size-3.5" />
+      </CheckboxPrimitive.Indicator>
+    </CheckboxPrimitive.Root>
+  );
+}
+
+export { Checkbox };
